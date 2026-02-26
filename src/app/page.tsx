@@ -456,7 +456,9 @@ function ContactSection() {
               <Mail className="h-6 w-6 flex-shrink-0 text-secondary" />
               <div>
                 <h3 className="font-semibold text-primary">Email</h3>
-                <p className="text-muted-foreground">Available upon request</p>
+                <a href="mailto:thplumbing13@yahoo.net" className="text-lg font-bold text-secondary hover:underline">
+                  thplumbing13@yahoo.net
+                </a>
               </div>
             </div>
           </div>
@@ -583,6 +585,11 @@ function Footer() {
               <p>
                 <a href="tel:610-746-2206" className="hover:text-secondary">
                   📞 610-746-2206
+                </a>
+              </p>
+              <p>
+                <a href="mailto:thplumbing13@yahoo.net" className="hover:text-secondary">
+                  📧 thplumbing13@yahoo.net
                 </a>
               </p>
               <p>Lehigh Valley & Surrounding Areas</p>
