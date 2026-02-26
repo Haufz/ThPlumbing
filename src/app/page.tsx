@@ -148,7 +148,7 @@ function AboutSection() {
           {/* Image */}
           <div className="relative h-96 w-full overflow-hidden rounded-xl shadow-lg lg:h-full">
             <Image
-              src="/images/generated/tim-harris-plumber-portrait.png"
+              src="/images/uploads/70317a55-3894-482d-8031-6cf675153dbb.jpg"
               alt="Timothy Hauff - Master Plumber"
               fill
               className="object-cover"
@@ -242,12 +242,12 @@ function CredentialsSection() {
 function ServicesSection() {
   const services = [
     {
-      title: 'Emergency Repairs',
-      description: 'Available 24/7 for urgent plumbing issues',
+      title: 'Fast Turnaround Repairs',
+      description: 'Quick response to get your plumbing issues fixed fast',
       icon: (
         <Image
           src="/images/generated/icon-emergency-wrench.png"
-          alt="Emergency repairs"
+          alt="Fast repairs"
           width={48}
           height={48}
           className="h-12 w-12"
@@ -547,7 +547,7 @@ function ContactSection() {
                     className="mt-1 w-full rounded-lg border border-border px-4 py-2 text-foreground focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20"
                   >
                     <option value="">Select a service...</option>
-                    <option value="emergency">Emergency Repairs</option>
+                    <option value="fast-repair">Fast Turnaround Repairs</option>
                     <option value="pipe">Pipe Installation</option>
                     <option value="drain">Drain Cleaning</option>
                     <option value="bathroom">Bathroom & Kitchen Plumbing</option>
