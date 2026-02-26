@@ -3,7 +3,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Phone, Mail, MapPin, Wrench, Droplet, Wind, Hammer, CheckCircle, Star, Menu, X } from 'lucide-react';
+import { Phone, Mail, MapPin, Wrench, Droplet, Wind, Hammer, CheckCircle, Star, Menu, X, Zap, Droplets, Flame } from 'lucide-react';
 
 /**
  * T.H. Plumbing - Single Page Website
@@ -244,15 +244,7 @@ function ServicesSection() {
     {
       title: 'Fast Turnaround Repairs',
       description: 'Quick response to get your plumbing issues fixed fast',
-      icon: (
-        <Image
-          src="/images/generated/icon-emergency-wrench.png"
-          alt="Fast repairs"
-          width={48}
-          height={48}
-          className="h-12 w-12"
-        />
-      ),
+      icon: <Zap className="h-12 w-12 text-secondary" />,
     },
     {
       title: 'Pipe Installation',
@@ -262,15 +254,7 @@ function ServicesSection() {
     {
       title: 'Drain Cleaning',
       description: 'Clear clogs and maintain healthy drainage systems',
-      icon: (
-        <Image
-          src="/images/generated/icon-drain-cleaning.png"
-          alt="Drain cleaning"
-          width={48}
-          height={48}
-          className="h-12 w-12"
-        />
-      ),
+      icon: <Droplets className="h-12 w-12 text-secondary" />,
     },
     {
       title: 'Bathroom & Kitchen Plumbing',
@@ -290,15 +274,7 @@ function ServicesSection() {
     {
       title: 'Water Heaters',
       description: 'Installation, repair, and replacement of all types',
-      icon: (
-        <Image
-          src="/images/generated/icon-water-heater.png"
-          alt="Water heaters"
-          width={48}
-          height={48}
-          className="h-12 w-12"
-        />
-      ),
+      icon: <Flame className="h-12 w-12 text-secondary" />,
     },
     {
       title: 'General Plumbing',
@@ -334,17 +310,14 @@ function WhyChooseUsSection() {
     {
       title: 'Top Quality at Affordable Rates',
       description: 'Expert workmanship without breaking the bank',
-      icon: '✅',
     },
     {
       title: 'Prompt, Clean & Professional',
       description: 'On time, every time, with respect for your home',
-      icon: '✅',
     },
     {
       title: 'Serving Lehigh Valley Since 2008',
       description: 'Trusted by thousands of local families',
-      icon: '✅',
     },
   ];
 
@@ -358,7 +331,9 @@ function WhyChooseUsSection() {
               key={idx}
               className="rounded-lg border border-border bg-white p-8 shadow-sm transition-all hover:shadow-lg"
             >
-              <div className="mb-4 text-4xl">{reason.icon}</div>
+              <div className="mb-4">
+                <CheckCircle className="h-10 w-10 text-secondary" />
+              </div>
               <h3 className="mb-3 text-xl font-bold text-primary">{reason.title}</h3>
               <p className="text-muted-foreground">{reason.description}</p>
             </div>
