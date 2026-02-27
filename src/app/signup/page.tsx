@@ -55,7 +55,7 @@ export default function SignupPage() {
       <Card className="w-full max-w-md">
         <CardHeader className="space-y-1">
           <CardTitle className="text-2xl">Create an account</CardTitle>
-          <CardDescription
+          <CardDescription>
             Enter your email and password to get started
           </CardDescription>
         </CardHeader>

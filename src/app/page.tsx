@@ -29,7 +29,7 @@ function Navigation() {
           {/* Logo */}
           <Link href="#hero" className="flex items-center gap-2 text-2xl font-bold text-primary">
             <Wrench className="h-8 w-8 text-secondary" />
-            <span Plumbing</span>
+            <span>Plumbing</span>
           </Link>
 
           {/* Desktop Menu */}
@@ -156,7 +156,7 @@ function AboutSection() {
           </div>
 
           {/* Content */}
-          <div
+          <div>
             <h2 className="mb-6 text-4xl font-bold">About Tim the Plumber</h2>
             <p className="mb-6 text-lg leading-relaxed text-muted-foreground">
               Timothy Hauff — known throughout the Lehigh Valley as "Tim the Plumber" — has been delivering expert
@@ -169,21 +169,21 @@ function AboutSection() {
             <div className="space-y-4">
               <div className="flex items-start gap-4">
                 <CheckCircle className="mt-1 h-6 w-6 flex-shrink-0 text-secondary" />
-                <div
+                <div>
                   <h3 className="font-semibold text-primary">25+ Years Experience</h3>
                   <p className="text-sm text-muted-foreground">Serving Lehigh Valley since 2008</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <CheckCircle className="mt-1 h-6 w-6 flex-shrink-0 text-secondary" />
-                <div
+                <div>
                   <h3 className="font-semibold text-primary">Master Plumber License</h3>
                   <p className="text-sm text-muted-foreground">Fully certified and insured</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <CheckCircle className="mt-1 h-6 w-6 flex-shrink-0 text-secondary" />
-                <div
+                <div>
                   <h3 className="font-semibold text-primary">Quality Work Guaranteed</h3>
                   <p className="text-sm text-muted-foreground">Professional service every time</p>
                 </div>
@@ -460,13 +460,13 @@ function ContactSection() {
       <div className="container mx-auto px-4">
         <div className="grid gap-12 lg:grid-cols-2">
           {/* Contact Info */}
-          <div
+          <div>
             <h2 className="mb-8 text-4xl font-bold">Get in Touch</h2>
 
             {/* Phone */}
             <div className="mb-8 flex gap-4">
               <Phone className="h-6 w-6 flex-shrink-0 text-secondary" />
-              <div
+              <div>
                 <h3 className="font-semibold text-primary">Call Us</h3>
                 <a href="tel:610-746-2206" className="text-lg font-bold text-secondary hover:underline">
                   610-746-2206
@@ -477,7 +477,7 @@ function ContactSection() {
             {/* Service Area */}
             <div className="mb-8 flex gap-4">
               <MapPin className="h-6 w-6 flex-shrink-0 text-secondary" />
-              <div
+              <div>
                 <h3 className="font-semibold text-primary">Service Area</h3>
                 <p className="text-muted-foreground">Lehigh Valley & Surrounding Areas</p>
               </div>
@@ -486,7 +486,7 @@ function ContactSection() {
             {/* Email */}
             <div className="flex gap-4">
               <Mail className="h-6 w-6 flex-shrink-0 text-secondary" />
-              <div
+              <div>
                 <h3 className="font-semibold text-primary">Email</h3>
                 <a href="mailto:thplumbing13@yahoo.net" className="text-lg font-bold text-secondary hover:underline">
                   thplumbing13@yahoo.net
@@ -505,7 +505,7 @@ function ContactSection() {
             ) : (
               <form onSubmit={handleSubmit} className="space-y-4">
                 {/* Name */}
-                <div
+                <div>
                   <label className="block text-sm font-medium text-primary">Name *</label>
                   <input
                     type="text"
@@ -519,7 +519,7 @@ function ContactSection() {
                 </div>
 
                 {/* Email */}
-                <div
+                <div>
                   <label className="block text-sm font-medium text-primary">Email *</label>
                   <input
                     type="email"
@@ -533,7 +533,7 @@ function ContactSection() {
                 </div>
 
                 {/* Phone */}
-                <div
+                <div>
                   <label className="block text-sm font-medium text-primary">Phone *</label>
                   <input
                     type="tel"
@@ -547,7 +547,7 @@ function ContactSection() {
                 </div>
 
                 {/* Service Needed */}
-                <div
+                <div>
                   <label className="block text-sm font-medium text-primary">Service Needed</label>
                   <div className="mt-1 w-full rounded-lg border border-border bg-gray-50 px-4 py-2 text-foreground">
                     General Plumbing
@@ -560,7 +560,7 @@ function ContactSection() {
                 </div>
 
                 {/* Message */}
-                <div
+                <div>
                   <label className="block text-sm font-medium text-primary">Message</label>
                   <textarea
                     name="message"
@@ -592,7 +592,7 @@ function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid gap-8 md:grid-cols-3">
           {/* Company Info */}
-          <div
+          <div>
             <div className="mb-4 flex items-center gap-2">
               <Wrench className="h-6 w-6" />
               <span className="text-xl font-bold">T.H. Plumbing</span>
@@ -603,38 +603,38 @@ function Footer() {
           </div>
 
           {/* Contact Info */}
-          <div
+          <div>
             <h3 className="mb-4 font-semibold">Contact</h3>
             <div className="space-y-2 text-sm text-white/80">
-              <p
+              <p>
                 <a href="tel:610-746-2206" className="hover:text-secondary">
                   📞 610-746-2206
                 </a>
               </p>
-              <p
+              <p>
                 <a href="mailto:thplumbing13@yahoo.net" className="hover:text-secondary">
                   📧 thplumbing13@yahoo.net
                 </a>
               </p>
-              <p Valley & Surrounding Areas</p>
+              <p>Lehigh Valley & Surrounding Areas</p>
             </div>
           </div>
 
           {/* Licenses */}
-          <div
+          <div>
             <h3 className="mb-4 font-semibold">Licenses</h3>
             <div className="space-y-1 text-xs text-white/80">
-              <p Plumber: PM00673</p>
-              <p Contractors: 037791</p>
-              <p Certified: ASSE 11976</p>
-              <p Licensed & Insured</p>
+              <p>Master Plumber: PM00673</p>
+              <p>PA Contractors: 037791</p>
+              <p>Backflow Certified: ASSE 11976</p>
+              <p>Licensed & Insured</p>
             </div>
           </div>
         </div>
 
         {/* Copyright */}
         <div className="mt-8 border-t border-white/10 pt-8 text-center text-sm text-white/60">
-          <p {new Date().getFullYear()} T.H. Plumbing. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} T.H. Plumbing. All rights reserved.</p>
         </div>
       </div>
     </footer>
