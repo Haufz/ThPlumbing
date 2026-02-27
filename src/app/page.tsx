@@ -113,7 +113,7 @@ function HeroSection() {
       {/* Content */}
       <div className="relative z-10 flex min-h-screen items-center justify-center px-4">
         <div className="max-w-3xl text-center text-white">
-          <h1 className="mb-4 text-5xl font-bold leading-tight text-orange-400 sm:text-6xl lg:text-7xl">
+          <h1 className="mb-4 text-5xl font-extrabold leading-tight text-orange-500 sm:text-6xl lg:text-7xl drop-shadow-lg">
             Affordable & Reliable Plumbing You Can Trust
           </h1>
           <p className="mb-8 text-lg sm:text-xl lg:text-2xl">
@@ -170,7 +170,7 @@ function AboutSection() {
               <div className="flex items-start gap-4">
                 <CheckCircle className="mt-1 h-6 w-6 flex-shrink-0 text-secondary" />
                 <div>
-                  <h3 className="font-semibold text-primary">15+ Years Experience</h3>
+                  <h3 className="font-semibold text-primary">25+ Years Experience</h3>
                   <p className="text-sm text-muted-foreground">Serving Lehigh Valley since 2008</p>
                 </div>
               </div>
@@ -549,20 +549,14 @@ function ContactSection() {
                 {/* Service Needed */}
                 <div>
                   <label className="block text-sm font-medium text-primary">Service Needed</label>
-                  <select
+                  <div className="mt-1 w-full rounded-lg border border-border bg-gray-50 px-4 py-2 text-foreground">
+                    General Plumbing
+                  </div>
+                  <input
+                    type="hidden"
                     name="service"
-                    value={formData.service}
-                    onChange={handleChange}
-                    className="mt-1 w-full rounded-lg border border-border px-4 py-2 text-foreground focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20"
-                  >
-                    <option value="general">All General Plumbing</option>
-                    <option value="pipe">Pipe Installation</option>
-                    <option value="drain">Drain Cleaning</option>
-                    <option value="bathroom">Bathroom & Kitchen Plumbing</option>
-                    <option value="leak">Leak Detection</option>
-                    <option value="backflow">Backflow Testing & Certification</option>
-                    <option value="heater">Water Heaters</option>
-                  </select>
+                    value="general"
+                  />
                 </div>
 
                 {/* Message */}
