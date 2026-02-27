@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "buildId": "build_1772224628470_1b547a",
-  "mapHash": "db95eb6030cfa2cd796e92b5d00115103bfc5c80c9849086cecf749936ab33f2",
-  "generated": 1772224628666,
+  "buildId": "build_1772224810511_451b1d",
+  "mapHash": "243daebebe223d2eb64505c35c2f90f1de233c01319036b8f94b2d1f8057311b",
+  "generated": 1772224810716,
   "projectId": "frontend-web",
   "nodeCount": 621,
   "entries": {
-    "zylo-a9951d5f8f4a": {
-      "nodeId": "zylo-a9951d5f8f4a",
+    "zylo-9f4e758e07f0": {
+      "nodeId": "zylo-9f4e758e07f0",
       "filePath": "src/app/error.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -23,8 +23,8 @@
       "componentName": "Error",
       "capabilities": 247
     },
-    "zylo-8a98deeac6a8": {
-      "nodeId": "zylo-8a98deeac6a8",
+    "zylo-d1e5d0d58d63": {
+      "nodeId": "zylo-d1e5d0d58d63",
       "filePath": "src/app/error.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -40,8 +40,8 @@
       "componentName": "Error",
       "capabilities": 247
     },
-    "zylo-d7bd45550947": {
-      "nodeId": "zylo-d7bd45550947",
+    "zylo-855d345a15e7": {
+      "nodeId": "zylo-855d345a15e7",
       "filePath": "src/app/error.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -57,8 +57,8 @@
       "componentName": "Error",
       "capabilities": 282
     },
-    "zylo-915d23c1be87": {
-      "nodeId": "zylo-915d23c1be87",
+    "zylo-ab6db2c0d360": {
+      "nodeId": "zylo-ab6db2c0d360",
       "filePath": "src/app/error.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -74,8 +74,8 @@
       "componentName": "Error",
       "capabilities": 282
     },
-    "zylo-212585e2d0e2": {
-      "nodeId": "zylo-212585e2d0e2",
+    "zylo-6cee2ea1b434": {
+      "nodeId": "zylo-6cee2ea1b434",
       "filePath": "src/app/error.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -91,8 +91,8 @@
       "componentName": "Error",
       "capabilities": 26
     },
-    "zylo-d895fe20eaed": {
-      "nodeId": "zylo-d895fe20eaed",
+    "zylo-ccc12b59b7c5": {
+      "nodeId": "zylo-ccc12b59b7c5",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -108,8 +108,8 @@
       "componentName": "GlobalError",
       "capabilities": 247
     },
-    "zylo-147d9d18c9f2": {
-      "nodeId": "zylo-147d9d18c9f2",
+    "zylo-9bac5c4b6c73": {
+      "nodeId": "zylo-9bac5c4b6c73",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -125,8 +125,8 @@
       "componentName": "GlobalError",
       "capabilities": 247
     },
-    "zylo-87d00642b2fd": {
-      "nodeId": "zylo-87d00642b2fd",
+    "zylo-4a30c623f4b5": {
+      "nodeId": "zylo-4a30c623f4b5",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -142,8 +142,8 @@
       "componentName": "GlobalError",
       "capabilities": 282
     },
-    "zylo-a184fb509afe": {
-      "nodeId": "zylo-a184fb509afe",
+    "zylo-9771fcae68a9": {
+      "nodeId": "zylo-9771fcae68a9",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -159,8 +159,8 @@
       "componentName": "GlobalError",
       "capabilities": 282
     },
-    "zylo-d4d72ca79efb": {
-      "nodeId": "zylo-d4d72ca79efb",
+    "zylo-8f1a9d3e4155": {
+      "nodeId": "zylo-8f1a9d3e4155",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -176,8 +176,8 @@
       "componentName": "GlobalError",
       "capabilities": 247
     },
-    "zylo-27c373dbd450": {
-      "nodeId": "zylo-27c373dbd450",
+    "zylo-58bcbbde16a6": {
+      "nodeId": "zylo-58bcbbde16a6",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -193,8 +193,8 @@
       "componentName": "GlobalError",
       "capabilities": 126
     },
-    "zylo-8af4c815a5c4": {
-      "nodeId": "zylo-8af4c815a5c4",
+    "zylo-c920c32ad778": {
+      "nodeId": "zylo-c920c32ad778",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -210,8 +210,8 @@
       "componentName": "GlobalError",
       "capabilities": 126
     },
-    "zylo-52da02bf56c4": {
-      "nodeId": "zylo-52da02bf56c4",
+    "zylo-25bfedfe6d3d": {
+      "nodeId": "zylo-25bfedfe6d3d",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -227,8 +227,8 @@
       "componentName": "GlobalError",
       "capabilities": 247
     },
-    "zylo-baf15ba704b0": {
-      "nodeId": "zylo-baf15ba704b0",
+    "zylo-2f522c041fe0": {
+      "nodeId": "zylo-2f522c041fe0",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -244,8 +244,8 @@
       "componentName": "GlobalError",
       "capabilities": 247
     },
-    "zylo-a6b4a9f4a0bf": {
-      "nodeId": "zylo-a6b4a9f4a0bf",
+    "zylo-14a62fd5acfc": {
+      "nodeId": "zylo-14a62fd5acfc",
       "filePath": "src/app/global-error.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -261,8 +261,8 @@
       "componentName": "GlobalError",
       "capabilities": 282
     },
-    "zylo-2a802dab034e": {
-      "nodeId": "zylo-2a802dab034e",
+    "zylo-d34a9039daac": {
+      "nodeId": "zylo-d34a9039daac",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -278,8 +278,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-7a13a5dc7001": {
-      "nodeId": "zylo-7a13a5dc7001",
+    "zylo-650d8e413909": {
+      "nodeId": "zylo-650d8e413909",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -295,8 +295,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-fdbebb98ea63": {
-      "nodeId": "zylo-fdbebb98ea63",
+    "zylo-c6895e777417": {
+      "nodeId": "zylo-c6895e777417",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -312,8 +312,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-dbbc1f127c21": {
-      "nodeId": "zylo-dbbc1f127c21",
+    "zylo-f4ec869fe7eb": {
+      "nodeId": "zylo-f4ec869fe7eb",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -329,8 +329,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-b345f7d5e6b2": {
-      "nodeId": "zylo-b345f7d5e6b2",
+    "zylo-3dbbabcff854": {
+      "nodeId": "zylo-3dbbabcff854",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -346,8 +346,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-a101c305c178": {
-      "nodeId": "zylo-a101c305c178",
+    "zylo-b87cae7e88e3": {
+      "nodeId": "zylo-b87cae7e88e3",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -363,8 +363,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-8d86ba0b7609": {
-      "nodeId": "zylo-8d86ba0b7609",
+    "zylo-16ad42bb7362": {
+      "nodeId": "zylo-16ad42bb7362",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -380,8 +380,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-cdefc3d3ec87": {
-      "nodeId": "zylo-cdefc3d3ec87",
+    "zylo-a36d61a5a564": {
+      "nodeId": "zylo-a36d61a5a564",
       "filePath": "src/app/layout.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -397,8 +397,8 @@
       "componentName": "RootLayout",
       "capabilities": 247
     },
-    "zylo-aac7f980680e": {
-      "nodeId": "zylo-aac7f980680e",
+    "zylo-51c353525741": {
+      "nodeId": "zylo-51c353525741",
       "filePath": "src/app/loading.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -414,8 +414,8 @@
       "componentName": "Loading",
       "capabilities": 247
     },
-    "zylo-10d3962a042f": {
-      "nodeId": "zylo-10d3962a042f",
+    "zylo-a8e4b51810e1": {
+      "nodeId": "zylo-a8e4b51810e1",
       "filePath": "src/app/loading.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -431,8 +431,8 @@
       "componentName": "Loading",
       "capabilities": 247
     },
-    "zylo-f0917147b8a7": {
-      "nodeId": "zylo-f0917147b8a7",
+    "zylo-d81257cc5641": {
+      "nodeId": "zylo-d81257cc5641",
       "filePath": "src/app/loading.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -448,8 +448,8 @@
       "componentName": "Loading",
       "capabilities": 282
     },
-    "zylo-92adb9be84b2": {
-      "nodeId": "zylo-92adb9be84b2",
+    "zylo-f04506b49787": {
+      "nodeId": "zylo-f04506b49787",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -465,8 +465,8 @@
       "componentName": "NotFound",
       "capabilities": 247
     },
-    "zylo-824c8c911d5d": {
-      "nodeId": "zylo-824c8c911d5d",
+    "zylo-b51f66a656c7": {
+      "nodeId": "zylo-b51f66a656c7",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -482,8 +482,8 @@
       "componentName": "NotFound",
       "capabilities": 247
     },
-    "zylo-642032b3aab4": {
-      "nodeId": "zylo-642032b3aab4",
+    "zylo-4d238ecfb940": {
+      "nodeId": "zylo-4d238ecfb940",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -499,8 +499,8 @@
       "componentName": "NotFound",
       "capabilities": 282
     },
-    "zylo-db03f3be4b6e": {
-      "nodeId": "zylo-db03f3be4b6e",
+    "zylo-64534b30bc2e": {
+      "nodeId": "zylo-64534b30bc2e",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -516,8 +516,8 @@
       "componentName": "NotFound",
       "capabilities": 282
     },
-    "zylo-aec53347516a": {
-      "nodeId": "zylo-aec53347516a",
+    "zylo-17b1eb2df010": {
+      "nodeId": "zylo-17b1eb2df010",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -533,8 +533,8 @@
       "componentName": "NotFound",
       "capabilities": 282
     },
-    "zylo-c1140a03e2f3": {
-      "nodeId": "zylo-c1140a03e2f3",
+    "zylo-14e4cd9dcbb4": {
+      "nodeId": "zylo-14e4cd9dcbb4",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -550,8 +550,8 @@
       "componentName": "NotFound",
       "capabilities": 247
     },
-    "zylo-e390a759badd": {
-      "nodeId": "zylo-e390a759badd",
+    "zylo-cc24052ce4d4": {
+      "nodeId": "zylo-cc24052ce4d4",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -567,8 +567,8 @@
       "componentName": "NotFound",
       "capabilities": 247
     },
-    "zylo-cc547a4ca7aa": {
-      "nodeId": "zylo-cc547a4ca7aa",
+    "zylo-0ecd02259ca8": {
+      "nodeId": "zylo-0ecd02259ca8",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -584,8 +584,8 @@
       "componentName": "NotFound",
       "capabilities": 26
     },
-    "zylo-bd568578ed2a": {
-      "nodeId": "zylo-bd568578ed2a",
+    "zylo-ac36c482e085": {
+      "nodeId": "zylo-ac36c482e085",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -601,8 +601,8 @@
       "componentName": "NotFound",
       "capabilities": 86
     },
-    "zylo-4378478ac6dc": {
-      "nodeId": "zylo-4378478ac6dc",
+    "zylo-d116867e8a56": {
+      "nodeId": "zylo-d116867e8a56",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -618,8 +618,8 @@
       "componentName": "NotFound",
       "capabilities": 247
     },
-    "zylo-130f08b0c35d": {
-      "nodeId": "zylo-130f08b0c35d",
+    "zylo-9fd76cb5fa33": {
+      "nodeId": "zylo-9fd76cb5fa33",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -635,8 +635,8 @@
       "componentName": "NotFound",
       "capabilities": 26
     },
-    "zylo-efc48e01a61d": {
-      "nodeId": "zylo-efc48e01a61d",
+    "zylo-e048b9e6a0c1": {
+      "nodeId": "zylo-e048b9e6a0c1",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -652,8 +652,8 @@
       "componentName": "NotFound",
       "capabilities": 86
     },
-    "zylo-eaf11102b4bc": {
-      "nodeId": "zylo-eaf11102b4bc",
+    "zylo-d3b5124ea64f": {
+      "nodeId": "zylo-d3b5124ea64f",
       "filePath": "src/app/not-found.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -669,8 +669,8 @@
       "componentName": "NotFound",
       "capabilities": 282
     },
-    "zylo-2c80fb309171": {
-      "nodeId": "zylo-2c80fb309171",
+    "zylo-f4e9243c159f": {
+      "nodeId": "zylo-f4e9243c159f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -686,8 +686,8 @@
       "componentName": "Navigation",
       "capabilities": 247
     },
-    "zylo-26b80f6f5c0b": {
-      "nodeId": "zylo-26b80f6f5c0b",
+    "zylo-78cd1852d4e2": {
+      "nodeId": "zylo-78cd1852d4e2",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -703,8 +703,8 @@
       "componentName": "Navigation",
       "capabilities": 247
     },
-    "zylo-6fb857e60295": {
-      "nodeId": "zylo-6fb857e60295",
+    "zylo-ebda0de8381b": {
+      "nodeId": "zylo-ebda0de8381b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -720,8 +720,8 @@
       "componentName": "Navigation",
       "capabilities": 247
     },
-    "zylo-aa32efd70791": {
-      "nodeId": "zylo-aa32efd70791",
+    "zylo-b08920f3dd6b": {
+      "nodeId": "zylo-b08920f3dd6b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -737,8 +737,8 @@
       "componentName": "Navigation",
       "capabilities": 26
     },
-    "zylo-0bcbf755e015": {
-      "nodeId": "zylo-0bcbf755e015",
+    "zylo-7c39fc19f307": {
+      "nodeId": "zylo-7c39fc19f307",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -754,8 +754,8 @@
       "componentName": "Navigation",
       "capabilities": 86
     },
-    "zylo-f3c7b5aef6b8": {
-      "nodeId": "zylo-f3c7b5aef6b8",
+    "zylo-cb3ccf9ca7a7": {
+      "nodeId": "zylo-cb3ccf9ca7a7",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -771,8 +771,8 @@
       "componentName": "Navigation",
       "capabilities": 282
     },
-    "zylo-9af452dcf372": {
-      "nodeId": "zylo-9af452dcf372",
+    "zylo-7c752ae37464": {
+      "nodeId": "zylo-7c752ae37464",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -788,8 +788,8 @@
       "componentName": "Navigation",
       "capabilities": 247
     },
-    "zylo-e83ab26b3858": {
-      "nodeId": "zylo-e83ab26b3858",
+    "zylo-c4a86e0aa2b5": {
+      "nodeId": "zylo-c4a86e0aa2b5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -805,8 +805,8 @@
       "componentName": "Navigation",
       "capabilities": 26
     },
-    "zylo-84320ab1bd66": {
-      "nodeId": "zylo-84320ab1bd66",
+    "zylo-93d7bd71f723": {
+      "nodeId": "zylo-93d7bd71f723",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -822,8 +822,8 @@
       "componentName": "Navigation",
       "capabilities": 26
     },
-    "zylo-dd1233b28f0d": {
-      "nodeId": "zylo-dd1233b28f0d",
+    "zylo-dca29c767529": {
+      "nodeId": "zylo-dca29c767529",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -839,8 +839,8 @@
       "componentName": "Navigation",
       "capabilities": 86
     },
-    "zylo-a7ebe4aed48e": {
-      "nodeId": "zylo-a7ebe4aed48e",
+    "zylo-cde4a805d305": {
+      "nodeId": "zylo-cde4a805d305",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -856,8 +856,8 @@
       "componentName": "Navigation",
       "capabilities": 126
     },
-    "zylo-37286f4cb031": {
-      "nodeId": "zylo-37286f4cb031",
+    "zylo-8e3e183ca1ea": {
+      "nodeId": "zylo-8e3e183ca1ea",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -873,8 +873,8 @@
       "componentName": "Navigation",
       "capabilities": 86
     },
-    "zylo-334072d1e61a": {
-      "nodeId": "zylo-334072d1e61a",
+    "zylo-f0afc55126b4": {
+      "nodeId": "zylo-f0afc55126b4",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -890,8 +890,8 @@
       "componentName": "Navigation",
       "capabilities": 86
     },
-    "zylo-9dfbe6dc94c7": {
-      "nodeId": "zylo-9dfbe6dc94c7",
+    "zylo-2225f5272aae": {
+      "nodeId": "zylo-2225f5272aae",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -907,8 +907,8 @@
       "componentName": "Navigation",
       "capabilities": 247
     },
-    "zylo-bb3bfcaaaef4": {
-      "nodeId": "zylo-bb3bfcaaaef4",
+    "zylo-26c88707d8ba": {
+      "nodeId": "zylo-26c88707d8ba",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -924,8 +924,8 @@
       "componentName": "Navigation",
       "capabilities": 26
     },
-    "zylo-2970919a72c2": {
-      "nodeId": "zylo-2970919a72c2",
+    "zylo-4679cc345fcd": {
+      "nodeId": "zylo-4679cc345fcd",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -941,8 +941,8 @@
       "componentName": "Navigation",
       "capabilities": 26
     },
-    "zylo-4a78547499e9": {
-      "nodeId": "zylo-4a78547499e9",
+    "zylo-07364e98a304": {
+      "nodeId": "zylo-07364e98a304",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -958,8 +958,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-1e4ed3063748": {
-      "nodeId": "zylo-1e4ed3063748",
+    "zylo-763500f2627c": {
+      "nodeId": "zylo-763500f2627c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -975,8 +975,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-9264a2efc4ec": {
-      "nodeId": "zylo-9264a2efc4ec",
+    "zylo-bfea3f4eae6b": {
+      "nodeId": "zylo-bfea3f4eae6b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -992,8 +992,8 @@
       "componentName": "HeroSection",
       "capabilities": 742
     },
-    "zylo-90822d5c8209": {
-      "nodeId": "zylo-90822d5c8209",
+    "zylo-41d93095db7f": {
+      "nodeId": "zylo-41d93095db7f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 19,
       "locStart": {
@@ -1009,8 +1009,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-9ece045e6e85": {
-      "nodeId": "zylo-9ece045e6e85",
+    "zylo-e44a953f6c27": {
+      "nodeId": "zylo-e44a953f6c27",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 20,
       "locStart": {
@@ -1026,8 +1026,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-f92c5f30f6b6": {
-      "nodeId": "zylo-f92c5f30f6b6",
+    "zylo-af0ab6341440": {
+      "nodeId": "zylo-af0ab6341440",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 21,
       "locStart": {
@@ -1043,8 +1043,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-1ce5447f509c": {
-      "nodeId": "zylo-1ce5447f509c",
+    "zylo-20152e299eee": {
+      "nodeId": "zylo-20152e299eee",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 22,
       "locStart": {
@@ -1060,8 +1060,8 @@
       "componentName": "HeroSection",
       "capabilities": 282
     },
-    "zylo-cef1409d3d2d": {
-      "nodeId": "zylo-cef1409d3d2d",
+    "zylo-a99bed8e0e84": {
+      "nodeId": "zylo-a99bed8e0e84",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 23,
       "locStart": {
@@ -1077,8 +1077,8 @@
       "componentName": "HeroSection",
       "capabilities": 282
     },
-    "zylo-4a0041e74bb2": {
-      "nodeId": "zylo-4a0041e74bb2",
+    "zylo-f6b8742864ad": {
+      "nodeId": "zylo-f6b8742864ad",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 24,
       "locStart": {
@@ -1094,8 +1094,8 @@
       "componentName": "HeroSection",
       "capabilities": 247
     },
-    "zylo-a402e4e8cba7": {
-      "nodeId": "zylo-a402e4e8cba7",
+    "zylo-79206a07963f": {
+      "nodeId": "zylo-79206a07963f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 25,
       "locStart": {
@@ -1111,8 +1111,8 @@
       "componentName": "HeroSection",
       "capabilities": 26
     },
-    "zylo-b34b7548edb9": {
-      "nodeId": "zylo-b34b7548edb9",
+    "zylo-6fa358ffca3f": {
+      "nodeId": "zylo-6fa358ffca3f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 26,
       "locStart": {
@@ -1128,8 +1128,8 @@
       "componentName": "HeroSection",
       "capabilities": 86
     },
-    "zylo-a1009cc942f1": {
-      "nodeId": "zylo-a1009cc942f1",
+    "zylo-717cc0b679ce": {
+      "nodeId": "zylo-717cc0b679ce",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 27,
       "locStart": {
@@ -1145,8 +1145,8 @@
       "componentName": "HeroSection",
       "capabilities": 26
     },
-    "zylo-fe40c0bb5c82": {
-      "nodeId": "zylo-fe40c0bb5c82",
+    "zylo-ff1bb0e3dde7": {
+      "nodeId": "zylo-ff1bb0e3dde7",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 28,
       "locStart": {
@@ -1162,8 +1162,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-c90c1e33c3d1": {
-      "nodeId": "zylo-c90c1e33c3d1",
+    "zylo-b478078d5d64": {
+      "nodeId": "zylo-b478078d5d64",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 29,
       "locStart": {
@@ -1179,8 +1179,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-0461521bbb4c": {
-      "nodeId": "zylo-0461521bbb4c",
+    "zylo-a61a696b1aec": {
+      "nodeId": "zylo-a61a696b1aec",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 30,
       "locStart": {
@@ -1196,8 +1196,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-ffecda12d2a0": {
-      "nodeId": "zylo-ffecda12d2a0",
+    "zylo-51db5d71073e": {
+      "nodeId": "zylo-51db5d71073e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 31,
       "locStart": {
@@ -1213,8 +1213,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-803d611aec65": {
-      "nodeId": "zylo-803d611aec65",
+    "zylo-2dfb47051b04": {
+      "nodeId": "zylo-2dfb47051b04",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 32,
       "locStart": {
@@ -1230,8 +1230,8 @@
       "componentName": "AboutSection",
       "capabilities": 742
     },
-    "zylo-f69224836e9b": {
-      "nodeId": "zylo-f69224836e9b",
+    "zylo-5ec7f13be99a": {
+      "nodeId": "zylo-5ec7f13be99a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 33,
       "locStart": {
@@ -1247,8 +1247,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-eb064eeecfb3": {
-      "nodeId": "zylo-eb064eeecfb3",
+    "zylo-521f6d179753": {
+      "nodeId": "zylo-521f6d179753",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 34,
       "locStart": {
@@ -1264,8 +1264,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-fa8879ff7185": {
-      "nodeId": "zylo-fa8879ff7185",
+    "zylo-525e1eb96bda": {
+      "nodeId": "zylo-525e1eb96bda",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 35,
       "locStart": {
@@ -1281,8 +1281,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-4dadd1594fa3": {
-      "nodeId": "zylo-4dadd1594fa3",
+    "zylo-21515721a417": {
+      "nodeId": "zylo-21515721a417",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 36,
       "locStart": {
@@ -1298,8 +1298,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-84fc5aede978": {
-      "nodeId": "zylo-84fc5aede978",
+    "zylo-2a9921db0ab3": {
+      "nodeId": "zylo-2a9921db0ab3",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 37,
       "locStart": {
@@ -1315,8 +1315,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-43d740131575": {
-      "nodeId": "zylo-43d740131575",
+    "zylo-bd0963dbb1ab": {
+      "nodeId": "zylo-bd0963dbb1ab",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 38,
       "locStart": {
@@ -1332,8 +1332,8 @@
       "componentName": "AboutSection",
       "capabilities": 86
     },
-    "zylo-f7d1d8124ea6": {
-      "nodeId": "zylo-f7d1d8124ea6",
+    "zylo-89d19504ccad": {
+      "nodeId": "zylo-89d19504ccad",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 39,
       "locStart": {
@@ -1349,8 +1349,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-1d392063ca11": {
-      "nodeId": "zylo-1d392063ca11",
+    "zylo-ecc027151810": {
+      "nodeId": "zylo-ecc027151810",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 40,
       "locStart": {
@@ -1366,8 +1366,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-b0abbfdf5438": {
-      "nodeId": "zylo-b0abbfdf5438",
+    "zylo-b1a9fc0e7725": {
+      "nodeId": "zylo-b1a9fc0e7725",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 41,
       "locStart": {
@@ -1383,8 +1383,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-18d64ffc94e0": {
-      "nodeId": "zylo-18d64ffc94e0",
+    "zylo-36cb50867757": {
+      "nodeId": "zylo-36cb50867757",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 42,
       "locStart": {
@@ -1400,8 +1400,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-812590fc4c39": {
-      "nodeId": "zylo-812590fc4c39",
+    "zylo-1d7c0a8abd2b": {
+      "nodeId": "zylo-1d7c0a8abd2b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 43,
       "locStart": {
@@ -1417,8 +1417,8 @@
       "componentName": "AboutSection",
       "capabilities": 86
     },
-    "zylo-0cfbf7edd9cd": {
-      "nodeId": "zylo-0cfbf7edd9cd",
+    "zylo-b1f4c45b8ef7": {
+      "nodeId": "zylo-b1f4c45b8ef7",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 44,
       "locStart": {
@@ -1434,8 +1434,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-61fc5706c60e": {
-      "nodeId": "zylo-61fc5706c60e",
+    "zylo-da79936b68a3": {
+      "nodeId": "zylo-da79936b68a3",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 45,
       "locStart": {
@@ -1451,8 +1451,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-a4dd8774b7eb": {
-      "nodeId": "zylo-a4dd8774b7eb",
+    "zylo-3a84164218e5": {
+      "nodeId": "zylo-3a84164218e5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 46,
       "locStart": {
@@ -1468,8 +1468,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-edff58e58562": {
-      "nodeId": "zylo-edff58e58562",
+    "zylo-e6f6294b5097": {
+      "nodeId": "zylo-e6f6294b5097",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 47,
       "locStart": {
@@ -1485,8 +1485,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-4e380c353236": {
-      "nodeId": "zylo-4e380c353236",
+    "zylo-4ca2281d9aea": {
+      "nodeId": "zylo-4ca2281d9aea",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 48,
       "locStart": {
@@ -1502,8 +1502,8 @@
       "componentName": "AboutSection",
       "capabilities": 86
     },
-    "zylo-9ac73d793a1e": {
-      "nodeId": "zylo-9ac73d793a1e",
+    "zylo-d3b8f812c60f": {
+      "nodeId": "zylo-d3b8f812c60f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 49,
       "locStart": {
@@ -1519,8 +1519,8 @@
       "componentName": "AboutSection",
       "capabilities": 247
     },
-    "zylo-9514aa7c5e2d": {
-      "nodeId": "zylo-9514aa7c5e2d",
+    "zylo-8586f4191f12": {
+      "nodeId": "zylo-8586f4191f12",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 50,
       "locStart": {
@@ -1536,8 +1536,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-b7e62dd3ae25": {
-      "nodeId": "zylo-b7e62dd3ae25",
+    "zylo-31ac621aa1ee": {
+      "nodeId": "zylo-31ac621aa1ee",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 51,
       "locStart": {
@@ -1553,8 +1553,8 @@
       "componentName": "AboutSection",
       "capabilities": 282
     },
-    "zylo-0db501e5d3af": {
-      "nodeId": "zylo-0db501e5d3af",
+    "zylo-17337f0b4812": {
+      "nodeId": "zylo-17337f0b4812",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 52,
       "locStart": {
@@ -1570,8 +1570,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 247
     },
-    "zylo-be8d3bb7b2f0": {
-      "nodeId": "zylo-be8d3bb7b2f0",
+    "zylo-e77330e2f6f2": {
+      "nodeId": "zylo-e77330e2f6f2",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 53,
       "locStart": {
@@ -1587,8 +1587,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 247
     },
-    "zylo-60bbb1bc2eb8": {
-      "nodeId": "zylo-60bbb1bc2eb8",
+    "zylo-48f311fd6475": {
+      "nodeId": "zylo-48f311fd6475",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 54,
       "locStart": {
@@ -1604,8 +1604,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 247
     },
-    "zylo-7e56f15eaee6": {
-      "nodeId": "zylo-7e56f15eaee6",
+    "zylo-289e84f92906": {
+      "nodeId": "zylo-289e84f92906",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 55,
       "locStart": {
@@ -1621,8 +1621,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 247
     },
-    "zylo-60c5b7dffc7a": {
-      "nodeId": "zylo-60c5b7dffc7a",
+    "zylo-86214dd4349f": {
+      "nodeId": "zylo-86214dd4349f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 56,
       "locStart": {
@@ -1638,8 +1638,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 247
     },
-    "zylo-a7f45679f3cd": {
-      "nodeId": "zylo-a7f45679f3cd",
+    "zylo-ae6d8f4cc428": {
+      "nodeId": "zylo-ae6d8f4cc428",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 57,
       "locStart": {
@@ -1655,8 +1655,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 282
     },
-    "zylo-bb45db4cccfb": {
-      "nodeId": "zylo-bb45db4cccfb",
+    "zylo-9ee7c47cf12e": {
+      "nodeId": "zylo-9ee7c47cf12e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 58,
       "locStart": {
@@ -1672,8 +1672,8 @@
       "componentName": "CredentialsSection",
       "capabilities": 282
     },
-    "zylo-a1763f24f032": {
-      "nodeId": "zylo-a1763f24f032",
+    "zylo-4d6cf77c0a10": {
+      "nodeId": "zylo-4d6cf77c0a10",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 59,
       "locStart": {
@@ -1689,8 +1689,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-8d8cd3e9f848": {
-      "nodeId": "zylo-8d8cd3e9f848",
+    "zylo-162feb295ec6": {
+      "nodeId": "zylo-162feb295ec6",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 60,
       "locStart": {
@@ -1706,8 +1706,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-907778197a8d": {
-      "nodeId": "zylo-907778197a8d",
+    "zylo-83cc537fe121": {
+      "nodeId": "zylo-83cc537fe121",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 61,
       "locStart": {
@@ -1723,8 +1723,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-99dc76253c47": {
-      "nodeId": "zylo-99dc76253c47",
+    "zylo-5d282d96c9d1": {
+      "nodeId": "zylo-5d282d96c9d1",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 62,
       "locStart": {
@@ -1740,8 +1740,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-ea3e0a964fae": {
-      "nodeId": "zylo-ea3e0a964fae",
+    "zylo-906d7f47677c": {
+      "nodeId": "zylo-906d7f47677c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 63,
       "locStart": {
@@ -1757,8 +1757,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-c1e08e92941e": {
-      "nodeId": "zylo-c1e08e92941e",
+    "zylo-777fdcacc4c9": {
+      "nodeId": "zylo-777fdcacc4c9",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 64,
       "locStart": {
@@ -1774,8 +1774,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-3ec1ae589b79": {
-      "nodeId": "zylo-3ec1ae589b79",
+    "zylo-f7be23800554": {
+      "nodeId": "zylo-f7be23800554",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 65,
       "locStart": {
@@ -1791,8 +1791,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-8abef63f2903": {
-      "nodeId": "zylo-8abef63f2903",
+    "zylo-4640424b164b": {
+      "nodeId": "zylo-4640424b164b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 66,
       "locStart": {
@@ -1808,8 +1808,8 @@
       "componentName": "ServicesSection",
       "capabilities": 86
     },
-    "zylo-70edf1654528": {
-      "nodeId": "zylo-70edf1654528",
+    "zylo-9c6f086fd40c": {
+      "nodeId": "zylo-9c6f086fd40c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 67,
       "locStart": {
@@ -1825,8 +1825,8 @@
       "componentName": "ServicesSection",
       "capabilities": 247
     },
-    "zylo-3e52a34cbf4f": {
-      "nodeId": "zylo-3e52a34cbf4f",
+    "zylo-005d74dafc52": {
+      "nodeId": "zylo-005d74dafc52",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 68,
       "locStart": {
@@ -1842,8 +1842,8 @@
       "componentName": "ServicesSection",
       "capabilities": 247
     },
-    "zylo-f484e7d9ee6c": {
-      "nodeId": "zylo-f484e7d9ee6c",
+    "zylo-63d13de6dda5": {
+      "nodeId": "zylo-63d13de6dda5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 69,
       "locStart": {
@@ -1859,8 +1859,8 @@
       "componentName": "ServicesSection",
       "capabilities": 282
     },
-    "zylo-dc7fc7d6bd14": {
-      "nodeId": "zylo-dc7fc7d6bd14",
+    "zylo-df693c811ae9": {
+      "nodeId": "zylo-df693c811ae9",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 70,
       "locStart": {
@@ -1876,8 +1876,8 @@
       "componentName": "ServicesSection",
       "capabilities": 247
     },
-    "zylo-b8063cb240ea": {
-      "nodeId": "zylo-b8063cb240ea",
+    "zylo-a6a5368364d6": {
+      "nodeId": "zylo-a6a5368364d6",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 71,
       "locStart": {
@@ -1893,8 +1893,8 @@
       "componentName": "ServicesSection",
       "capabilities": 247
     },
-    "zylo-20171cf7702e": {
-      "nodeId": "zylo-20171cf7702e",
+    "zylo-0e9decc77ca9": {
+      "nodeId": "zylo-0e9decc77ca9",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 72,
       "locStart": {
@@ -1910,8 +1910,8 @@
       "componentName": "ServicesSection",
       "capabilities": 247
     },
-    "zylo-0abed8611d87": {
-      "nodeId": "zylo-0abed8611d87",
+    "zylo-626cb15ab06b": {
+      "nodeId": "zylo-626cb15ab06b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 73,
       "locStart": {
@@ -1927,8 +1927,8 @@
       "componentName": "ServicesSection",
       "capabilities": 282
     },
-    "zylo-596a3c891d1d": {
-      "nodeId": "zylo-596a3c891d1d",
+    "zylo-a70a50220e46": {
+      "nodeId": "zylo-a70a50220e46",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 74,
       "locStart": {
@@ -1944,8 +1944,8 @@
       "componentName": "ServicesSection",
       "capabilities": 282
     },
-    "zylo-0eea14223087": {
-      "nodeId": "zylo-0eea14223087",
+    "zylo-544789ebf759": {
+      "nodeId": "zylo-544789ebf759",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 75,
       "locStart": {
@@ -1961,8 +1961,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 247
     },
-    "zylo-9d94834a581e": {
-      "nodeId": "zylo-9d94834a581e",
+    "zylo-a37798a21533": {
+      "nodeId": "zylo-a37798a21533",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 76,
       "locStart": {
@@ -1978,8 +1978,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 247
     },
-    "zylo-5db3e29fb561": {
-      "nodeId": "zylo-5db3e29fb561",
+    "zylo-58ad221d704a": {
+      "nodeId": "zylo-58ad221d704a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 77,
       "locStart": {
@@ -1995,8 +1995,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 282
     },
-    "zylo-71afb221ae2a": {
-      "nodeId": "zylo-71afb221ae2a",
+    "zylo-1b95f3a3b89d": {
+      "nodeId": "zylo-1b95f3a3b89d",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 78,
       "locStart": {
@@ -2012,8 +2012,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 247
     },
-    "zylo-c7028e9ffed4": {
-      "nodeId": "zylo-c7028e9ffed4",
+    "zylo-4397a27db768": {
+      "nodeId": "zylo-4397a27db768",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 79,
       "locStart": {
@@ -2029,8 +2029,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 247
     },
-    "zylo-6cec5a65453e": {
-      "nodeId": "zylo-6cec5a65453e",
+    "zylo-6a083c5752de": {
+      "nodeId": "zylo-6a083c5752de",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 80,
       "locStart": {
@@ -2046,8 +2046,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 247
     },
-    "zylo-9479bd5ebe19": {
-      "nodeId": "zylo-9479bd5ebe19",
+    "zylo-bee085ed9fcb": {
+      "nodeId": "zylo-bee085ed9fcb",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 81,
       "locStart": {
@@ -2063,8 +2063,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 86
     },
-    "zylo-5aa3aa026bf2": {
-      "nodeId": "zylo-5aa3aa026bf2",
+    "zylo-69c844a151ee": {
+      "nodeId": "zylo-69c844a151ee",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 82,
       "locStart": {
@@ -2080,8 +2080,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 282
     },
-    "zylo-9993017c6f78": {
-      "nodeId": "zylo-9993017c6f78",
+    "zylo-6972084223ea": {
+      "nodeId": "zylo-6972084223ea",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 83,
       "locStart": {
@@ -2097,8 +2097,8 @@
       "componentName": "WhyChooseUsSection",
       "capabilities": 282
     },
-    "zylo-42bb7aaf640f": {
-      "nodeId": "zylo-42bb7aaf640f",
+    "zylo-1781101a0c92": {
+      "nodeId": "zylo-1781101a0c92",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 84,
       "locStart": {
@@ -2114,8 +2114,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-c9a8164a7eee": {
-      "nodeId": "zylo-c9a8164a7eee",
+    "zylo-e0ce42a27005": {
+      "nodeId": "zylo-e0ce42a27005",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 85,
       "locStart": {
@@ -2131,8 +2131,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-ef0970d16eb5": {
-      "nodeId": "zylo-ef0970d16eb5",
+    "zylo-cc4ec7c4cd6a": {
+      "nodeId": "zylo-cc4ec7c4cd6a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 86,
       "locStart": {
@@ -2148,8 +2148,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 282
     },
-    "zylo-787b71730a0e": {
-      "nodeId": "zylo-787b71730a0e",
+    "zylo-9bef5e7a4cb9": {
+      "nodeId": "zylo-9bef5e7a4cb9",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 87,
       "locStart": {
@@ -2165,8 +2165,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-5909c205c705": {
-      "nodeId": "zylo-5909c205c705",
+    "zylo-c41691abfc5f": {
+      "nodeId": "zylo-c41691abfc5f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 88,
       "locStart": {
@@ -2182,8 +2182,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-7930e0dc5e22": {
-      "nodeId": "zylo-7930e0dc5e22",
+    "zylo-c9da0108271f": {
+      "nodeId": "zylo-c9da0108271f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 89,
       "locStart": {
@@ -2199,8 +2199,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-a27a76d06cb0": {
-      "nodeId": "zylo-a27a76d06cb0",
+    "zylo-9f09759846b6": {
+      "nodeId": "zylo-9f09759846b6",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 90,
       "locStart": {
@@ -2216,8 +2216,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 86
     },
-    "zylo-0a74a950d67f": {
-      "nodeId": "zylo-0a74a950d67f",
+    "zylo-548179b4a135": {
+      "nodeId": "zylo-548179b4a135",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 91,
       "locStart": {
@@ -2233,8 +2233,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 282
     },
-    "zylo-893ea7243971": {
-      "nodeId": "zylo-893ea7243971",
+    "zylo-db2578fd35e0": {
+      "nodeId": "zylo-db2578fd35e0",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 92,
       "locStart": {
@@ -2250,8 +2250,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 282
     },
-    "zylo-d8179b485ef5": {
-      "nodeId": "zylo-d8179b485ef5",
+    "zylo-5ab56c9d983c": {
+      "nodeId": "zylo-5ab56c9d983c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 93,
       "locStart": {
@@ -2267,8 +2267,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 247
     },
-    "zylo-da2dd500bee8": {
-      "nodeId": "zylo-da2dd500bee8",
+    "zylo-466c1bbd3cdf": {
+      "nodeId": "zylo-466c1bbd3cdf",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 94,
       "locStart": {
@@ -2284,8 +2284,8 @@
       "componentName": "ReviewsSection",
       "capabilities": 282
     },
-    "zylo-1ca2bcd09552": {
-      "nodeId": "zylo-1ca2bcd09552",
+    "zylo-82bac32d550a": {
+      "nodeId": "zylo-82bac32d550a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 95,
       "locStart": {
@@ -2301,8 +2301,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-fe37c426a27d": {
-      "nodeId": "zylo-fe37c426a27d",
+    "zylo-4712e5796fb0": {
+      "nodeId": "zylo-4712e5796fb0",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 96,
       "locStart": {
@@ -2318,8 +2318,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-dc8987712e07": {
-      "nodeId": "zylo-dc8987712e07",
+    "zylo-08354ee25441": {
+      "nodeId": "zylo-08354ee25441",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 97,
       "locStart": {
@@ -2335,8 +2335,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-b91b0e86a480": {
-      "nodeId": "zylo-b91b0e86a480",
+    "zylo-6e27d811ff4a": {
+      "nodeId": "zylo-6e27d811ff4a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 98,
       "locStart": {
@@ -2352,8 +2352,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-7a3f48abf494": {
-      "nodeId": "zylo-7a3f48abf494",
+    "zylo-4528185f788c": {
+      "nodeId": "zylo-4528185f788c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 99,
       "locStart": {
@@ -2369,8 +2369,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-f60024f58472": {
-      "nodeId": "zylo-f60024f58472",
+    "zylo-b751da526bfc": {
+      "nodeId": "zylo-b751da526bfc",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 100,
       "locStart": {
@@ -2386,8 +2386,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-d9448c5be112": {
-      "nodeId": "zylo-d9448c5be112",
+    "zylo-3bb5b73a8af5": {
+      "nodeId": "zylo-3bb5b73a8af5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 101,
       "locStart": {
@@ -2403,8 +2403,8 @@
       "componentName": "ContactSection",
       "capabilities": 86
     },
-    "zylo-8f614e022669": {
-      "nodeId": "zylo-8f614e022669",
+    "zylo-b14dbba47106": {
+      "nodeId": "zylo-b14dbba47106",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 102,
       "locStart": {
@@ -2420,8 +2420,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-ea7669e9abf5": {
-      "nodeId": "zylo-ea7669e9abf5",
+    "zylo-f785125e6026": {
+      "nodeId": "zylo-f785125e6026",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 103,
       "locStart": {
@@ -2437,8 +2437,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-bee4c4df4395": {
-      "nodeId": "zylo-bee4c4df4395",
+    "zylo-7bf532a02d7e": {
+      "nodeId": "zylo-7bf532a02d7e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 104,
       "locStart": {
@@ -2454,8 +2454,8 @@
       "componentName": "ContactSection",
       "capabilities": 26
     },
-    "zylo-54eba1dabc96": {
-      "nodeId": "zylo-54eba1dabc96",
+    "zylo-461722e4c975": {
+      "nodeId": "zylo-461722e4c975",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 105,
       "locStart": {
@@ -2471,8 +2471,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-4cd243748f43": {
-      "nodeId": "zylo-4cd243748f43",
+    "zylo-d432139fa43c": {
+      "nodeId": "zylo-d432139fa43c",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 106,
       "locStart": {
@@ -2488,8 +2488,8 @@
       "componentName": "ContactSection",
       "capabilities": 86
     },
-    "zylo-405b16fdc45c": {
-      "nodeId": "zylo-405b16fdc45c",
+    "zylo-16a553aa4082": {
+      "nodeId": "zylo-16a553aa4082",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 107,
       "locStart": {
@@ -2505,8 +2505,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-6de72171e517": {
-      "nodeId": "zylo-6de72171e517",
+    "zylo-d6470420ca30": {
+      "nodeId": "zylo-d6470420ca30",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 108,
       "locStart": {
@@ -2522,8 +2522,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-2db5655e2b44": {
-      "nodeId": "zylo-2db5655e2b44",
+    "zylo-88192dd673eb": {
+      "nodeId": "zylo-88192dd673eb",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 109,
       "locStart": {
@@ -2539,8 +2539,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-f3661f7f9f2f": {
-      "nodeId": "zylo-f3661f7f9f2f",
+    "zylo-0aa12348fbbc": {
+      "nodeId": "zylo-0aa12348fbbc",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 110,
       "locStart": {
@@ -2556,8 +2556,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-4bf321b6a889": {
-      "nodeId": "zylo-4bf321b6a889",
+    "zylo-fef57929b197": {
+      "nodeId": "zylo-fef57929b197",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 111,
       "locStart": {
@@ -2573,8 +2573,8 @@
       "componentName": "ContactSection",
       "capabilities": 86
     },
-    "zylo-54e38e1a9b31": {
-      "nodeId": "zylo-54e38e1a9b31",
+    "zylo-84f737336bda": {
+      "nodeId": "zylo-84f737336bda",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 112,
       "locStart": {
@@ -2590,8 +2590,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-a160da36b34a": {
-      "nodeId": "zylo-a160da36b34a",
+    "zylo-b89cf8a0f279": {
+      "nodeId": "zylo-b89cf8a0f279",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 113,
       "locStart": {
@@ -2607,8 +2607,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-ad5f37594559": {
-      "nodeId": "zylo-ad5f37594559",
+    "zylo-727d1c68e214": {
+      "nodeId": "zylo-727d1c68e214",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 114,
       "locStart": {
@@ -2624,8 +2624,8 @@
       "componentName": "ContactSection",
       "capabilities": 26
     },
-    "zylo-b1a17a4fe5ea": {
-      "nodeId": "zylo-b1a17a4fe5ea",
+    "zylo-0d736c6954e0": {
+      "nodeId": "zylo-0d736c6954e0",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 115,
       "locStart": {
@@ -2641,8 +2641,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-aff2fba47fb6": {
-      "nodeId": "zylo-aff2fba47fb6",
+    "zylo-a30fe1ef4d1d": {
+      "nodeId": "zylo-a30fe1ef4d1d",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 116,
       "locStart": {
@@ -2658,8 +2658,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-4c5b35e7084a": {
-      "nodeId": "zylo-4c5b35e7084a",
+    "zylo-d03006de163f": {
+      "nodeId": "zylo-d03006de163f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 117,
       "locStart": {
@@ -2675,8 +2675,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-cc48340a3006": {
-      "nodeId": "zylo-cc48340a3006",
+    "zylo-07b3d809d58d": {
+      "nodeId": "zylo-07b3d809d58d",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 118,
       "locStart": {
@@ -2692,8 +2692,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-2433dfb1212f": {
-      "nodeId": "zylo-2433dfb1212f",
+    "zylo-a9db790c2812": {
+      "nodeId": "zylo-a9db790c2812",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 119,
       "locStart": {
@@ -2709,8 +2709,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-2d96d99c8d36": {
-      "nodeId": "zylo-2d96d99c8d36",
+    "zylo-c0645f207fa3": {
+      "nodeId": "zylo-c0645f207fa3",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 120,
       "locStart": {
@@ -2726,8 +2726,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-1145c350bcd1": {
-      "nodeId": "zylo-1145c350bcd1",
+    "zylo-1c554d8f9275": {
+      "nodeId": "zylo-1c554d8f9275",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 121,
       "locStart": {
@@ -2743,8 +2743,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-fb7139599911": {
-      "nodeId": "zylo-fb7139599911",
+    "zylo-aa13d9736acc": {
+      "nodeId": "zylo-aa13d9736acc",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 122,
       "locStart": {
@@ -2760,8 +2760,8 @@
       "componentName": "ContactSection",
       "capabilities": 63
     },
-    "zylo-d5f696217344": {
-      "nodeId": "zylo-d5f696217344",
+    "zylo-e4914e45bf38": {
+      "nodeId": "zylo-e4914e45bf38",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 123,
       "locStart": {
@@ -2777,8 +2777,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-7eb6f1293c2d": {
-      "nodeId": "zylo-7eb6f1293c2d",
+    "zylo-353154f5d596": {
+      "nodeId": "zylo-353154f5d596",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 124,
       "locStart": {
@@ -2794,8 +2794,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-f25eb3466aa1": {
-      "nodeId": "zylo-f25eb3466aa1",
+    "zylo-2ae3cd04dffb": {
+      "nodeId": "zylo-2ae3cd04dffb",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 125,
       "locStart": {
@@ -2811,8 +2811,8 @@
       "componentName": "ContactSection",
       "capabilities": 63
     },
-    "zylo-8c6f5e1c0e24": {
-      "nodeId": "zylo-8c6f5e1c0e24",
+    "zylo-5b44e76c1160": {
+      "nodeId": "zylo-5b44e76c1160",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 126,
       "locStart": {
@@ -2828,8 +2828,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-ce20c8fdbb9b": {
-      "nodeId": "zylo-ce20c8fdbb9b",
+    "zylo-31866c9ca7be": {
+      "nodeId": "zylo-31866c9ca7be",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 127,
       "locStart": {
@@ -2845,8 +2845,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-a6d68d4483f3": {
-      "nodeId": "zylo-a6d68d4483f3",
+    "zylo-86f26e649d12": {
+      "nodeId": "zylo-86f26e649d12",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 128,
       "locStart": {
@@ -2862,8 +2862,8 @@
       "componentName": "ContactSection",
       "capabilities": 63
     },
-    "zylo-da1fb4d1aeb1": {
-      "nodeId": "zylo-da1fb4d1aeb1",
+    "zylo-70c03e4f4cb6": {
+      "nodeId": "zylo-70c03e4f4cb6",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 129,
       "locStart": {
@@ -2879,8 +2879,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-2681e21a07b7": {
-      "nodeId": "zylo-2681e21a07b7",
+    "zylo-06ef103919d9": {
+      "nodeId": "zylo-06ef103919d9",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 130,
       "locStart": {
@@ -2896,8 +2896,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-fb382dd6a290": {
-      "nodeId": "zylo-fb382dd6a290",
+    "zylo-7948bfc2624f": {
+      "nodeId": "zylo-7948bfc2624f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 131,
       "locStart": {
@@ -2913,8 +2913,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-01e69a6df0b6": {
-      "nodeId": "zylo-01e69a6df0b6",
+    "zylo-f64eec7d60cb": {
+      "nodeId": "zylo-f64eec7d60cb",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 132,
       "locStart": {
@@ -2930,8 +2930,8 @@
       "componentName": "ContactSection",
       "capabilities": 63
     },
-    "zylo-8e4749f8a729": {
-      "nodeId": "zylo-8e4749f8a729",
+    "zylo-05f4ad4cb117": {
+      "nodeId": "zylo-05f4ad4cb117",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 133,
       "locStart": {
@@ -2947,8 +2947,8 @@
       "componentName": "ContactSection",
       "capabilities": 247
     },
-    "zylo-3956cf2fe8d3": {
-      "nodeId": "zylo-3956cf2fe8d3",
+    "zylo-441268efcdec": {
+      "nodeId": "zylo-441268efcdec",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 134,
       "locStart": {
@@ -2964,8 +2964,8 @@
       "componentName": "ContactSection",
       "capabilities": 282
     },
-    "zylo-789e46a352ce": {
-      "nodeId": "zylo-789e46a352ce",
+    "zylo-37dbfdfcdc5e": {
+      "nodeId": "zylo-37dbfdfcdc5e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 135,
       "locStart": {
@@ -2981,8 +2981,8 @@
       "componentName": "ContactSection",
       "capabilities": 63
     },
-    "zylo-b110b7451a65": {
-      "nodeId": "zylo-b110b7451a65",
+    "zylo-3d98ceaa4cdd": {
+      "nodeId": "zylo-3d98ceaa4cdd",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 136,
       "locStart": {
@@ -2998,8 +2998,8 @@
       "componentName": "ContactSection",
       "capabilities": 126
     },
-    "zylo-1c5ffd607ea6": {
-      "nodeId": "zylo-1c5ffd607ea6",
+    "zylo-09890767ce57": {
+      "nodeId": "zylo-09890767ce57",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 137,
       "locStart": {
@@ -3015,8 +3015,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-031557dea841": {
-      "nodeId": "zylo-031557dea841",
+    "zylo-7e4e4c3b46c1": {
+      "nodeId": "zylo-7e4e4c3b46c1",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 138,
       "locStart": {
@@ -3032,8 +3032,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-1817b3a5c461": {
-      "nodeId": "zylo-1817b3a5c461",
+    "zylo-6b15b56ebfa2": {
+      "nodeId": "zylo-6b15b56ebfa2",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 139,
       "locStart": {
@@ -3049,8 +3049,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-717e95b69b0d": {
-      "nodeId": "zylo-717e95b69b0d",
+    "zylo-4d4b57a026b8": {
+      "nodeId": "zylo-4d4b57a026b8",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 140,
       "locStart": {
@@ -3066,8 +3066,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-412f80528227": {
-      "nodeId": "zylo-412f80528227",
+    "zylo-b6820b666201": {
+      "nodeId": "zylo-b6820b666201",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 141,
       "locStart": {
@@ -3083,8 +3083,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-b412b5fdeb2c": {
-      "nodeId": "zylo-b412b5fdeb2c",
+    "zylo-2a8c7f25313f": {
+      "nodeId": "zylo-2a8c7f25313f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 142,
       "locStart": {
@@ -3100,8 +3100,8 @@
       "componentName": "Footer",
       "capabilities": 86
     },
-    "zylo-c51dc23bfa88": {
-      "nodeId": "zylo-c51dc23bfa88",
+    "zylo-eafde47536c5": {
+      "nodeId": "zylo-eafde47536c5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 143,
       "locStart": {
@@ -3117,8 +3117,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-9a6b70ffddf4": {
-      "nodeId": "zylo-9a6b70ffddf4",
+    "zylo-aad2e4437b65": {
+      "nodeId": "zylo-aad2e4437b65",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 144,
       "locStart": {
@@ -3134,8 +3134,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-9d30134276b9": {
-      "nodeId": "zylo-9d30134276b9",
+    "zylo-d8746ce12274": {
+      "nodeId": "zylo-d8746ce12274",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 145,
       "locStart": {
@@ -3151,8 +3151,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-aa35ed34afc0": {
-      "nodeId": "zylo-aa35ed34afc0",
+    "zylo-d145cc06652d": {
+      "nodeId": "zylo-d145cc06652d",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 146,
       "locStart": {
@@ -3168,8 +3168,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-15ee3208e346": {
-      "nodeId": "zylo-15ee3208e346",
+    "zylo-c9ea3669c8e5": {
+      "nodeId": "zylo-c9ea3669c8e5",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 147,
       "locStart": {
@@ -3185,8 +3185,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-f64e08e5f80d": {
-      "nodeId": "zylo-f64e08e5f80d",
+    "zylo-8796697d5d74": {
+      "nodeId": "zylo-8796697d5d74",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 148,
       "locStart": {
@@ -3202,8 +3202,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-f73b3444908c": {
-      "nodeId": "zylo-f73b3444908c",
+    "zylo-5d1354010ad4": {
+      "nodeId": "zylo-5d1354010ad4",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 149,
       "locStart": {
@@ -3219,8 +3219,8 @@
       "componentName": "Footer",
       "capabilities": 26
     },
-    "zylo-961e3b628995": {
-      "nodeId": "zylo-961e3b628995",
+    "zylo-7f849243ca94": {
+      "nodeId": "zylo-7f849243ca94",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 150,
       "locStart": {
@@ -3236,8 +3236,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-09fa19a42f0a": {
-      "nodeId": "zylo-09fa19a42f0a",
+    "zylo-3315e3c95b9b": {
+      "nodeId": "zylo-3315e3c95b9b",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 151,
       "locStart": {
@@ -3253,8 +3253,8 @@
       "componentName": "Footer",
       "capabilities": 26
     },
-    "zylo-3393716a03ea": {
-      "nodeId": "zylo-3393716a03ea",
+    "zylo-319ceab448d4": {
+      "nodeId": "zylo-319ceab448d4",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 152,
       "locStart": {
@@ -3270,8 +3270,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-b05bdd342c2b": {
-      "nodeId": "zylo-b05bdd342c2b",
+    "zylo-af22be56980e": {
+      "nodeId": "zylo-af22be56980e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 153,
       "locStart": {
@@ -3287,8 +3287,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-92878d884c42": {
-      "nodeId": "zylo-92878d884c42",
+    "zylo-da8b296d5f6e": {
+      "nodeId": "zylo-da8b296d5f6e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 154,
       "locStart": {
@@ -3304,8 +3304,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-44ce741414e8": {
-      "nodeId": "zylo-44ce741414e8",
+    "zylo-21fdfd7dff9e": {
+      "nodeId": "zylo-21fdfd7dff9e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 155,
       "locStart": {
@@ -3321,8 +3321,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-ddd4147e54b9": {
-      "nodeId": "zylo-ddd4147e54b9",
+    "zylo-3508ef89639d": {
+      "nodeId": "zylo-3508ef89639d",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 156,
       "locStart": {
@@ -3338,8 +3338,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-90b589220e08": {
-      "nodeId": "zylo-90b589220e08",
+    "zylo-b79ee019afb7": {
+      "nodeId": "zylo-b79ee019afb7",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 157,
       "locStart": {
@@ -3355,8 +3355,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-3d620344ed15": {
-      "nodeId": "zylo-3d620344ed15",
+    "zylo-0714205c14c4": {
+      "nodeId": "zylo-0714205c14c4",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 158,
       "locStart": {
@@ -3372,8 +3372,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-c6103a28639e": {
-      "nodeId": "zylo-c6103a28639e",
+    "zylo-b9356ced4a8a": {
+      "nodeId": "zylo-b9356ced4a8a",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 159,
       "locStart": {
@@ -3389,8 +3389,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-583e36cc015a": {
-      "nodeId": "zylo-583e36cc015a",
+    "zylo-c85d84af852e": {
+      "nodeId": "zylo-c85d84af852e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 160,
       "locStart": {
@@ -3406,8 +3406,8 @@
       "componentName": "Footer",
       "capabilities": 247
     },
-    "zylo-1dbe8bf49a61": {
-      "nodeId": "zylo-1dbe8bf49a61",
+    "zylo-7b15ffcc92ca": {
+      "nodeId": "zylo-7b15ffcc92ca",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 161,
       "locStart": {
@@ -3423,8 +3423,8 @@
       "componentName": "Footer",
       "capabilities": 282
     },
-    "zylo-6f6dc3d53673": {
-      "nodeId": "zylo-6f6dc3d53673",
+    "zylo-30e199be81e4": {
+      "nodeId": "zylo-30e199be81e4",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 162,
       "locStart": {
@@ -3440,8 +3440,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-06bfdd8bba1d": {
-      "nodeId": "zylo-06bfdd8bba1d",
+    "zylo-b8be292648d6": {
+      "nodeId": "zylo-b8be292648d6",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 163,
       "locStart": {
@@ -3457,8 +3457,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-eed653c0dcda": {
-      "nodeId": "zylo-eed653c0dcda",
+    "zylo-8320cd05590f": {
+      "nodeId": "zylo-8320cd05590f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 164,
       "locStart": {
@@ -3474,8 +3474,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-5bf754acd1f2": {
-      "nodeId": "zylo-5bf754acd1f2",
+    "zylo-9b36965068ca": {
+      "nodeId": "zylo-9b36965068ca",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 165,
       "locStart": {
@@ -3491,8 +3491,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-e3dc1dc793a0": {
-      "nodeId": "zylo-e3dc1dc793a0",
+    "zylo-965f8c913c37": {
+      "nodeId": "zylo-965f8c913c37",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 166,
       "locStart": {
@@ -3508,8 +3508,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-659a53cf6857": {
-      "nodeId": "zylo-659a53cf6857",
+    "zylo-2a54ff8e8982": {
+      "nodeId": "zylo-2a54ff8e8982",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 167,
       "locStart": {
@@ -3525,8 +3525,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-5c96c4aa77cd": {
-      "nodeId": "zylo-5c96c4aa77cd",
+    "zylo-6a1dfc833417": {
+      "nodeId": "zylo-6a1dfc833417",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 168,
       "locStart": {
@@ -3542,8 +3542,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-3bff335d5ef9": {
-      "nodeId": "zylo-3bff335d5ef9",
+    "zylo-a8d5ced7535f": {
+      "nodeId": "zylo-a8d5ced7535f",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 169,
       "locStart": {
@@ -3559,8 +3559,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-94b2c14551c0": {
-      "nodeId": "zylo-94b2c14551c0",
+    "zylo-60d2b5a36898": {
+      "nodeId": "zylo-60d2b5a36898",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 170,
       "locStart": {
@@ -3576,8 +3576,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-770446442548": {
-      "nodeId": "zylo-770446442548",
+    "zylo-fa4eb7d0be0e": {
+      "nodeId": "zylo-fa4eb7d0be0e",
       "filePath": "src/app/page.tsx",
       "astPathIndex": 171,
       "locStart": {
@@ -3593,8 +3593,8 @@
       "componentName": "HomePage",
       "capabilities": 247
     },
-    "zylo-059d7c35998a": {
-      "nodeId": "zylo-059d7c35998a",
+    "zylo-b195089d152f": {
+      "nodeId": "zylo-b195089d152f",
       "filePath": "src/components/client-safe.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -3609,8 +3609,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-4c8a0477fd0f": {
-      "nodeId": "zylo-4c8a0477fd0f",
+    "zylo-f68996a504f6": {
+      "nodeId": "zylo-f68996a504f6",
       "filePath": "src/components/client-safe.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -3626,8 +3626,8 @@
       "componentName": "BrowserOnlyWrapper",
       "capabilities": 247
     },
-    "zylo-218328307727": {
-      "nodeId": "zylo-218328307727",
+    "zylo-0809bf5c5268": {
+      "nodeId": "zylo-0809bf5c5268",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -3643,8 +3643,8 @@
       "componentName": "EmptyState",
       "capabilities": 247
     },
-    "zylo-24652a6cbe8b": {
-      "nodeId": "zylo-24652a6cbe8b",
+    "zylo-934e3640c65f": {
+      "nodeId": "zylo-934e3640c65f",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -3660,8 +3660,8 @@
       "componentName": "EmptyState",
       "capabilities": 247
     },
-    "zylo-3a5b187da1bd": {
-      "nodeId": "zylo-3a5b187da1bd",
+    "zylo-8a57a7afd7a1": {
+      "nodeId": "zylo-8a57a7afd7a1",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -3677,8 +3677,8 @@
       "componentName": "EmptyState",
       "capabilities": 86
     },
-    "zylo-826a89ce9abb": {
-      "nodeId": "zylo-826a89ce9abb",
+    "zylo-6318f5fb5707": {
+      "nodeId": "zylo-6318f5fb5707",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -3694,8 +3694,8 @@
       "componentName": "EmptyState",
       "capabilities": 282
     },
-    "zylo-4d12314d98b4": {
-      "nodeId": "zylo-4d12314d98b4",
+    "zylo-a64ab9081ee3": {
+      "nodeId": "zylo-a64ab9081ee3",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -3711,8 +3711,8 @@
       "componentName": "EmptyState",
       "capabilities": 282
     },
-    "zylo-fb33a5d2ee4c": {
-      "nodeId": "zylo-fb33a5d2ee4c",
+    "zylo-473e607bbb9b": {
+      "nodeId": "zylo-473e607bbb9b",
       "filePath": "src/components/empty-state.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -3728,8 +3728,8 @@
       "componentName": "EmptyState",
       "capabilities": 247
     },
-    "zylo-8fa66fd0e40e": {
-      "nodeId": "zylo-8fa66fd0e40e",
+    "zylo-28e43e699665": {
+      "nodeId": "zylo-28e43e699665",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -3745,8 +3745,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-031897a9091c": {
-      "nodeId": "zylo-031897a9091c",
+    "zylo-2d3d3763e3f1": {
+      "nodeId": "zylo-2d3d3763e3f1",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -3762,8 +3762,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-c7e4c2610956": {
-      "nodeId": "zylo-c7e4c2610956",
+    "zylo-b7a3c831ad13": {
+      "nodeId": "zylo-b7a3c831ad13",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -3779,8 +3779,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-53f9204f0904": {
-      "nodeId": "zylo-53f9204f0904",
+    "zylo-9a8cfaa8ce3f": {
+      "nodeId": "zylo-9a8cfaa8ce3f",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -3796,8 +3796,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 86
     },
-    "zylo-4cae773b8e02": {
-      "nodeId": "zylo-4cae773b8e02",
+    "zylo-e6c9253fab22": {
+      "nodeId": "zylo-e6c9253fab22",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -3813,8 +3813,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-845e6783827f": {
-      "nodeId": "zylo-845e6783827f",
+    "zylo-f953c7006a4d": {
+      "nodeId": "zylo-f953c7006a4d",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -3830,8 +3830,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-975c4aedaeed": {
-      "nodeId": "zylo-975c4aedaeed",
+    "zylo-d6002e8aed9e": {
+      "nodeId": "zylo-d6002e8aed9e",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -3847,8 +3847,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-019cc3312eea": {
-      "nodeId": "zylo-019cc3312eea",
+    "zylo-04a4f90d2edd": {
+      "nodeId": "zylo-04a4f90d2edd",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -3864,8 +3864,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 282
     },
-    "zylo-88fad0ea8fae": {
-      "nodeId": "zylo-88fad0ea8fae",
+    "zylo-f95c0c9c9e48": {
+      "nodeId": "zylo-f95c0c9c9e48",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -3881,8 +3881,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 282
     },
-    "zylo-4c7cff6b76f9": {
-      "nodeId": "zylo-4c7cff6b76f9",
+    "zylo-edc7fc881b91": {
+      "nodeId": "zylo-edc7fc881b91",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -3898,8 +3898,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 282
     },
-    "zylo-7b82904a8fba": {
-      "nodeId": "zylo-7b82904a8fba",
+    "zylo-563c0b755919": {
+      "nodeId": "zylo-563c0b755919",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -3915,8 +3915,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 282
     },
-    "zylo-ed7ab03e280b": {
-      "nodeId": "zylo-ed7ab03e280b",
+    "zylo-7ebb88427811": {
+      "nodeId": "zylo-7ebb88427811",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -3932,8 +3932,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-8727a566a3e0": {
-      "nodeId": "zylo-8727a566a3e0",
+    "zylo-07a9afccdf88": {
+      "nodeId": "zylo-07a9afccdf88",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -3949,8 +3949,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-6752a48b51d0": {
-      "nodeId": "zylo-6752a48b51d0",
+    "zylo-259ddaa435c8": {
+      "nodeId": "zylo-259ddaa435c8",
       "filePath": "src/components/error-boundary.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -3966,8 +3966,8 @@
       "componentName": "ErrorBoundary",
       "capabilities": 247
     },
-    "zylo-da7f99466b1d": {
-      "nodeId": "zylo-da7f99466b1d",
+    "zylo-e2127147ab97": {
+      "nodeId": "zylo-e2127147ab97",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -3983,8 +3983,8 @@
       "componentName": "LoadingSkeleton",
       "capabilities": 247
     },
-    "zylo-015c94a291d2": {
-      "nodeId": "zylo-015c94a291d2",
+    "zylo-8de3c8eed5e4": {
+      "nodeId": "zylo-8de3c8eed5e4",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -4000,8 +4000,8 @@
       "componentName": "CardSkeleton",
       "capabilities": 247
     },
-    "zylo-145b96c1b149": {
-      "nodeId": "zylo-145b96c1b149",
+    "zylo-321bbdc96f89": {
+      "nodeId": "zylo-321bbdc96f89",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -4017,8 +4017,8 @@
       "componentName": "CardSkeleton",
       "capabilities": 247
     },
-    "zylo-ce6c9bc32e56": {
-      "nodeId": "zylo-ce6c9bc32e56",
+    "zylo-d2f65396f01d": {
+      "nodeId": "zylo-d2f65396f01d",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -4034,8 +4034,8 @@
       "componentName": "CardSkeleton",
       "capabilities": 247
     },
-    "zylo-44089be90661": {
-      "nodeId": "zylo-44089be90661",
+    "zylo-5195cc06b7a3": {
+      "nodeId": "zylo-5195cc06b7a3",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -4051,8 +4051,8 @@
       "componentName": "CardSkeleton",
       "capabilities": 247
     },
-    "zylo-de79f50f2030": {
-      "nodeId": "zylo-de79f50f2030",
+    "zylo-835bf72dab78": {
+      "nodeId": "zylo-835bf72dab78",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -4068,8 +4068,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 247
     },
-    "zylo-061b2ea92417": {
-      "nodeId": "zylo-061b2ea92417",
+    "zylo-9686302e5407": {
+      "nodeId": "zylo-9686302e5407",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -4085,8 +4085,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 247
     },
-    "zylo-4e14bd7dea24": {
-      "nodeId": "zylo-4e14bd7dea24",
+    "zylo-87d30123b28b": {
+      "nodeId": "zylo-87d30123b28b",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -4102,8 +4102,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 59
     },
-    "zylo-8e69af5957cb": {
-      "nodeId": "zylo-8e69af5957cb",
+    "zylo-465a89dd4912": {
+      "nodeId": "zylo-465a89dd4912",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -4119,8 +4119,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 247
     },
-    "zylo-d080f3646731": {
-      "nodeId": "zylo-d080f3646731",
+    "zylo-587921d7329e": {
+      "nodeId": "zylo-587921d7329e",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -4136,8 +4136,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 59
     },
-    "zylo-4be2b4b029d4": {
-      "nodeId": "zylo-4be2b4b029d4",
+    "zylo-bb6ddd3ee297": {
+      "nodeId": "zylo-bb6ddd3ee297",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -4153,8 +4153,8 @@
       "componentName": "ListSkeleton",
       "capabilities": 59
     },
-    "zylo-470689f658b9": {
-      "nodeId": "zylo-470689f658b9",
+    "zylo-ebc78d66dd8e": {
+      "nodeId": "zylo-ebc78d66dd8e",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -4170,8 +4170,8 @@
       "componentName": "TableSkeleton",
       "capabilities": 247
     },
-    "zylo-4f8eb5811b74": {
-      "nodeId": "zylo-4f8eb5811b74",
+    "zylo-0d445fb79f4b": {
+      "nodeId": "zylo-0d445fb79f4b",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -4187,8 +4187,8 @@
       "componentName": "TableSkeleton",
       "capabilities": 247
     },
-    "zylo-191976ed008d": {
-      "nodeId": "zylo-191976ed008d",
+    "zylo-b3c0b122cc3a": {
+      "nodeId": "zylo-b3c0b122cc3a",
       "filePath": "src/components/loading-skeleton.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -4204,8 +4204,8 @@
       "componentName": "TableSkeleton",
       "capabilities": 247
     },
-    "zylo-c9183a9a1ce7": {
-      "nodeId": "zylo-c9183a9a1ce7",
+    "zylo-647e4b4e3c56": {
+      "nodeId": "zylo-647e4b4e3c56",
       "filePath": "src/components/query-provider.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -4221,8 +4221,8 @@
       "componentName": "QueryProvider",
       "capabilities": 247
     },
-    "zylo-08a8360d8d76": {
-      "nodeId": "zylo-08a8360d8d76",
+    "zylo-98e7a8c8c425": {
+      "nodeId": "zylo-98e7a8c8c425",
       "filePath": "src/components/theme-provider.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -4238,8 +4238,8 @@
       "componentName": "ThemeProvider",
       "capabilities": 247
     },
-    "zylo-5bfba7cd3f58": {
-      "nodeId": "zylo-5bfba7cd3f58",
+    "zylo-8cb09de6dd7d": {
+      "nodeId": "zylo-8cb09de6dd7d",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -4255,8 +4255,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-98c8dbc25aae": {
-      "nodeId": "zylo-98c8dbc25aae",
+    "zylo-df3e0fe6792b": {
+      "nodeId": "zylo-df3e0fe6792b",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -4272,8 +4272,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-80d107bc8bf3": {
-      "nodeId": "zylo-80d107bc8bf3",
+    "zylo-c5b9521506a5": {
+      "nodeId": "zylo-c5b9521506a5",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -4289,8 +4289,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-3be488257a46": {
-      "nodeId": "zylo-3be488257a46",
+    "zylo-0afedd7d349e": {
+      "nodeId": "zylo-0afedd7d349e",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -4306,8 +4306,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-f43b685daf4c": {
-      "nodeId": "zylo-f43b685daf4c",
+    "zylo-3ccc9921af2a": {
+      "nodeId": "zylo-3ccc9921af2a",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -4323,8 +4323,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-250937455e68": {
-      "nodeId": "zylo-250937455e68",
+    "zylo-9c6ce7129a25": {
+      "nodeId": "zylo-9c6ce7129a25",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -4340,8 +4340,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-4b8a546a23f5": {
-      "nodeId": "zylo-4b8a546a23f5",
+    "zylo-78e832b08119": {
+      "nodeId": "zylo-78e832b08119",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -4357,8 +4357,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-f8d004fdf382": {
-      "nodeId": "zylo-f8d004fdf382",
+    "zylo-c17830bf2500": {
+      "nodeId": "zylo-c17830bf2500",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -4374,8 +4374,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-ef3ab70570d2": {
-      "nodeId": "zylo-ef3ab70570d2",
+    "zylo-c5eb0353c122": {
+      "nodeId": "zylo-c5eb0353c122",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -4391,8 +4391,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-4d386735ee30": {
-      "nodeId": "zylo-4d386735ee30",
+    "zylo-24a555e95c59": {
+      "nodeId": "zylo-24a555e95c59",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -4408,8 +4408,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-6122f44071c0": {
-      "nodeId": "zylo-6122f44071c0",
+    "zylo-43eff16503b2": {
+      "nodeId": "zylo-43eff16503b2",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -4425,8 +4425,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-e894145fddf2": {
-      "nodeId": "zylo-e894145fddf2",
+    "zylo-04351e1bff28": {
+      "nodeId": "zylo-04351e1bff28",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -4442,8 +4442,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-c66a46a0c0f3": {
-      "nodeId": "zylo-c66a46a0c0f3",
+    "zylo-af8c5b971532": {
+      "nodeId": "zylo-af8c5b971532",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -4459,8 +4459,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-0bb74b0ba23d": {
-      "nodeId": "zylo-0bb74b0ba23d",
+    "zylo-429235505196": {
+      "nodeId": "zylo-429235505196",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -4476,8 +4476,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-69e5c75b4e5c": {
-      "nodeId": "zylo-69e5c75b4e5c",
+    "zylo-71d3cfa14a7d": {
+      "nodeId": "zylo-71d3cfa14a7d",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -4493,8 +4493,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-1c7a6abf5a54": {
-      "nodeId": "zylo-1c7a6abf5a54",
+    "zylo-975e4504c6dc": {
+      "nodeId": "zylo-975e4504c6dc",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -4510,8 +4510,8 @@
       "componentName": "LoginPage",
       "capabilities": 247
     },
-    "zylo-01325918fd41": {
-      "nodeId": "zylo-01325918fd41",
+    "zylo-0435fd7e40b6": {
+      "nodeId": "zylo-0435fd7e40b6",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -4527,8 +4527,8 @@
       "componentName": "LoginPage",
       "capabilities": 282
     },
-    "zylo-242e78ed0231": {
-      "nodeId": "zylo-242e78ed0231",
+    "zylo-ce36db4165ff": {
+      "nodeId": "zylo-ce36db4165ff",
       "filePath": "src/app/login/page.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -4544,8 +4544,8 @@
       "componentName": "LoginPage",
       "capabilities": 26
     },
-    "zylo-15fb98a0530f": {
-      "nodeId": "zylo-15fb98a0530f",
+    "zylo-10e382162422": {
+      "nodeId": "zylo-10e382162422",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -4561,8 +4561,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-0bf764bad492": {
-      "nodeId": "zylo-0bf764bad492",
+    "zylo-2493fe6a1780": {
+      "nodeId": "zylo-2493fe6a1780",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -4578,8 +4578,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-99d1bc056fa2": {
-      "nodeId": "zylo-99d1bc056fa2",
+    "zylo-7da9f4474e4b": {
+      "nodeId": "zylo-7da9f4474e4b",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -4595,8 +4595,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-50cc049702dd": {
-      "nodeId": "zylo-50cc049702dd",
+    "zylo-2330571f3505": {
+      "nodeId": "zylo-2330571f3505",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -4612,8 +4612,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-ec90d8fb6c3f": {
-      "nodeId": "zylo-ec90d8fb6c3f",
+    "zylo-160e9696b2b7": {
+      "nodeId": "zylo-160e9696b2b7",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -4629,8 +4629,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-2197d0ba051b": {
-      "nodeId": "zylo-2197d0ba051b",
+    "zylo-e8cddf724f9d": {
+      "nodeId": "zylo-e8cddf724f9d",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -4646,8 +4646,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-cd46338cab05": {
-      "nodeId": "zylo-cd46338cab05",
+    "zylo-74b3c2b46dc2": {
+      "nodeId": "zylo-74b3c2b46dc2",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -4663,8 +4663,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-9e79384dda28": {
-      "nodeId": "zylo-9e79384dda28",
+    "zylo-1ad5c71bcd47": {
+      "nodeId": "zylo-1ad5c71bcd47",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -4680,8 +4680,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-f37121fbbd1e": {
-      "nodeId": "zylo-f37121fbbd1e",
+    "zylo-176254f39746": {
+      "nodeId": "zylo-176254f39746",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -4697,8 +4697,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-0df771229b62": {
-      "nodeId": "zylo-0df771229b62",
+    "zylo-cd6294749837": {
+      "nodeId": "zylo-cd6294749837",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -4714,8 +4714,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-45d9b8d0486a": {
-      "nodeId": "zylo-45d9b8d0486a",
+    "zylo-5ea6381f75aa": {
+      "nodeId": "zylo-5ea6381f75aa",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -4731,8 +4731,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-74564189212c": {
-      "nodeId": "zylo-74564189212c",
+    "zylo-6e60300698c1": {
+      "nodeId": "zylo-6e60300698c1",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -4748,8 +4748,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-62275e04b73f": {
-      "nodeId": "zylo-62275e04b73f",
+    "zylo-1d026341ae43": {
+      "nodeId": "zylo-1d026341ae43",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -4765,8 +4765,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-6c4c1d8dfc25": {
-      "nodeId": "zylo-6c4c1d8dfc25",
+    "zylo-184f2c0b2c68": {
+      "nodeId": "zylo-184f2c0b2c68",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -4782,8 +4782,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-d72c0831e248": {
-      "nodeId": "zylo-d72c0831e248",
+    "zylo-88c4ae907dd7": {
+      "nodeId": "zylo-88c4ae907dd7",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -4799,8 +4799,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-3d70f6aa45c9": {
-      "nodeId": "zylo-3d70f6aa45c9",
+    "zylo-f19ec20eccef": {
+      "nodeId": "zylo-f19ec20eccef",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -4816,8 +4816,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-42fcace901b4": {
-      "nodeId": "zylo-42fcace901b4",
+    "zylo-970b747c60dd": {
+      "nodeId": "zylo-970b747c60dd",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -4833,8 +4833,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-ddb18bb70577": {
-      "nodeId": "zylo-ddb18bb70577",
+    "zylo-b0366b8de022": {
+      "nodeId": "zylo-b0366b8de022",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -4850,8 +4850,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-380172d1452e": {
-      "nodeId": "zylo-380172d1452e",
+    "zylo-9adb3183ad5c": {
+      "nodeId": "zylo-9adb3183ad5c",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -4867,8 +4867,8 @@
       "componentName": "SignupPage",
       "capabilities": 247
     },
-    "zylo-06a63f1b2f5c": {
-      "nodeId": "zylo-06a63f1b2f5c",
+    "zylo-628c2848b684": {
+      "nodeId": "zylo-628c2848b684",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 19,
       "locStart": {
@@ -4884,8 +4884,8 @@
       "componentName": "SignupPage",
       "capabilities": 282
     },
-    "zylo-62d5008fe49e": {
-      "nodeId": "zylo-62d5008fe49e",
+    "zylo-2994495ddbd4": {
+      "nodeId": "zylo-2994495ddbd4",
       "filePath": "src/app/signup/page.tsx",
       "astPathIndex": 20,
       "locStart": {
@@ -4901,8 +4901,8 @@
       "componentName": "SignupPage",
       "capabilities": 26
     },
-    "zylo-8d15cdb877ea": {
-      "nodeId": "zylo-8d15cdb877ea",
+    "zylo-3c3a9d94e1c0": {
+      "nodeId": "zylo-3c3a9d94e1c0",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -4917,8 +4917,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-96a03dac5445": {
-      "nodeId": "zylo-96a03dac5445",
+    "zylo-accc5dcfc4f1": {
+      "nodeId": "zylo-accc5dcfc4f1",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -4933,8 +4933,8 @@
       "tagName": "Header",
       "capabilities": 247
     },
-    "zylo-d9f9cf9602cc": {
-      "nodeId": "zylo-d9f9cf9602cc",
+    "zylo-244be96c88b3": {
+      "nodeId": "zylo-244be96c88b3",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -4949,8 +4949,8 @@
       "tagName": "Trigger",
       "capabilities": 247
     },
-    "zylo-53d39ea31304": {
-      "nodeId": "zylo-53d39ea31304",
+    "zylo-b2d2c56ed3aa": {
+      "nodeId": "zylo-b2d2c56ed3aa",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -4965,8 +4965,8 @@
       "tagName": "ChevronDown",
       "capabilities": 86
     },
-    "zylo-edffaaa2f272": {
-      "nodeId": "zylo-edffaaa2f272",
+    "zylo-740037d63c65": {
+      "nodeId": "zylo-740037d63c65",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -4981,8 +4981,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-ea12379c7f38": {
-      "nodeId": "zylo-ea12379c7f38",
+    "zylo-b67ee1ecc086": {
+      "nodeId": "zylo-b67ee1ecc086",
       "filePath": "src/components/ui/accordion.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -4997,8 +4997,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-eab5d2c5d119": {
-      "nodeId": "zylo-eab5d2c5d119",
+    "zylo-6116f686a9a3": {
+      "nodeId": "zylo-6116f686a9a3",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5013,8 +5013,8 @@
       "tagName": "Overlay",
       "capabilities": 247
     },
-    "zylo-2690bbd23c5b": {
-      "nodeId": "zylo-2690bbd23c5b",
+    "zylo-3e7d4c266e54": {
+      "nodeId": "zylo-3e7d4c266e54",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5029,8 +5029,8 @@
       "tagName": "AlertDialogPortal",
       "capabilities": 247
     },
-    "zylo-4649a23f8b00": {
-      "nodeId": "zylo-4649a23f8b00",
+    "zylo-5b91e1ad3eb0": {
+      "nodeId": "zylo-5b91e1ad3eb0",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5045,8 +5045,8 @@
       "tagName": "AlertDialogOverlay",
       "capabilities": 247
     },
-    "zylo-ef8178faf09e": {
-      "nodeId": "zylo-ef8178faf09e",
+    "zylo-6fa391a3c58f": {
+      "nodeId": "zylo-6fa391a3c58f",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -5061,8 +5061,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-b009697f229c": {
-      "nodeId": "zylo-b009697f229c",
+    "zylo-7d3a768e5225": {
+      "nodeId": "zylo-7d3a768e5225",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -5078,8 +5078,8 @@
       "componentName": "AlertDialogHeader",
       "capabilities": 247
     },
-    "zylo-0c7aa9961210": {
-      "nodeId": "zylo-0c7aa9961210",
+    "zylo-a6adabfd4e34": {
+      "nodeId": "zylo-a6adabfd4e34",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -5095,8 +5095,8 @@
       "componentName": "AlertDialogFooter",
       "capabilities": 247
     },
-    "zylo-bff416497b86": {
-      "nodeId": "zylo-bff416497b86",
+    "zylo-f4d3ae55257e": {
+      "nodeId": "zylo-f4d3ae55257e",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -5111,8 +5111,8 @@
       "tagName": "Title",
       "capabilities": 282
     },
-    "zylo-a8e211676be7": {
-      "nodeId": "zylo-a8e211676be7",
+    "zylo-5cf98df6dae6": {
+      "nodeId": "zylo-5cf98df6dae6",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -5127,8 +5127,8 @@
       "tagName": "Description",
       "capabilities": 282
     },
-    "zylo-e0ce01f071d3": {
-      "nodeId": "zylo-e0ce01f071d3",
+    "zylo-47586ffb3ec3": {
+      "nodeId": "zylo-47586ffb3ec3",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -5143,8 +5143,8 @@
       "tagName": "Action",
       "capabilities": 126
     },
-    "zylo-10737e06296b": {
-      "nodeId": "zylo-10737e06296b",
+    "zylo-1e9dc1916e8a": {
+      "nodeId": "zylo-1e9dc1916e8a",
       "filePath": "src/components/ui/alert-dialog.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -5159,8 +5159,8 @@
       "tagName": "Cancel",
       "capabilities": 247
     },
-    "zylo-7a92a640f76b": {
-      "nodeId": "zylo-7a92a640f76b",
+    "zylo-a67beed1ca6d": {
+      "nodeId": "zylo-a67beed1ca6d",
       "filePath": "src/components/ui/alert.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5175,8 +5175,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-ea0277a35f75": {
-      "nodeId": "zylo-ea0277a35f75",
+    "zylo-273a2c3186f4": {
+      "nodeId": "zylo-273a2c3186f4",
       "filePath": "src/components/ui/alert.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5191,8 +5191,8 @@
       "tagName": "h5",
       "capabilities": 282
     },
-    "zylo-72eb888f81da": {
-      "nodeId": "zylo-72eb888f81da",
+    "zylo-7656c66a5d03": {
+      "nodeId": "zylo-7656c66a5d03",
       "filePath": "src/components/ui/alert.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5207,8 +5207,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-39801195dfe0": {
-      "nodeId": "zylo-39801195dfe0",
+    "zylo-c8d92b5e8c47": {
+      "nodeId": "zylo-c8d92b5e8c47",
       "filePath": "src/components/ui/avatar.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5223,8 +5223,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-ac6914ec4500": {
-      "nodeId": "zylo-ac6914ec4500",
+    "zylo-8b71a662e8d5": {
+      "nodeId": "zylo-8b71a662e8d5",
       "filePath": "src/components/ui/avatar.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5239,8 +5239,8 @@
       "tagName": "Image",
       "capabilities": 742
     },
-    "zylo-94f0c160ce4b": {
-      "nodeId": "zylo-94f0c160ce4b",
+    "zylo-72720c038baf": {
+      "nodeId": "zylo-72720c038baf",
       "filePath": "src/components/ui/avatar.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5255,8 +5255,8 @@
       "tagName": "Fallback",
       "capabilities": 247
     },
-    "zylo-f9ab3fc0bf81": {
-      "nodeId": "zylo-f9ab3fc0bf81",
+    "zylo-668ecc1e1673": {
+      "nodeId": "zylo-668ecc1e1673",
       "filePath": "src/components/ui/badge.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5272,8 +5272,8 @@
       "componentName": "Badge",
       "capabilities": 247
     },
-    "zylo-a7e8dac63001": {
-      "nodeId": "zylo-a7e8dac63001",
+    "zylo-a48be21eb8b2": {
+      "nodeId": "zylo-a48be21eb8b2",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5288,8 +5288,8 @@
       "tagName": "nav",
       "capabilities": 247
     },
-    "zylo-ad5bb1c04925": {
-      "nodeId": "zylo-ad5bb1c04925",
+    "zylo-72ded37227c8": {
+      "nodeId": "zylo-72ded37227c8",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5304,8 +5304,8 @@
       "tagName": "ol",
       "capabilities": 59
     },
-    "zylo-9f22614698b9": {
-      "nodeId": "zylo-9f22614698b9",
+    "zylo-bb01b0a0c2b7": {
+      "nodeId": "zylo-bb01b0a0c2b7",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5320,8 +5320,8 @@
       "tagName": "li",
       "capabilities": 59
     },
-    "zylo-52a55bb9eadd": {
-      "nodeId": "zylo-52a55bb9eadd",
+    "zylo-76994a688ddf": {
+      "nodeId": "zylo-76994a688ddf",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -5336,8 +5336,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-2d64ab2adca2": {
-      "nodeId": "zylo-2d64ab2adca2",
+    "zylo-8d55fb96b9cc": {
+      "nodeId": "zylo-8d55fb96b9cc",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -5352,8 +5352,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-df10b81987dd": {
-      "nodeId": "zylo-df10b81987dd",
+    "zylo-fe244220387f": {
+      "nodeId": "zylo-fe244220387f",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -5369,8 +5369,8 @@
       "componentName": "BreadcrumbSeparator",
       "capabilities": 59
     },
-    "zylo-278ff58b0403": {
-      "nodeId": "zylo-278ff58b0403",
+    "zylo-f2c416598b46": {
+      "nodeId": "zylo-f2c416598b46",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -5386,8 +5386,8 @@
       "componentName": "BreadcrumbSeparator",
       "capabilities": 86
     },
-    "zylo-c7f61a6136e8": {
-      "nodeId": "zylo-c7f61a6136e8",
+    "zylo-c8b6f5a36e92": {
+      "nodeId": "zylo-c8b6f5a36e92",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -5403,8 +5403,8 @@
       "componentName": "BreadcrumbEllipsis",
       "capabilities": 282
     },
-    "zylo-5de9367460a7": {
-      "nodeId": "zylo-5de9367460a7",
+    "zylo-3d7523ddaa60": {
+      "nodeId": "zylo-3d7523ddaa60",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -5420,8 +5420,8 @@
       "componentName": "BreadcrumbEllipsis",
       "capabilities": 86
     },
-    "zylo-6c65460674e5": {
-      "nodeId": "zylo-6c65460674e5",
+    "zylo-544a7438453d": {
+      "nodeId": "zylo-544a7438453d",
       "filePath": "src/components/ui/breadcrumb.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -5437,8 +5437,8 @@
       "componentName": "BreadcrumbEllipsis",
       "capabilities": 282
     },
-    "zylo-f4baacf86d64": {
-      "nodeId": "zylo-f4baacf86d64",
+    "zylo-cff0ca7aaadf": {
+      "nodeId": "zylo-cff0ca7aaadf",
       "filePath": "src/components/ui/button.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5453,8 +5453,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-5f585e04a142": {
-      "nodeId": "zylo-5f585e04a142",
+    "zylo-4c0c6e3a392e": {
+      "nodeId": "zylo-4c0c6e3a392e",
       "filePath": "src/components/ui/calendar.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5470,8 +5470,8 @@
       "componentName": "Calendar",
       "capabilities": 247
     },
-    "zylo-449fb081b243": {
-      "nodeId": "zylo-449fb081b243",
+    "zylo-04f1f0148d62": {
+      "nodeId": "zylo-04f1f0148d62",
       "filePath": "src/components/ui/calendar.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5487,8 +5487,8 @@
       "componentName": "Calendar",
       "capabilities": 86
     },
-    "zylo-8795af09c2f0": {
-      "nodeId": "zylo-8795af09c2f0",
+    "zylo-625bdadc861f": {
+      "nodeId": "zylo-625bdadc861f",
       "filePath": "src/components/ui/calendar.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5504,8 +5504,8 @@
       "componentName": "Calendar",
       "capabilities": 86
     },
-    "zylo-aa10a20aef87": {
-      "nodeId": "zylo-aa10a20aef87",
+    "zylo-c318057f9e15": {
+      "nodeId": "zylo-c318057f9e15",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5520,8 +5520,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-31ed75cce8b1": {
-      "nodeId": "zylo-31ed75cce8b1",
+    "zylo-b62a00117293": {
+      "nodeId": "zylo-b62a00117293",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5536,8 +5536,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-78c1ab5512e1": {
-      "nodeId": "zylo-78c1ab5512e1",
+    "zylo-54952b5c6d25": {
+      "nodeId": "zylo-54952b5c6d25",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5552,8 +5552,8 @@
       "tagName": "h3",
       "capabilities": 282
     },
-    "zylo-c94308950c9f": {
-      "nodeId": "zylo-c94308950c9f",
+    "zylo-d86d069b5cb8": {
+      "nodeId": "zylo-d86d069b5cb8",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -5568,8 +5568,8 @@
       "tagName": "p",
       "capabilities": 282
     },
-    "zylo-76dc5945fefe": {
-      "nodeId": "zylo-76dc5945fefe",
+    "zylo-5c233d1104ec": {
+      "nodeId": "zylo-5c233d1104ec",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -5584,8 +5584,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-4c3e10d80c78": {
-      "nodeId": "zylo-4c3e10d80c78",
+    "zylo-8a4ff7352824": {
+      "nodeId": "zylo-8a4ff7352824",
       "filePath": "src/components/ui/card.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -5600,8 +5600,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-40c73400108d": {
-      "nodeId": "zylo-40c73400108d",
+    "zylo-29423e23e1f4": {
+      "nodeId": "zylo-29423e23e1f4",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5616,8 +5616,8 @@
       "tagName": "Provider",
       "capabilities": 247
     },
-    "zylo-25593e57d882": {
-      "nodeId": "zylo-25593e57d882",
+    "zylo-654ad38602c7": {
+      "nodeId": "zylo-654ad38602c7",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5632,8 +5632,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-6af434280146": {
-      "nodeId": "zylo-6af434280146",
+    "zylo-666c78c93e50": {
+      "nodeId": "zylo-666c78c93e50",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5648,8 +5648,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-5ba8ab1aa87a": {
-      "nodeId": "zylo-5ba8ab1aa87a",
+    "zylo-acba19e2ebbb": {
+      "nodeId": "zylo-acba19e2ebbb",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -5664,8 +5664,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-d6f9bdd2fd70": {
-      "nodeId": "zylo-d6f9bdd2fd70",
+    "zylo-d2ec0f27b9c5": {
+      "nodeId": "zylo-d2ec0f27b9c5",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -5680,8 +5680,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-acc0e3ae56dc": {
-      "nodeId": "zylo-acc0e3ae56dc",
+    "zylo-a89718ea111e": {
+      "nodeId": "zylo-a89718ea111e",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -5696,8 +5696,8 @@
       "tagName": "Button",
       "capabilities": 126
     },
-    "zylo-919d2514278f": {
-      "nodeId": "zylo-919d2514278f",
+    "zylo-a017d470adbf": {
+      "nodeId": "zylo-a017d470adbf",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -5712,8 +5712,8 @@
       "tagName": "ArrowLeft",
       "capabilities": 86
     },
-    "zylo-3ca5148faa49": {
-      "nodeId": "zylo-3ca5148faa49",
+    "zylo-68886dcb05f9": {
+      "nodeId": "zylo-68886dcb05f9",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -5728,8 +5728,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-5056ddb55198": {
-      "nodeId": "zylo-5056ddb55198",
+    "zylo-5dbc90fe16a2": {
+      "nodeId": "zylo-5dbc90fe16a2",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -5744,8 +5744,8 @@
       "tagName": "Button",
       "capabilities": 126
     },
-    "zylo-6b677c389235": {
-      "nodeId": "zylo-6b677c389235",
+    "zylo-cddf30c5fe70": {
+      "nodeId": "zylo-cddf30c5fe70",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -5760,8 +5760,8 @@
       "tagName": "ArrowRight",
       "capabilities": 86
     },
-    "zylo-177d62295eaf": {
-      "nodeId": "zylo-177d62295eaf",
+    "zylo-7af9a7f0fafa": {
+      "nodeId": "zylo-7af9a7f0fafa",
       "filePath": "src/components/ui/carousel.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -5776,8 +5776,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-e1a44b108a10": {
-      "nodeId": "zylo-e1a44b108a10",
+    "zylo-c6ce05ae6624": {
+      "nodeId": "zylo-c6ce05ae6624",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -5792,8 +5792,8 @@
       "tagName": "Provider",
       "capabilities": 247
     },
-    "zylo-ee7325010494": {
-      "nodeId": "zylo-ee7325010494",
+    "zylo-45e162a40021": {
+      "nodeId": "zylo-45e162a40021",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -5808,8 +5808,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-63de89538cd6": {
-      "nodeId": "zylo-63de89538cd6",
+    "zylo-39eab9e08e5e": {
+      "nodeId": "zylo-39eab9e08e5e",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -5824,8 +5824,8 @@
       "tagName": "ChartStyle",
       "capabilities": 247
     },
-    "zylo-8bce88d0d999": {
-      "nodeId": "zylo-8bce88d0d999",
+    "zylo-66d444b34044": {
+      "nodeId": "zylo-66d444b34044",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -5840,8 +5840,8 @@
       "tagName": "ResponsiveContainer",
       "capabilities": 247
     },
-    "zylo-35a3e19991e7": {
-      "nodeId": "zylo-35a3e19991e7",
+    "zylo-22b7e64e5eea": {
+      "nodeId": "zylo-22b7e64e5eea",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -5857,8 +5857,8 @@
       "componentName": "ChartStyle",
       "capabilities": 247
     },
-    "zylo-38028ffaa00c": {
-      "nodeId": "zylo-38028ffaa00c",
+    "zylo-93d067ba9582": {
+      "nodeId": "zylo-93d067ba9582",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -5873,8 +5873,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-0d8853959187": {
-      "nodeId": "zylo-0d8853959187",
+    "zylo-72bd975d4adb": {
+      "nodeId": "zylo-72bd975d4adb",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -5889,8 +5889,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-41ec2239f097": {
-      "nodeId": "zylo-41ec2239f097",
+    "zylo-32395cfe8e2c": {
+      "nodeId": "zylo-32395cfe8e2c",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -5905,8 +5905,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-a8bcc472342d": {
-      "nodeId": "zylo-a8bcc472342d",
+    "zylo-17a37bc9f7f1": {
+      "nodeId": "zylo-17a37bc9f7f1",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -5921,8 +5921,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-6d8cd28bf8dd": {
-      "nodeId": "zylo-6d8cd28bf8dd",
+    "zylo-aca9183ec218": {
+      "nodeId": "zylo-aca9183ec218",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -5937,8 +5937,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-0d24d9320b96": {
-      "nodeId": "zylo-0d24d9320b96",
+    "zylo-ec38e44c3b86": {
+      "nodeId": "zylo-ec38e44c3b86",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -5953,8 +5953,8 @@
       "tagName": "icon",
       "capabilities": 247
     },
-    "zylo-ac819a8f1ca8": {
-      "nodeId": "zylo-ac819a8f1ca8",
+    "zylo-063a8e8b97bc": {
+      "nodeId": "zylo-063a8e8b97bc",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -5969,8 +5969,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c416a469e06e": {
-      "nodeId": "zylo-c416a469e06e",
+    "zylo-c5fc11076077": {
+      "nodeId": "zylo-c5fc11076077",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -5985,8 +5985,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-af68be033c1e": {
-      "nodeId": "zylo-af68be033c1e",
+    "zylo-098a97458074": {
+      "nodeId": "zylo-098a97458074",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -6001,8 +6001,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-303de2049207": {
-      "nodeId": "zylo-303de2049207",
+    "zylo-c8f61032acc7": {
+      "nodeId": "zylo-c8f61032acc7",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -6017,8 +6017,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-7d7d25f2fdda": {
-      "nodeId": "zylo-7d7d25f2fdda",
+    "zylo-529fb168c21f": {
+      "nodeId": "zylo-529fb168c21f",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -6033,8 +6033,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-adec7a987fa2": {
-      "nodeId": "zylo-adec7a987fa2",
+    "zylo-1f1900c98f5c": {
+      "nodeId": "zylo-1f1900c98f5c",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -6049,8 +6049,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-9b0ebfa9640c": {
-      "nodeId": "zylo-9b0ebfa9640c",
+    "zylo-bcfecdc42127": {
+      "nodeId": "zylo-bcfecdc42127",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -6065,8 +6065,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-8077bfde372f": {
-      "nodeId": "zylo-8077bfde372f",
+    "zylo-361e4de0ad35": {
+      "nodeId": "zylo-361e4de0ad35",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -6081,8 +6081,8 @@
       "tagName": "icon",
       "capabilities": 247
     },
-    "zylo-913b3d840b0a": {
-      "nodeId": "zylo-913b3d840b0a",
+    "zylo-664739469936": {
+      "nodeId": "zylo-664739469936",
       "filePath": "src/components/ui/chart.tsx",
       "astPathIndex": 19,
       "locStart": {
@@ -6097,8 +6097,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c24838923489": {
-      "nodeId": "zylo-c24838923489",
+    "zylo-44223addf219": {
+      "nodeId": "zylo-44223addf219",
       "filePath": "src/components/ui/checkbox.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6113,8 +6113,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-444d5904d024": {
-      "nodeId": "zylo-444d5904d024",
+    "zylo-9ce5ccfca922": {
+      "nodeId": "zylo-9ce5ccfca922",
       "filePath": "src/components/ui/checkbox.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -6129,8 +6129,8 @@
       "tagName": "Indicator",
       "capabilities": 247
     },
-    "zylo-32a427687013": {
-      "nodeId": "zylo-32a427687013",
+    "zylo-3f45483ce6ca": {
+      "nodeId": "zylo-3f45483ce6ca",
       "filePath": "src/components/ui/checkbox.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -6145,8 +6145,8 @@
       "tagName": "Check",
       "capabilities": 86
     },
-    "zylo-6f3769c7c6ba": {
-      "nodeId": "zylo-6f3769c7c6ba",
+    "zylo-14951c096ac9": {
+      "nodeId": "zylo-14951c096ac9",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6161,8 +6161,8 @@
       "tagName": "CommandPrimitive",
       "capabilities": 247
     },
-    "zylo-467dd369e3d7": {
-      "nodeId": "zylo-467dd369e3d7",
+    "zylo-390af8d1338f": {
+      "nodeId": "zylo-390af8d1338f",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -6178,8 +6178,8 @@
       "componentName": "CommandDialog",
       "capabilities": 247
     },
-    "zylo-14fcbd7d113f": {
-      "nodeId": "zylo-14fcbd7d113f",
+    "zylo-37212404d857": {
+      "nodeId": "zylo-37212404d857",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -6195,8 +6195,8 @@
       "componentName": "CommandDialog",
       "capabilities": 247
     },
-    "zylo-d65247451261": {
-      "nodeId": "zylo-d65247451261",
+    "zylo-ef59f67e7400": {
+      "nodeId": "zylo-ef59f67e7400",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -6212,8 +6212,8 @@
       "componentName": "CommandDialog",
       "capabilities": 247
     },
-    "zylo-dfceaa0df7ff": {
-      "nodeId": "zylo-dfceaa0df7ff",
+    "zylo-967bd96e2aa4": {
+      "nodeId": "zylo-967bd96e2aa4",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -6228,8 +6228,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-85f5d0010d20": {
-      "nodeId": "zylo-85f5d0010d20",
+    "zylo-78fb54b509eb": {
+      "nodeId": "zylo-78fb54b509eb",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -6244,8 +6244,8 @@
       "tagName": "Search",
       "capabilities": 86
     },
-    "zylo-7db8438e7232": {
-      "nodeId": "zylo-7db8438e7232",
+    "zylo-4d14e8abb48d": {
+      "nodeId": "zylo-4d14e8abb48d",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -6260,8 +6260,8 @@
       "tagName": "Input",
       "capabilities": 63
     },
-    "zylo-9d8408f02d7d": {
-      "nodeId": "zylo-9d8408f02d7d",
+    "zylo-58e67a93d5a8": {
+      "nodeId": "zylo-58e67a93d5a8",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -6276,8 +6276,8 @@
       "tagName": "List",
       "capabilities": 59
     },
-    "zylo-c166df441cc8": {
-      "nodeId": "zylo-c166df441cc8",
+    "zylo-93f564dd7da9": {
+      "nodeId": "zylo-93f564dd7da9",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -6292,8 +6292,8 @@
       "tagName": "Empty",
       "capabilities": 247
     },
-    "zylo-5c587974b038": {
-      "nodeId": "zylo-5c587974b038",
+    "zylo-7bd8f96e79f6": {
+      "nodeId": "zylo-7bd8f96e79f6",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -6308,8 +6308,8 @@
       "tagName": "Group",
       "capabilities": 247
     },
-    "zylo-573a55aeada3": {
-      "nodeId": "zylo-573a55aeada3",
+    "zylo-f4a85127cdeb": {
+      "nodeId": "zylo-f4a85127cdeb",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -6324,8 +6324,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-73cb2af85cd2": {
-      "nodeId": "zylo-73cb2af85cd2",
+    "zylo-6e1b4119531b": {
+      "nodeId": "zylo-6e1b4119531b",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -6340,8 +6340,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-b89fe780c5ef": {
-      "nodeId": "zylo-b89fe780c5ef",
+    "zylo-1a9841aad3c0": {
+      "nodeId": "zylo-1a9841aad3c0",
       "filePath": "src/components/ui/command.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -6357,8 +6357,8 @@
       "componentName": "CommandShortcut",
       "capabilities": 282
     },
-    "zylo-6ff147742028": {
-      "nodeId": "zylo-6ff147742028",
+    "zylo-3047fe199ca0": {
+      "nodeId": "zylo-3047fe199ca0",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6373,8 +6373,8 @@
       "tagName": "SubTrigger",
       "capabilities": 247
     },
-    "zylo-b4fccd59f9b1": {
-      "nodeId": "zylo-b4fccd59f9b1",
+    "zylo-e027a34fafd0": {
+      "nodeId": "zylo-e027a34fafd0",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -6389,8 +6389,8 @@
       "tagName": "ChevronRight",
       "capabilities": 86
     },
-    "zylo-e474cfbca4ed": {
-      "nodeId": "zylo-e474cfbca4ed",
+    "zylo-56e59d17ec8c": {
+      "nodeId": "zylo-56e59d17ec8c",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -6405,8 +6405,8 @@
       "tagName": "SubContent",
       "capabilities": 247
     },
-    "zylo-5832fc552f1e": {
-      "nodeId": "zylo-5832fc552f1e",
+    "zylo-b7a5a0d353fe": {
+      "nodeId": "zylo-b7a5a0d353fe",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -6421,8 +6421,8 @@
       "tagName": "Portal",
       "capabilities": 247
     },
-    "zylo-7a47ae900c4b": {
-      "nodeId": "zylo-7a47ae900c4b",
+    "zylo-8247ac6627ae": {
+      "nodeId": "zylo-8247ac6627ae",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -6437,8 +6437,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-d0f415c3635d": {
-      "nodeId": "zylo-d0f415c3635d",
+    "zylo-3df73138cd8a": {
+      "nodeId": "zylo-3df73138cd8a",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -6453,8 +6453,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-3a0637de0979": {
-      "nodeId": "zylo-3a0637de0979",
+    "zylo-d592c4575212": {
+      "nodeId": "zylo-d592c4575212",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -6469,8 +6469,8 @@
       "tagName": "CheckboxItem",
       "capabilities": 247
     },
-    "zylo-813525850503": {
-      "nodeId": "zylo-813525850503",
+    "zylo-16273646ce40": {
+      "nodeId": "zylo-16273646ce40",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -6485,8 +6485,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-196c3131ee2d": {
-      "nodeId": "zylo-196c3131ee2d",
+    "zylo-71ac8f5cd804": {
+      "nodeId": "zylo-71ac8f5cd804",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -6501,8 +6501,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-1a9795a3d458": {
-      "nodeId": "zylo-1a9795a3d458",
+    "zylo-0fa012ea27ed": {
+      "nodeId": "zylo-0fa012ea27ed",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -6517,8 +6517,8 @@
       "tagName": "Check",
       "capabilities": 86
     },
-    "zylo-6d0c2bf558da": {
-      "nodeId": "zylo-6d0c2bf558da",
+    "zylo-1bebeb3fb169": {
+      "nodeId": "zylo-1bebeb3fb169",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -6533,8 +6533,8 @@
       "tagName": "RadioItem",
       "capabilities": 247
     },
-    "zylo-7e3d1eb919ba": {
-      "nodeId": "zylo-7e3d1eb919ba",
+    "zylo-45c75df3308e": {
+      "nodeId": "zylo-45c75df3308e",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -6549,8 +6549,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-5fd7a06a5b7c": {
-      "nodeId": "zylo-5fd7a06a5b7c",
+    "zylo-28892413810d": {
+      "nodeId": "zylo-28892413810d",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -6565,8 +6565,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-de14497953e5": {
-      "nodeId": "zylo-de14497953e5",
+    "zylo-7bf4b6b4d572": {
+      "nodeId": "zylo-7bf4b6b4d572",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -6581,8 +6581,8 @@
       "tagName": "Circle",
       "capabilities": 86
     },
-    "zylo-ea9923b582fa": {
-      "nodeId": "zylo-ea9923b582fa",
+    "zylo-8d66709570dd": {
+      "nodeId": "zylo-8d66709570dd",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -6597,8 +6597,8 @@
       "tagName": "Label",
       "capabilities": 282
     },
-    "zylo-b6db83f059df": {
-      "nodeId": "zylo-b6db83f059df",
+    "zylo-1b11294c978a": {
+      "nodeId": "zylo-1b11294c978a",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -6613,8 +6613,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-2b25d25bfbcd": {
-      "nodeId": "zylo-2b25d25bfbcd",
+    "zylo-56a7ef74f1ea": {
+      "nodeId": "zylo-56a7ef74f1ea",
       "filePath": "src/components/ui/context-menu.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -6630,8 +6630,8 @@
       "componentName": "ContextMenuShortcut",
       "capabilities": 282
     },
-    "zylo-d18b34a5744c": {
-      "nodeId": "zylo-d18b34a5744c",
+    "zylo-54002b42af22": {
+      "nodeId": "zylo-54002b42af22",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6646,8 +6646,8 @@
       "tagName": "Overlay",
       "capabilities": 247
     },
-    "zylo-47f180a6aa3b": {
-      "nodeId": "zylo-47f180a6aa3b",
+    "zylo-842a02595e46": {
+      "nodeId": "zylo-842a02595e46",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -6662,8 +6662,8 @@
       "tagName": "DialogPortal",
       "capabilities": 247
     },
-    "zylo-d4101c4e67db": {
-      "nodeId": "zylo-d4101c4e67db",
+    "zylo-45885a8b1fea": {
+      "nodeId": "zylo-45885a8b1fea",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -6678,8 +6678,8 @@
       "tagName": "DialogOverlay",
       "capabilities": 247
     },
-    "zylo-78b78c3dde02": {
-      "nodeId": "zylo-78b78c3dde02",
+    "zylo-08e963272877": {
+      "nodeId": "zylo-08e963272877",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -6694,8 +6694,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-f410015e17e0": {
-      "nodeId": "zylo-f410015e17e0",
+    "zylo-2b732c6486a5": {
+      "nodeId": "zylo-2b732c6486a5",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -6710,8 +6710,8 @@
       "tagName": "Close",
       "capabilities": 247
     },
-    "zylo-144d9f9eda58": {
-      "nodeId": "zylo-144d9f9eda58",
+    "zylo-74fa4f371a29": {
+      "nodeId": "zylo-74fa4f371a29",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -6726,8 +6726,8 @@
       "tagName": "X",
       "capabilities": 86
     },
-    "zylo-1b7f6ca4bab8": {
-      "nodeId": "zylo-1b7f6ca4bab8",
+    "zylo-48eeb7d3d452": {
+      "nodeId": "zylo-48eeb7d3d452",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -6742,8 +6742,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-8d7b462e61b3": {
-      "nodeId": "zylo-8d7b462e61b3",
+    "zylo-b8975b79a72c": {
+      "nodeId": "zylo-b8975b79a72c",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -6759,8 +6759,8 @@
       "componentName": "DialogHeader",
       "capabilities": 247
     },
-    "zylo-f74a463d6002": {
-      "nodeId": "zylo-f74a463d6002",
+    "zylo-af0f0e8d0a9b": {
+      "nodeId": "zylo-af0f0e8d0a9b",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -6776,8 +6776,8 @@
       "componentName": "DialogFooter",
       "capabilities": 247
     },
-    "zylo-788e477418d2": {
-      "nodeId": "zylo-788e477418d2",
+    "zylo-e790fc9c7781": {
+      "nodeId": "zylo-e790fc9c7781",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -6792,8 +6792,8 @@
       "tagName": "Title",
       "capabilities": 282
     },
-    "zylo-f1f801509bd0": {
-      "nodeId": "zylo-f1f801509bd0",
+    "zylo-27bed0f9261c": {
+      "nodeId": "zylo-27bed0f9261c",
       "filePath": "src/components/ui/dialog.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -6808,8 +6808,8 @@
       "tagName": "Description",
       "capabilities": 282
     },
-    "zylo-9dac9e3e4496": {
-      "nodeId": "zylo-9dac9e3e4496",
+    "zylo-0a3eef5ca977": {
+      "nodeId": "zylo-0a3eef5ca977",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6825,8 +6825,8 @@
       "componentName": "Drawer",
       "capabilities": 247
     },
-    "zylo-0e34dfd608da": {
-      "nodeId": "zylo-0e34dfd608da",
+    "zylo-1cb6bc7dd2c8": {
+      "nodeId": "zylo-1cb6bc7dd2c8",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -6841,8 +6841,8 @@
       "tagName": "Overlay",
       "capabilities": 247
     },
-    "zylo-623466b94452": {
-      "nodeId": "zylo-623466b94452",
+    "zylo-8aa121eec56d": {
+      "nodeId": "zylo-8aa121eec56d",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -6857,8 +6857,8 @@
       "tagName": "DrawerPortal",
       "capabilities": 247
     },
-    "zylo-f8978b356fb6": {
-      "nodeId": "zylo-f8978b356fb6",
+    "zylo-d156c456ee2d": {
+      "nodeId": "zylo-d156c456ee2d",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -6873,8 +6873,8 @@
       "tagName": "DrawerOverlay",
       "capabilities": 247
     },
-    "zylo-739717a89ac9": {
-      "nodeId": "zylo-739717a89ac9",
+    "zylo-2eba1d13d139": {
+      "nodeId": "zylo-2eba1d13d139",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -6889,8 +6889,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-9730bed72b83": {
-      "nodeId": "zylo-9730bed72b83",
+    "zylo-51df8acd75d1": {
+      "nodeId": "zylo-51df8acd75d1",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -6905,8 +6905,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-db34f7b8079f": {
-      "nodeId": "zylo-db34f7b8079f",
+    "zylo-5f3a9454b047": {
+      "nodeId": "zylo-5f3a9454b047",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -6922,8 +6922,8 @@
       "componentName": "DrawerHeader",
       "capabilities": 247
     },
-    "zylo-0170dec2c59c": {
-      "nodeId": "zylo-0170dec2c59c",
+    "zylo-76411f5ef146": {
+      "nodeId": "zylo-76411f5ef146",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -6939,8 +6939,8 @@
       "componentName": "DrawerFooter",
       "capabilities": 247
     },
-    "zylo-bc211ddfc1ad": {
-      "nodeId": "zylo-bc211ddfc1ad",
+    "zylo-024f2e169785": {
+      "nodeId": "zylo-024f2e169785",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -6955,8 +6955,8 @@
       "tagName": "Title",
       "capabilities": 282
     },
-    "zylo-abf70d2341fc": {
-      "nodeId": "zylo-abf70d2341fc",
+    "zylo-208e1f0d3a63": {
+      "nodeId": "zylo-208e1f0d3a63",
       "filePath": "src/components/ui/drawer.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -6971,8 +6971,8 @@
       "tagName": "Description",
       "capabilities": 282
     },
-    "zylo-bb463f1d9677": {
-      "nodeId": "zylo-bb463f1d9677",
+    "zylo-d91bcafca8f1": {
+      "nodeId": "zylo-d91bcafca8f1",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -6987,8 +6987,8 @@
       "tagName": "SubTrigger",
       "capabilities": 247
     },
-    "zylo-e47805fa3b00": {
-      "nodeId": "zylo-e47805fa3b00",
+    "zylo-cc4e37889401": {
+      "nodeId": "zylo-cc4e37889401",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -7003,8 +7003,8 @@
       "tagName": "ChevronRight",
       "capabilities": 86
     },
-    "zylo-52bb3eef9496": {
-      "nodeId": "zylo-52bb3eef9496",
+    "zylo-ae145a20c963": {
+      "nodeId": "zylo-ae145a20c963",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -7019,8 +7019,8 @@
       "tagName": "SubContent",
       "capabilities": 247
     },
-    "zylo-32dec8a67f85": {
-      "nodeId": "zylo-32dec8a67f85",
+    "zylo-b5297eabe571": {
+      "nodeId": "zylo-b5297eabe571",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -7035,8 +7035,8 @@
       "tagName": "Portal",
       "capabilities": 247
     },
-    "zylo-6b260b31d3ee": {
-      "nodeId": "zylo-6b260b31d3ee",
+    "zylo-3a2fade476b9": {
+      "nodeId": "zylo-3a2fade476b9",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -7051,8 +7051,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-85812127bbee": {
-      "nodeId": "zylo-85812127bbee",
+    "zylo-46ee50362b42": {
+      "nodeId": "zylo-46ee50362b42",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -7067,8 +7067,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-b66ecc2cb359": {
-      "nodeId": "zylo-b66ecc2cb359",
+    "zylo-2bf24d3b051d": {
+      "nodeId": "zylo-2bf24d3b051d",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -7083,8 +7083,8 @@
       "tagName": "CheckboxItem",
       "capabilities": 247
     },
-    "zylo-8de31d2e74c8": {
-      "nodeId": "zylo-8de31d2e74c8",
+    "zylo-d5ed926653de": {
+      "nodeId": "zylo-d5ed926653de",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -7099,8 +7099,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-3941248dfc65": {
-      "nodeId": "zylo-3941248dfc65",
+    "zylo-81692cafcd09": {
+      "nodeId": "zylo-81692cafcd09",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -7115,8 +7115,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-2ff935beeefe": {
-      "nodeId": "zylo-2ff935beeefe",
+    "zylo-9f808653eed5": {
+      "nodeId": "zylo-9f808653eed5",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -7131,8 +7131,8 @@
       "tagName": "Check",
       "capabilities": 86
     },
-    "zylo-055b25d4aa3b": {
-      "nodeId": "zylo-055b25d4aa3b",
+    "zylo-507c560ba505": {
+      "nodeId": "zylo-507c560ba505",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -7147,8 +7147,8 @@
       "tagName": "RadioItem",
       "capabilities": 247
     },
-    "zylo-ebf379d737a1": {
-      "nodeId": "zylo-ebf379d737a1",
+    "zylo-599d79eb6b53": {
+      "nodeId": "zylo-599d79eb6b53",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -7163,8 +7163,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-b45da149826d": {
-      "nodeId": "zylo-b45da149826d",
+    "zylo-2192f9b92099": {
+      "nodeId": "zylo-2192f9b92099",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -7179,8 +7179,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-33c4fa3442dd": {
-      "nodeId": "zylo-33c4fa3442dd",
+    "zylo-e0c9f49a3763": {
+      "nodeId": "zylo-e0c9f49a3763",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -7195,8 +7195,8 @@
       "tagName": "Circle",
       "capabilities": 86
     },
-    "zylo-a6f1591e2a3a": {
-      "nodeId": "zylo-a6f1591e2a3a",
+    "zylo-5276bc9921ce": {
+      "nodeId": "zylo-5276bc9921ce",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -7211,8 +7211,8 @@
       "tagName": "Label",
       "capabilities": 282
     },
-    "zylo-b4abe2433a7c": {
-      "nodeId": "zylo-b4abe2433a7c",
+    "zylo-296d7fe99639": {
+      "nodeId": "zylo-296d7fe99639",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -7227,8 +7227,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-828c223a9c40": {
-      "nodeId": "zylo-828c223a9c40",
+    "zylo-f52cb36c4511": {
+      "nodeId": "zylo-f52cb36c4511",
       "filePath": "src/components/ui/dropdown-menu.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -7244,8 +7244,8 @@
       "componentName": "DropdownMenuShortcut",
       "capabilities": 282
     },
-    "zylo-afc089ccd2fd": {
-      "nodeId": "zylo-afc089ccd2fd",
+    "zylo-3d2aea27572d": {
+      "nodeId": "zylo-3d2aea27572d",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7261,8 +7261,8 @@
       "componentName": "FormField",
       "capabilities": 63
     },
-    "zylo-171a722731b4": {
-      "nodeId": "zylo-171a722731b4",
+    "zylo-88374f5f436a": {
+      "nodeId": "zylo-88374f5f436a",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -7278,8 +7278,8 @@
       "componentName": "FormField",
       "capabilities": 63
     },
-    "zylo-87265a286912": {
-      "nodeId": "zylo-87265a286912",
+    "zylo-7f300516913a": {
+      "nodeId": "zylo-7f300516913a",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -7294,8 +7294,8 @@
       "tagName": "Provider",
       "capabilities": 247
     },
-    "zylo-1f62adedf41d": {
-      "nodeId": "zylo-1f62adedf41d",
+    "zylo-b6581e846c69": {
+      "nodeId": "zylo-b6581e846c69",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -7310,8 +7310,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-490c13de75be": {
-      "nodeId": "zylo-490c13de75be",
+    "zylo-fbec19b2481e": {
+      "nodeId": "zylo-fbec19b2481e",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -7326,8 +7326,8 @@
       "tagName": "Label",
       "capabilities": 282
     },
-    "zylo-d08492f1c80d": {
-      "nodeId": "zylo-d08492f1c80d",
+    "zylo-7fdc4f8ec4e6": {
+      "nodeId": "zylo-7fdc4f8ec4e6",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -7342,8 +7342,8 @@
       "tagName": "Slot",
       "capabilities": 247
     },
-    "zylo-e35ab72f5291": {
-      "nodeId": "zylo-e35ab72f5291",
+    "zylo-782816af69e3": {
+      "nodeId": "zylo-782816af69e3",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -7358,8 +7358,8 @@
       "tagName": "p",
       "capabilities": 282
     },
-    "zylo-251919086a53": {
-      "nodeId": "zylo-251919086a53",
+    "zylo-dbb9c6ae8026": {
+      "nodeId": "zylo-dbb9c6ae8026",
       "filePath": "src/components/ui/form.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -7374,8 +7374,8 @@
       "tagName": "p",
       "capabilities": 282
     },
-    "zylo-0dbd97e885b0": {
-      "nodeId": "zylo-0dbd97e885b0",
+    "zylo-ced2ef22f364": {
+      "nodeId": "zylo-ced2ef22f364",
       "filePath": "src/components/ui/hover-card.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7390,8 +7390,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-aa1aa6385ec8": {
-      "nodeId": "zylo-aa1aa6385ec8",
+    "zylo-6a0de3e48a21": {
+      "nodeId": "zylo-6a0de3e48a21",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7406,8 +7406,8 @@
       "tagName": "OTPInput",
       "capabilities": 63
     },
-    "zylo-635c7bb12c2c": {
-      "nodeId": "zylo-635c7bb12c2c",
+    "zylo-9b90aed8857f": {
+      "nodeId": "zylo-9b90aed8857f",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -7422,8 +7422,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-94b5832ac005": {
-      "nodeId": "zylo-94b5832ac005",
+    "zylo-9b5a1de54fd1": {
+      "nodeId": "zylo-9b5a1de54fd1",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -7438,8 +7438,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-71f147ed6bb0": {
-      "nodeId": "zylo-71f147ed6bb0",
+    "zylo-2d9911457032": {
+      "nodeId": "zylo-2d9911457032",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -7454,8 +7454,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-6b80c62b8c0c": {
-      "nodeId": "zylo-6b80c62b8c0c",
+    "zylo-b0bbca98f1e0": {
+      "nodeId": "zylo-b0bbca98f1e0",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -7470,8 +7470,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-5ada864d6b5d": {
-      "nodeId": "zylo-5ada864d6b5d",
+    "zylo-0b52a0b6bafb": {
+      "nodeId": "zylo-0b52a0b6bafb",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -7486,8 +7486,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-649965290d28": {
-      "nodeId": "zylo-649965290d28",
+    "zylo-e241c9044f8b": {
+      "nodeId": "zylo-e241c9044f8b",
       "filePath": "src/components/ui/input-otp.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -7502,8 +7502,8 @@
       "tagName": "Dot",
       "capabilities": 86
     },
-    "zylo-23ba1c7f6a69": {
-      "nodeId": "zylo-23ba1c7f6a69",
+    "zylo-262c376691b5": {
+      "nodeId": "zylo-262c376691b5",
       "filePath": "src/components/ui/input.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7518,8 +7518,8 @@
       "tagName": "input",
       "capabilities": 63
     },
-    "zylo-a968c0855810": {
-      "nodeId": "zylo-a968c0855810",
+    "zylo-9fc985d79c3a": {
+      "nodeId": "zylo-9fc985d79c3a",
       "filePath": "src/components/ui/label.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7534,8 +7534,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-70789defd01c": {
-      "nodeId": "zylo-70789defd01c",
+    "zylo-5bc548471384": {
+      "nodeId": "zylo-5bc548471384",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7550,8 +7550,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-4c54626f361d": {
-      "nodeId": "zylo-4c54626f361d",
+    "zylo-c0eca5ecf273": {
+      "nodeId": "zylo-c0eca5ecf273",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -7566,8 +7566,8 @@
       "tagName": "Trigger",
       "capabilities": 247
     },
-    "zylo-ad0dd1aec4aa": {
-      "nodeId": "zylo-ad0dd1aec4aa",
+    "zylo-82479c4dc86b": {
+      "nodeId": "zylo-82479c4dc86b",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -7582,8 +7582,8 @@
       "tagName": "SubTrigger",
       "capabilities": 247
     },
-    "zylo-58f3654e0c86": {
-      "nodeId": "zylo-58f3654e0c86",
+    "zylo-49f7fccc7057": {
+      "nodeId": "zylo-49f7fccc7057",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -7598,8 +7598,8 @@
       "tagName": "ChevronRight",
       "capabilities": 86
     },
-    "zylo-dc87d7bda9bc": {
-      "nodeId": "zylo-dc87d7bda9bc",
+    "zylo-93952b0d2507": {
+      "nodeId": "zylo-93952b0d2507",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -7614,8 +7614,8 @@
       "tagName": "SubContent",
       "capabilities": 247
     },
-    "zylo-f61a601e08db": {
-      "nodeId": "zylo-f61a601e08db",
+    "zylo-d852481a1191": {
+      "nodeId": "zylo-d852481a1191",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -7630,8 +7630,8 @@
       "tagName": "Portal",
       "capabilities": 247
     },
-    "zylo-e8fd9f5e74d9": {
-      "nodeId": "zylo-e8fd9f5e74d9",
+    "zylo-9b17f9a240ba": {
+      "nodeId": "zylo-9b17f9a240ba",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -7646,8 +7646,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-842cb69a9f0e": {
-      "nodeId": "zylo-842cb69a9f0e",
+    "zylo-6d4c2cd8f958": {
+      "nodeId": "zylo-6d4c2cd8f958",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -7662,8 +7662,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-e3870b0a8113": {
-      "nodeId": "zylo-e3870b0a8113",
+    "zylo-472bd46f0606": {
+      "nodeId": "zylo-472bd46f0606",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -7678,8 +7678,8 @@
       "tagName": "CheckboxItem",
       "capabilities": 247
     },
-    "zylo-4680bdc4f3af": {
-      "nodeId": "zylo-4680bdc4f3af",
+    "zylo-f405898995ca": {
+      "nodeId": "zylo-f405898995ca",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -7694,8 +7694,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-0486c2dc1b05": {
-      "nodeId": "zylo-0486c2dc1b05",
+    "zylo-678649a985da": {
+      "nodeId": "zylo-678649a985da",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -7710,8 +7710,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-996cf9c23910": {
-      "nodeId": "zylo-996cf9c23910",
+    "zylo-e55717d6f5c2": {
+      "nodeId": "zylo-e55717d6f5c2",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -7726,8 +7726,8 @@
       "tagName": "Check",
       "capabilities": 86
     },
-    "zylo-ecd0135ff66a": {
-      "nodeId": "zylo-ecd0135ff66a",
+    "zylo-6dd50d5edafe": {
+      "nodeId": "zylo-6dd50d5edafe",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -7742,8 +7742,8 @@
       "tagName": "RadioItem",
       "capabilities": 247
     },
-    "zylo-2fd1af796dae": {
-      "nodeId": "zylo-2fd1af796dae",
+    "zylo-7fdf39fb76f4": {
+      "nodeId": "zylo-7fdf39fb76f4",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -7758,8 +7758,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-f31a97aa4520": {
-      "nodeId": "zylo-f31a97aa4520",
+    "zylo-cbae476f6670": {
+      "nodeId": "zylo-cbae476f6670",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -7774,8 +7774,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-4820c4b6916d": {
-      "nodeId": "zylo-4820c4b6916d",
+    "zylo-d9d07e617d75": {
+      "nodeId": "zylo-d9d07e617d75",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -7790,8 +7790,8 @@
       "tagName": "Circle",
       "capabilities": 86
     },
-    "zylo-69bc347804e4": {
-      "nodeId": "zylo-69bc347804e4",
+    "zylo-7a5119ddeeda": {
+      "nodeId": "zylo-7a5119ddeeda",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -7806,8 +7806,8 @@
       "tagName": "Label",
       "capabilities": 282
     },
-    "zylo-f01613926b74": {
-      "nodeId": "zylo-f01613926b74",
+    "zylo-15fa22b42e17": {
+      "nodeId": "zylo-15fa22b42e17",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -7822,8 +7822,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-98414a152715": {
-      "nodeId": "zylo-98414a152715",
+    "zylo-60b99f65c8aa": {
+      "nodeId": "zylo-60b99f65c8aa",
       "filePath": "src/components/ui/menubar.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -7839,8 +7839,8 @@
       "componentName": "MenubarShortcut",
       "capabilities": 282
     },
-    "zylo-99412552862c": {
-      "nodeId": "zylo-99412552862c",
+    "zylo-3ddda9ab9263": {
+      "nodeId": "zylo-3ddda9ab9263",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -7855,8 +7855,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-133ace71170f": {
-      "nodeId": "zylo-133ace71170f",
+    "zylo-28e975f28c9d": {
+      "nodeId": "zylo-28e975f28c9d",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -7871,8 +7871,8 @@
       "tagName": "NavigationMenuViewport",
       "capabilities": 247
     },
-    "zylo-45ccc000d570": {
-      "nodeId": "zylo-45ccc000d570",
+    "zylo-9e4667f5fa3c": {
+      "nodeId": "zylo-9e4667f5fa3c",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -7887,8 +7887,8 @@
       "tagName": "List",
       "capabilities": 59
     },
-    "zylo-6322bdf70001": {
-      "nodeId": "zylo-6322bdf70001",
+    "zylo-33e986b2024a": {
+      "nodeId": "zylo-33e986b2024a",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -7903,8 +7903,8 @@
       "tagName": "Trigger",
       "capabilities": 247
     },
-    "zylo-e1a14ffb69be": {
-      "nodeId": "zylo-e1a14ffb69be",
+    "zylo-9cb0b2c33631": {
+      "nodeId": "zylo-9cb0b2c33631",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -7919,8 +7919,8 @@
       "tagName": "ChevronDown",
       "capabilities": 86
     },
-    "zylo-780f82982be5": {
-      "nodeId": "zylo-780f82982be5",
+    "zylo-19888641688d": {
+      "nodeId": "zylo-19888641688d",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -7935,8 +7935,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-08f35bb7c4c3": {
-      "nodeId": "zylo-08f35bb7c4c3",
+    "zylo-bec6dee2bcda": {
+      "nodeId": "zylo-bec6dee2bcda",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -7951,8 +7951,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-9c6abc1c366c": {
-      "nodeId": "zylo-9c6abc1c366c",
+    "zylo-06cdf928bb8f": {
+      "nodeId": "zylo-06cdf928bb8f",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -7967,8 +7967,8 @@
       "tagName": "Viewport",
       "capabilities": 247
     },
-    "zylo-d48194b70a8a": {
-      "nodeId": "zylo-d48194b70a8a",
+    "zylo-c082e0a4d7b9": {
+      "nodeId": "zylo-c082e0a4d7b9",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -7983,8 +7983,8 @@
       "tagName": "Indicator",
       "capabilities": 247
     },
-    "zylo-8d2d9d36e934": {
-      "nodeId": "zylo-8d2d9d36e934",
+    "zylo-7e3a84fc3e81": {
+      "nodeId": "zylo-7e3a84fc3e81",
       "filePath": "src/components/ui/navigation-menu.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -7999,8 +7999,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-3c23049886db": {
-      "nodeId": "zylo-3c23049886db",
+    "zylo-b5e68ec83830": {
+      "nodeId": "zylo-b5e68ec83830",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8016,8 +8016,8 @@
       "componentName": "Pagination",
       "capabilities": 247
     },
-    "zylo-1d1fc99d2bd8": {
-      "nodeId": "zylo-1d1fc99d2bd8",
+    "zylo-69cd5720b6e9": {
+      "nodeId": "zylo-69cd5720b6e9",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8032,8 +8032,8 @@
       "tagName": "ul",
       "capabilities": 59
     },
-    "zylo-6439ff665138": {
-      "nodeId": "zylo-6439ff665138",
+    "zylo-4d42f82d667e": {
+      "nodeId": "zylo-4d42f82d667e",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8048,8 +8048,8 @@
       "tagName": "li",
       "capabilities": 59
     },
-    "zylo-ddddc8e9d084": {
-      "nodeId": "zylo-ddddc8e9d084",
+    "zylo-324f938c1bac": {
+      "nodeId": "zylo-324f938c1bac",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8065,8 +8065,8 @@
       "componentName": "PaginationLink",
       "capabilities": 26
     },
-    "zylo-ad6da73287fd": {
-      "nodeId": "zylo-ad6da73287fd",
+    "zylo-c518ae3e3c9e": {
+      "nodeId": "zylo-c518ae3e3c9e",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -8082,8 +8082,8 @@
       "componentName": "PaginationPrevious",
       "capabilities": 247
     },
-    "zylo-d85cad8d4027": {
-      "nodeId": "zylo-d85cad8d4027",
+    "zylo-0538a879287e": {
+      "nodeId": "zylo-0538a879287e",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -8099,8 +8099,8 @@
       "componentName": "PaginationPrevious",
       "capabilities": 86
     },
-    "zylo-24e9b15826fb": {
-      "nodeId": "zylo-24e9b15826fb",
+    "zylo-a8e002769cf1": {
+      "nodeId": "zylo-a8e002769cf1",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -8116,8 +8116,8 @@
       "componentName": "PaginationPrevious",
       "capabilities": 282
     },
-    "zylo-92c54de2f466": {
-      "nodeId": "zylo-92c54de2f466",
+    "zylo-1ef9dd5a4bc5": {
+      "nodeId": "zylo-1ef9dd5a4bc5",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -8133,8 +8133,8 @@
       "componentName": "PaginationNext",
       "capabilities": 247
     },
-    "zylo-7b38acbc9bc3": {
-      "nodeId": "zylo-7b38acbc9bc3",
+    "zylo-d9e50baf6b89": {
+      "nodeId": "zylo-d9e50baf6b89",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -8150,8 +8150,8 @@
       "componentName": "PaginationNext",
       "capabilities": 282
     },
-    "zylo-3cba98af966a": {
-      "nodeId": "zylo-3cba98af966a",
+    "zylo-55a68e06458f": {
+      "nodeId": "zylo-55a68e06458f",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -8167,8 +8167,8 @@
       "componentName": "PaginationNext",
       "capabilities": 86
     },
-    "zylo-1ee45af3330c": {
-      "nodeId": "zylo-1ee45af3330c",
+    "zylo-37cbd2774a12": {
+      "nodeId": "zylo-37cbd2774a12",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -8184,8 +8184,8 @@
       "componentName": "PaginationEllipsis",
       "capabilities": 282
     },
-    "zylo-415d3a87f063": {
-      "nodeId": "zylo-415d3a87f063",
+    "zylo-5e64619b22f4": {
+      "nodeId": "zylo-5e64619b22f4",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -8201,8 +8201,8 @@
       "componentName": "PaginationEllipsis",
       "capabilities": 86
     },
-    "zylo-506980e7fdd1": {
-      "nodeId": "zylo-506980e7fdd1",
+    "zylo-775e58f9962d": {
+      "nodeId": "zylo-775e58f9962d",
       "filePath": "src/components/ui/pagination.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -8218,8 +8218,8 @@
       "componentName": "PaginationEllipsis",
       "capabilities": 282
     },
-    "zylo-4efc54c4eeb1": {
-      "nodeId": "zylo-4efc54c4eeb1",
+    "zylo-5abb507ca030": {
+      "nodeId": "zylo-5abb507ca030",
       "filePath": "src/components/ui/popover.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8234,8 +8234,8 @@
       "tagName": "Portal",
       "capabilities": 247
     },
-    "zylo-75e2caad1dc5": {
-      "nodeId": "zylo-75e2caad1dc5",
+    "zylo-5ef56a69f188": {
+      "nodeId": "zylo-5ef56a69f188",
       "filePath": "src/components/ui/popover.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8250,8 +8250,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-7145deffff15": {
-      "nodeId": "zylo-7145deffff15",
+    "zylo-c8d65b6dc714": {
+      "nodeId": "zylo-c8d65b6dc714",
       "filePath": "src/components/ui/progress.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8266,8 +8266,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-5e7f1ade7293": {
-      "nodeId": "zylo-5e7f1ade7293",
+    "zylo-1c1b90bb016b": {
+      "nodeId": "zylo-1c1b90bb016b",
       "filePath": "src/components/ui/progress.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8282,8 +8282,8 @@
       "tagName": "Indicator",
       "capabilities": 247
     },
-    "zylo-8287720728c8": {
-      "nodeId": "zylo-8287720728c8",
+    "zylo-355a6bdca5dd": {
+      "nodeId": "zylo-355a6bdca5dd",
       "filePath": "src/components/ui/radio-group.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8298,8 +8298,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-3c255ba8ea4d": {
-      "nodeId": "zylo-3c255ba8ea4d",
+    "zylo-d814da9aa96c": {
+      "nodeId": "zylo-d814da9aa96c",
       "filePath": "src/components/ui/radio-group.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8314,8 +8314,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-eea24698b533": {
-      "nodeId": "zylo-eea24698b533",
+    "zylo-b80c506ba942": {
+      "nodeId": "zylo-b80c506ba942",
       "filePath": "src/components/ui/radio-group.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8330,8 +8330,8 @@
       "tagName": "Indicator",
       "capabilities": 247
     },
-    "zylo-f4603d064481": {
-      "nodeId": "zylo-f4603d064481",
+    "zylo-7b4e4aea118a": {
+      "nodeId": "zylo-7b4e4aea118a",
       "filePath": "src/components/ui/radio-group.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8346,8 +8346,8 @@
       "tagName": "Circle",
       "capabilities": 86
     },
-    "zylo-3ef16f0cbda9": {
-      "nodeId": "zylo-3ef16f0cbda9",
+    "zylo-038e87763580": {
+      "nodeId": "zylo-038e87763580",
       "filePath": "src/components/ui/resizable.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8363,8 +8363,8 @@
       "componentName": "ResizablePanelGroup",
       "capabilities": 247
     },
-    "zylo-ed40ce8762e8": {
-      "nodeId": "zylo-ed40ce8762e8",
+    "zylo-ef4b4a7a4136": {
+      "nodeId": "zylo-ef4b4a7a4136",
       "filePath": "src/components/ui/resizable.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8380,8 +8380,8 @@
       "componentName": "ResizableHandle",
       "capabilities": 247
     },
-    "zylo-ffb7ec0e4792": {
-      "nodeId": "zylo-ffb7ec0e4792",
+    "zylo-d77ea59b29eb": {
+      "nodeId": "zylo-d77ea59b29eb",
       "filePath": "src/components/ui/resizable.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8397,8 +8397,8 @@
       "componentName": "ResizableHandle",
       "capabilities": 247
     },
-    "zylo-63cbba10b997": {
-      "nodeId": "zylo-63cbba10b997",
+    "zylo-ddaa2590ecdd": {
+      "nodeId": "zylo-ddaa2590ecdd",
       "filePath": "src/components/ui/resizable.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8414,8 +8414,8 @@
       "componentName": "ResizableHandle",
       "capabilities": 86
     },
-    "zylo-f77f7fa64931": {
-      "nodeId": "zylo-f77f7fa64931",
+    "zylo-1951224e7e78": {
+      "nodeId": "zylo-1951224e7e78",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8430,8 +8430,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-6ac70ff63b3a": {
-      "nodeId": "zylo-6ac70ff63b3a",
+    "zylo-b3d7f4ccd849": {
+      "nodeId": "zylo-b3d7f4ccd849",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8446,8 +8446,8 @@
       "tagName": "Viewport",
       "capabilities": 247
     },
-    "zylo-e3480b78215b": {
-      "nodeId": "zylo-e3480b78215b",
+    "zylo-4fc866bb26ba": {
+      "nodeId": "zylo-4fc866bb26ba",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8462,8 +8462,8 @@
       "tagName": "ScrollBar",
       "capabilities": 247
     },
-    "zylo-68dc37351de4": {
-      "nodeId": "zylo-68dc37351de4",
+    "zylo-21688f4ee34c": {
+      "nodeId": "zylo-21688f4ee34c",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8478,8 +8478,8 @@
       "tagName": "Corner",
       "capabilities": 247
     },
-    "zylo-2b2f8c5182eb": {
-      "nodeId": "zylo-2b2f8c5182eb",
+    "zylo-29cb0b911ec7": {
+      "nodeId": "zylo-29cb0b911ec7",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -8494,8 +8494,8 @@
       "tagName": "ScrollAreaScrollbar",
       "capabilities": 247
     },
-    "zylo-58e3298ac60e": {
-      "nodeId": "zylo-58e3298ac60e",
+    "zylo-0a04bf8e5849": {
+      "nodeId": "zylo-0a04bf8e5849",
       "filePath": "src/components/ui/scroll-area.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -8510,8 +8510,8 @@
       "tagName": "ScrollAreaThumb",
       "capabilities": 247
     },
-    "zylo-b80219535a04": {
-      "nodeId": "zylo-b80219535a04",
+    "zylo-738e4acab37d": {
+      "nodeId": "zylo-738e4acab37d",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8526,8 +8526,8 @@
       "tagName": "Trigger",
       "capabilities": 247
     },
-    "zylo-ccd69ff98bd4": {
-      "nodeId": "zylo-ccd69ff98bd4",
+    "zylo-446241368862": {
+      "nodeId": "zylo-446241368862",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8542,8 +8542,8 @@
       "tagName": "Icon",
       "capabilities": 86
     },
-    "zylo-82c2c17eff29": {
-      "nodeId": "zylo-82c2c17eff29",
+    "zylo-6c6c3e37c27a": {
+      "nodeId": "zylo-6c6c3e37c27a",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8558,8 +8558,8 @@
       "tagName": "ChevronDown",
       "capabilities": 86
     },
-    "zylo-c3d44235b94f": {
-      "nodeId": "zylo-c3d44235b94f",
+    "zylo-96ea0be65081": {
+      "nodeId": "zylo-96ea0be65081",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8574,8 +8574,8 @@
       "tagName": "ScrollUpButton",
       "capabilities": 126
     },
-    "zylo-a5350589143e": {
-      "nodeId": "zylo-a5350589143e",
+    "zylo-11c88e7bacc5": {
+      "nodeId": "zylo-11c88e7bacc5",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -8590,8 +8590,8 @@
       "tagName": "ChevronUp",
       "capabilities": 86
     },
-    "zylo-5efe5f88f55a": {
-      "nodeId": "zylo-5efe5f88f55a",
+    "zylo-f67bbc3fa3d3": {
+      "nodeId": "zylo-f67bbc3fa3d3",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -8606,8 +8606,8 @@
       "tagName": "ScrollDownButton",
       "capabilities": 126
     },
-    "zylo-347ee04ccca8": {
-      "nodeId": "zylo-347ee04ccca8",
+    "zylo-e86830937f94": {
+      "nodeId": "zylo-e86830937f94",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -8622,8 +8622,8 @@
       "tagName": "ChevronDown",
       "capabilities": 86
     },
-    "zylo-8210685ca4f1": {
-      "nodeId": "zylo-8210685ca4f1",
+    "zylo-b8051444f171": {
+      "nodeId": "zylo-b8051444f171",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -8638,8 +8638,8 @@
       "tagName": "Portal",
       "capabilities": 247
     },
-    "zylo-c1f50a908371": {
-      "nodeId": "zylo-c1f50a908371",
+    "zylo-df10b9d46d7b": {
+      "nodeId": "zylo-df10b9d46d7b",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -8654,8 +8654,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-5bba098febec": {
-      "nodeId": "zylo-5bba098febec",
+    "zylo-29c6da7f8678": {
+      "nodeId": "zylo-29c6da7f8678",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -8670,8 +8670,8 @@
       "tagName": "SelectScrollUpButton",
       "capabilities": 126
     },
-    "zylo-767cfa44ad57": {
-      "nodeId": "zylo-767cfa44ad57",
+    "zylo-58f1850dd13a": {
+      "nodeId": "zylo-58f1850dd13a",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -8686,8 +8686,8 @@
       "tagName": "Viewport",
       "capabilities": 247
     },
-    "zylo-af33617dd6b1": {
-      "nodeId": "zylo-af33617dd6b1",
+    "zylo-1849a686ec32": {
+      "nodeId": "zylo-1849a686ec32",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -8702,8 +8702,8 @@
       "tagName": "SelectScrollDownButton",
       "capabilities": 126
     },
-    "zylo-f16413e04beb": {
-      "nodeId": "zylo-f16413e04beb",
+    "zylo-b858958f0fc5": {
+      "nodeId": "zylo-b858958f0fc5",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -8718,8 +8718,8 @@
       "tagName": "Label",
       "capabilities": 282
     },
-    "zylo-917543e7469d": {
-      "nodeId": "zylo-917543e7469d",
+    "zylo-21e52c4db4fe": {
+      "nodeId": "zylo-21e52c4db4fe",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -8734,8 +8734,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-5a99803d2590": {
-      "nodeId": "zylo-5a99803d2590",
+    "zylo-60d01ae06b94": {
+      "nodeId": "zylo-60d01ae06b94",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -8750,8 +8750,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-3ff96a1511fc": {
-      "nodeId": "zylo-3ff96a1511fc",
+    "zylo-7c88b4461520": {
+      "nodeId": "zylo-7c88b4461520",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -8766,8 +8766,8 @@
       "tagName": "ItemIndicator",
       "capabilities": 247
     },
-    "zylo-45a09486d272": {
-      "nodeId": "zylo-45a09486d272",
+    "zylo-c59f7d9258a1": {
+      "nodeId": "zylo-c59f7d9258a1",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -8782,8 +8782,8 @@
       "tagName": "Check",
       "capabilities": 86
     },
-    "zylo-e0094a7aecd8": {
-      "nodeId": "zylo-e0094a7aecd8",
+    "zylo-802099abb9cd": {
+      "nodeId": "zylo-802099abb9cd",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -8798,8 +8798,8 @@
       "tagName": "ItemText",
       "capabilities": 282
     },
-    "zylo-6eaea7bd9dfc": {
-      "nodeId": "zylo-6eaea7bd9dfc",
+    "zylo-39d3a42f35cc": {
+      "nodeId": "zylo-39d3a42f35cc",
       "filePath": "src/components/ui/select.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -8814,8 +8814,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-ba6fa1fd3272": {
-      "nodeId": "zylo-ba6fa1fd3272",
+    "zylo-0cd56c6dfdbc": {
+      "nodeId": "zylo-0cd56c6dfdbc",
       "filePath": "src/components/ui/separator.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8830,8 +8830,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-862ed26d918d": {
-      "nodeId": "zylo-862ed26d918d",
+    "zylo-184f9bd6f56e": {
+      "nodeId": "zylo-184f9bd6f56e",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -8846,8 +8846,8 @@
       "tagName": "Overlay",
       "capabilities": 247
     },
-    "zylo-4d095bfc3eb2": {
-      "nodeId": "zylo-4d095bfc3eb2",
+    "zylo-8a04be239598": {
+      "nodeId": "zylo-8a04be239598",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -8862,8 +8862,8 @@
       "tagName": "SheetPortal",
       "capabilities": 247
     },
-    "zylo-acc7e60db143": {
-      "nodeId": "zylo-acc7e60db143",
+    "zylo-62d36adfe1e6": {
+      "nodeId": "zylo-62d36adfe1e6",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -8878,8 +8878,8 @@
       "tagName": "SheetOverlay",
       "capabilities": 247
     },
-    "zylo-333deb2e61ca": {
-      "nodeId": "zylo-333deb2e61ca",
+    "zylo-72a0e44d7729": {
+      "nodeId": "zylo-72a0e44d7729",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -8894,8 +8894,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-8febaf39885a": {
-      "nodeId": "zylo-8febaf39885a",
+    "zylo-4da8dc9dcc6e": {
+      "nodeId": "zylo-4da8dc9dcc6e",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -8910,8 +8910,8 @@
       "tagName": "Close",
       "capabilities": 247
     },
-    "zylo-f9c5a303cfb3": {
-      "nodeId": "zylo-f9c5a303cfb3",
+    "zylo-709464973505": {
+      "nodeId": "zylo-709464973505",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -8926,8 +8926,8 @@
       "tagName": "X",
       "capabilities": 86
     },
-    "zylo-b810487d4328": {
-      "nodeId": "zylo-b810487d4328",
+    "zylo-7509b49a2f9a": {
+      "nodeId": "zylo-7509b49a2f9a",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -8942,8 +8942,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-0aaa5524e689": {
-      "nodeId": "zylo-0aaa5524e689",
+    "zylo-f23828ffa97b": {
+      "nodeId": "zylo-f23828ffa97b",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -8959,8 +8959,8 @@
       "componentName": "SheetHeader",
       "capabilities": 247
     },
-    "zylo-6cf8b860c863": {
-      "nodeId": "zylo-6cf8b860c863",
+    "zylo-b6db25aa6006": {
+      "nodeId": "zylo-b6db25aa6006",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -8976,8 +8976,8 @@
       "componentName": "SheetFooter",
       "capabilities": 247
     },
-    "zylo-0a3570530887": {
-      "nodeId": "zylo-0a3570530887",
+    "zylo-0d5f87057518": {
+      "nodeId": "zylo-0d5f87057518",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -8992,8 +8992,8 @@
       "tagName": "Title",
       "capabilities": 282
     },
-    "zylo-b776edccaae9": {
-      "nodeId": "zylo-b776edccaae9",
+    "zylo-4fffdc6a518b": {
+      "nodeId": "zylo-4fffdc6a518b",
       "filePath": "src/components/ui/sheet.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -9008,8 +9008,8 @@
       "tagName": "Description",
       "capabilities": 282
     },
-    "zylo-760110370826": {
-      "nodeId": "zylo-760110370826",
+    "zylo-beb62dd1faea": {
+      "nodeId": "zylo-beb62dd1faea",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9024,8 +9024,8 @@
       "tagName": "Provider",
       "capabilities": 247
     },
-    "zylo-cf58f7a89571": {
-      "nodeId": "zylo-cf58f7a89571",
+    "zylo-882ec0dc80ac": {
+      "nodeId": "zylo-882ec0dc80ac",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -9040,8 +9040,8 @@
       "tagName": "TooltipProvider",
       "capabilities": 247
     },
-    "zylo-2808d866d432": {
-      "nodeId": "zylo-2808d866d432",
+    "zylo-4a25c528cbbc": {
+      "nodeId": "zylo-4a25c528cbbc",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -9056,8 +9056,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c684fb6e7ed1": {
-      "nodeId": "zylo-c684fb6e7ed1",
+    "zylo-c446b067b940": {
+      "nodeId": "zylo-c446b067b940",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -9072,8 +9072,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-12c9ed870482": {
-      "nodeId": "zylo-12c9ed870482",
+    "zylo-35a3ea696a34": {
+      "nodeId": "zylo-35a3ea696a34",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -9088,8 +9088,8 @@
       "tagName": "Sheet",
       "capabilities": 247
     },
-    "zylo-21ffa283c69d": {
-      "nodeId": "zylo-21ffa283c69d",
+    "zylo-681417de29ba": {
+      "nodeId": "zylo-681417de29ba",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -9104,8 +9104,8 @@
       "tagName": "SheetContent",
       "capabilities": 247
     },
-    "zylo-4cdb3a982b16": {
-      "nodeId": "zylo-4cdb3a982b16",
+    "zylo-f3d4018d9dcf": {
+      "nodeId": "zylo-f3d4018d9dcf",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -9120,8 +9120,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c73d50896655": {
-      "nodeId": "zylo-c73d50896655",
+    "zylo-7248228ad313": {
+      "nodeId": "zylo-7248228ad313",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -9136,8 +9136,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-709d580bc7d2": {
-      "nodeId": "zylo-709d580bc7d2",
+    "zylo-86c3af781106": {
+      "nodeId": "zylo-86c3af781106",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -9152,8 +9152,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-6ba32fb6d953": {
-      "nodeId": "zylo-6ba32fb6d953",
+    "zylo-c315f9bef0bc": {
+      "nodeId": "zylo-c315f9bef0bc",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 9,
       "locStart": {
@@ -9168,8 +9168,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c59d8b467ee4": {
-      "nodeId": "zylo-c59d8b467ee4",
+    "zylo-58d08468b63e": {
+      "nodeId": "zylo-58d08468b63e",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 10,
       "locStart": {
@@ -9184,8 +9184,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-9aba95059647": {
-      "nodeId": "zylo-9aba95059647",
+    "zylo-0608b5b84a09": {
+      "nodeId": "zylo-0608b5b84a09",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 11,
       "locStart": {
@@ -9200,8 +9200,8 @@
       "tagName": "Button",
       "capabilities": 126
     },
-    "zylo-51c5dc39d1ba": {
-      "nodeId": "zylo-51c5dc39d1ba",
+    "zylo-e65200553d10": {
+      "nodeId": "zylo-e65200553d10",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 12,
       "locStart": {
@@ -9216,8 +9216,8 @@
       "tagName": "PanelLeft",
       "capabilities": 86
     },
-    "zylo-b21d0b5a1ba7": {
-      "nodeId": "zylo-b21d0b5a1ba7",
+    "zylo-10d3f449436a": {
+      "nodeId": "zylo-10d3f449436a",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 13,
       "locStart": {
@@ -9232,8 +9232,8 @@
       "tagName": "span",
       "capabilities": 282
     },
-    "zylo-0908f0094de3": {
-      "nodeId": "zylo-0908f0094de3",
+    "zylo-806c901305fc": {
+      "nodeId": "zylo-806c901305fc",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 14,
       "locStart": {
@@ -9248,8 +9248,8 @@
       "tagName": "button",
       "capabilities": 126
     },
-    "zylo-b5e2f8f3e140": {
-      "nodeId": "zylo-b5e2f8f3e140",
+    "zylo-70036752ea25": {
+      "nodeId": "zylo-70036752ea25",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 15,
       "locStart": {
@@ -9264,8 +9264,8 @@
       "tagName": "main",
       "capabilities": 247
     },
-    "zylo-d87fcf990500": {
-      "nodeId": "zylo-d87fcf990500",
+    "zylo-443589177487": {
+      "nodeId": "zylo-443589177487",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 16,
       "locStart": {
@@ -9280,8 +9280,8 @@
       "tagName": "Input",
       "capabilities": 63
     },
-    "zylo-9b56c1738834": {
-      "nodeId": "zylo-9b56c1738834",
+    "zylo-771024f2f259": {
+      "nodeId": "zylo-771024f2f259",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 17,
       "locStart": {
@@ -9296,8 +9296,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-1061c471962e": {
-      "nodeId": "zylo-1061c471962e",
+    "zylo-cfd796edafef": {
+      "nodeId": "zylo-cfd796edafef",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 18,
       "locStart": {
@@ -9312,8 +9312,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-c0c893b1dfa0": {
-      "nodeId": "zylo-c0c893b1dfa0",
+    "zylo-0623803e0e0f": {
+      "nodeId": "zylo-0623803e0e0f",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 19,
       "locStart": {
@@ -9328,8 +9328,8 @@
       "tagName": "Separator",
       "capabilities": 247
     },
-    "zylo-61a6b4e0bc67": {
-      "nodeId": "zylo-61a6b4e0bc67",
+    "zylo-9d8569569362": {
+      "nodeId": "zylo-9d8569569362",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 20,
       "locStart": {
@@ -9344,8 +9344,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-1c6b51bafa18": {
-      "nodeId": "zylo-1c6b51bafa18",
+    "zylo-464d61c43fa7": {
+      "nodeId": "zylo-464d61c43fa7",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 21,
       "locStart": {
@@ -9360,8 +9360,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-70fe2685da3b": {
-      "nodeId": "zylo-70fe2685da3b",
+    "zylo-11c99fd34bd2": {
+      "nodeId": "zylo-11c99fd34bd2",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 22,
       "locStart": {
@@ -9376,8 +9376,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-44095e9fdfc9": {
-      "nodeId": "zylo-44095e9fdfc9",
+    "zylo-41e336528452": {
+      "nodeId": "zylo-41e336528452",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 23,
       "locStart": {
@@ -9392,8 +9392,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-b35ff01f3662": {
-      "nodeId": "zylo-b35ff01f3662",
+    "zylo-cdf40aaede86": {
+      "nodeId": "zylo-cdf40aaede86",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 24,
       "locStart": {
@@ -9408,8 +9408,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-b3d18d9e85c8": {
-      "nodeId": "zylo-b3d18d9e85c8",
+    "zylo-4553816236be": {
+      "nodeId": "zylo-4553816236be",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 25,
       "locStart": {
@@ -9424,8 +9424,8 @@
       "tagName": "ul",
       "capabilities": 59
     },
-    "zylo-12786116a3ff": {
-      "nodeId": "zylo-12786116a3ff",
+    "zylo-0efa7ec4ec59": {
+      "nodeId": "zylo-0efa7ec4ec59",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 26,
       "locStart": {
@@ -9440,8 +9440,8 @@
       "tagName": "li",
       "capabilities": 59
     },
-    "zylo-176984ddaeeb": {
-      "nodeId": "zylo-176984ddaeeb",
+    "zylo-cc705ca53c6d": {
+      "nodeId": "zylo-cc705ca53c6d",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 27,
       "locStart": {
@@ -9456,8 +9456,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-7d7d8abacf42": {
-      "nodeId": "zylo-7d7d8abacf42",
+    "zylo-724552a007f9": {
+      "nodeId": "zylo-724552a007f9",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 28,
       "locStart": {
@@ -9472,8 +9472,8 @@
       "tagName": "Tooltip",
       "capabilities": 247
     },
-    "zylo-79dd69a3fac1": {
-      "nodeId": "zylo-79dd69a3fac1",
+    "zylo-e7f3be67b905": {
+      "nodeId": "zylo-e7f3be67b905",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 29,
       "locStart": {
@@ -9488,8 +9488,8 @@
       "tagName": "TooltipTrigger",
       "capabilities": 247
     },
-    "zylo-1b3ae26555ab": {
-      "nodeId": "zylo-1b3ae26555ab",
+    "zylo-a78fcd07af37": {
+      "nodeId": "zylo-a78fcd07af37",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 30,
       "locStart": {
@@ -9504,8 +9504,8 @@
       "tagName": "TooltipContent",
       "capabilities": 247
     },
-    "zylo-8630bddfcc0a": {
-      "nodeId": "zylo-8630bddfcc0a",
+    "zylo-5a2655049309": {
+      "nodeId": "zylo-5a2655049309",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 31,
       "locStart": {
@@ -9520,8 +9520,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-b7ee81347f15": {
-      "nodeId": "zylo-b7ee81347f15",
+    "zylo-2a12e7ede55e": {
+      "nodeId": "zylo-2a12e7ede55e",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 32,
       "locStart": {
@@ -9536,8 +9536,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-0190c6de9351": {
-      "nodeId": "zylo-0190c6de9351",
+    "zylo-f6904e303a5f": {
+      "nodeId": "zylo-f6904e303a5f",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 33,
       "locStart": {
@@ -9552,8 +9552,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-a4bd3dea6598": {
-      "nodeId": "zylo-a4bd3dea6598",
+    "zylo-179ffb3e49f9": {
+      "nodeId": "zylo-179ffb3e49f9",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 34,
       "locStart": {
@@ -9568,8 +9568,8 @@
       "tagName": "Skeleton",
       "capabilities": 247
     },
-    "zylo-af274339620a": {
-      "nodeId": "zylo-af274339620a",
+    "zylo-4081f877a83b": {
+      "nodeId": "zylo-4081f877a83b",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 35,
       "locStart": {
@@ -9584,8 +9584,8 @@
       "tagName": "Skeleton",
       "capabilities": 247
     },
-    "zylo-ef98ebd5ccd3": {
-      "nodeId": "zylo-ef98ebd5ccd3",
+    "zylo-5f7b7ce6a79f": {
+      "nodeId": "zylo-5f7b7ce6a79f",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 36,
       "locStart": {
@@ -9600,8 +9600,8 @@
       "tagName": "ul",
       "capabilities": 59
     },
-    "zylo-2d614500e84a": {
-      "nodeId": "zylo-2d614500e84a",
+    "zylo-1c732f5b0ad7": {
+      "nodeId": "zylo-1c732f5b0ad7",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 37,
       "locStart": {
@@ -9616,8 +9616,8 @@
       "tagName": "li",
       "capabilities": 59
     },
-    "zylo-878a5b6380ab": {
-      "nodeId": "zylo-878a5b6380ab",
+    "zylo-d4563dd09aa4": {
+      "nodeId": "zylo-d4563dd09aa4",
       "filePath": "src/components/ui/sidebar.tsx",
       "astPathIndex": 38,
       "locStart": {
@@ -9632,8 +9632,8 @@
       "tagName": "Comp",
       "capabilities": 247
     },
-    "zylo-8fd300dd9dfd": {
-      "nodeId": "zylo-8fd300dd9dfd",
+    "zylo-c3417c31dc68": {
+      "nodeId": "zylo-c3417c31dc68",
       "filePath": "src/components/ui/skeleton.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9649,8 +9649,8 @@
       "componentName": "Skeleton",
       "capabilities": 247
     },
-    "zylo-29552ea2f14d": {
-      "nodeId": "zylo-29552ea2f14d",
+    "zylo-a0aed42467f7": {
+      "nodeId": "zylo-a0aed42467f7",
       "filePath": "src/components/ui/slider.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9665,8 +9665,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-d361fec84e94": {
-      "nodeId": "zylo-d361fec84e94",
+    "zylo-6370f1f6a7e8": {
+      "nodeId": "zylo-6370f1f6a7e8",
       "filePath": "src/components/ui/slider.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -9681,8 +9681,8 @@
       "tagName": "Track",
       "capabilities": 247
     },
-    "zylo-45e083015cec": {
-      "nodeId": "zylo-45e083015cec",
+    "zylo-42c541149b54": {
+      "nodeId": "zylo-42c541149b54",
       "filePath": "src/components/ui/slider.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -9697,8 +9697,8 @@
       "tagName": "Range",
       "capabilities": 63
     },
-    "zylo-7da3b2252d1b": {
-      "nodeId": "zylo-7da3b2252d1b",
+    "zylo-223d8a368e0b": {
+      "nodeId": "zylo-223d8a368e0b",
       "filePath": "src/components/ui/slider.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -9713,8 +9713,8 @@
       "tagName": "Thumb",
       "capabilities": 247
     },
-    "zylo-8f3f26494cdf": {
-      "nodeId": "zylo-8f3f26494cdf",
+    "zylo-c8f74e6119ba": {
+      "nodeId": "zylo-c8f74e6119ba",
       "filePath": "src/components/ui/sonner.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9730,8 +9730,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-d7e503917594": {
-      "nodeId": "zylo-d7e503917594",
+    "zylo-2ec82ad8b9f4": {
+      "nodeId": "zylo-2ec82ad8b9f4",
       "filePath": "src/components/ui/switch.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9746,8 +9746,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-d18abfd8330e": {
-      "nodeId": "zylo-d18abfd8330e",
+    "zylo-c87d4d36e1d1": {
+      "nodeId": "zylo-c87d4d36e1d1",
       "filePath": "src/components/ui/switch.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -9762,8 +9762,8 @@
       "tagName": "Thumb",
       "capabilities": 247
     },
-    "zylo-8369e223b0b5": {
-      "nodeId": "zylo-8369e223b0b5",
+    "zylo-5d0d7f2cd7aa": {
+      "nodeId": "zylo-5d0d7f2cd7aa",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9778,8 +9778,8 @@
       "tagName": "div",
       "capabilities": 247
     },
-    "zylo-1cd456d5e4b3": {
-      "nodeId": "zylo-1cd456d5e4b3",
+    "zylo-d57083506a08": {
+      "nodeId": "zylo-d57083506a08",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -9794,8 +9794,8 @@
       "tagName": "table",
       "capabilities": 247
     },
-    "zylo-7188c4197dbb": {
-      "nodeId": "zylo-7188c4197dbb",
+    "zylo-1dcb839269e9": {
+      "nodeId": "zylo-1dcb839269e9",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -9810,8 +9810,8 @@
       "tagName": "thead",
       "capabilities": 247
     },
-    "zylo-c8d3f6ab7a6f": {
-      "nodeId": "zylo-c8d3f6ab7a6f",
+    "zylo-b77f1b00b167": {
+      "nodeId": "zylo-b77f1b00b167",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -9826,8 +9826,8 @@
       "tagName": "tbody",
       "capabilities": 247
     },
-    "zylo-b45ea23e3d4e": {
-      "nodeId": "zylo-b45ea23e3d4e",
+    "zylo-6aa18e481c5f": {
+      "nodeId": "zylo-6aa18e481c5f",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -9842,8 +9842,8 @@
       "tagName": "tfoot",
       "capabilities": 247
     },
-    "zylo-664670b54dee": {
-      "nodeId": "zylo-664670b54dee",
+    "zylo-a32ce27894a0": {
+      "nodeId": "zylo-a32ce27894a0",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -9858,8 +9858,8 @@
       "tagName": "tr",
       "capabilities": 247
     },
-    "zylo-a5ab7bfcb34d": {
-      "nodeId": "zylo-a5ab7bfcb34d",
+    "zylo-3a345de4a66e": {
+      "nodeId": "zylo-3a345de4a66e",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -9874,8 +9874,8 @@
       "tagName": "th",
       "capabilities": 247
     },
-    "zylo-7954ecc98fcf": {
-      "nodeId": "zylo-7954ecc98fcf",
+    "zylo-a02ca4a13b5b": {
+      "nodeId": "zylo-a02ca4a13b5b",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 7,
       "locStart": {
@@ -9890,8 +9890,8 @@
       "tagName": "td",
       "capabilities": 247
     },
-    "zylo-945fe2cc6e76": {
-      "nodeId": "zylo-945fe2cc6e76",
+    "zylo-daf01acea8a9": {
+      "nodeId": "zylo-daf01acea8a9",
       "filePath": "src/components/ui/table.tsx",
       "astPathIndex": 8,
       "locStart": {
@@ -9906,8 +9906,8 @@
       "tagName": "caption",
       "capabilities": 282
     },
-    "zylo-24b396621703": {
-      "nodeId": "zylo-24b396621703",
+    "zylo-e74dab209e8c": {
+      "nodeId": "zylo-e74dab209e8c",
       "filePath": "src/components/ui/tabs.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9922,8 +9922,8 @@
       "tagName": "List",
       "capabilities": 59
     },
-    "zylo-1b01318c6894": {
-      "nodeId": "zylo-1b01318c6894",
+    "zylo-b2b3c2f6b675": {
+      "nodeId": "zylo-b2b3c2f6b675",
       "filePath": "src/components/ui/tabs.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -9938,8 +9938,8 @@
       "tagName": "Trigger",
       "capabilities": 247
     },
-    "zylo-70b035f4f381": {
-      "nodeId": "zylo-70b035f4f381",
+    "zylo-75bf48e47edc": {
+      "nodeId": "zylo-75bf48e47edc",
       "filePath": "src/components/ui/tabs.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -9954,8 +9954,8 @@
       "tagName": "Content",
       "capabilities": 247
     },
-    "zylo-b02c56bf7dc9": {
-      "nodeId": "zylo-b02c56bf7dc9",
+    "zylo-4a08ad295842": {
+      "nodeId": "zylo-4a08ad295842",
       "filePath": "src/components/ui/textarea.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9970,8 +9970,8 @@
       "tagName": "textarea",
       "capabilities": 63
     },
-    "zylo-54716fced3ee": {
-      "nodeId": "zylo-54716fced3ee",
+    "zylo-bf6792fc7f6b": {
+      "nodeId": "zylo-bf6792fc7f6b",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -9986,8 +9986,8 @@
       "tagName": "Viewport",
       "capabilities": 247
     },
-    "zylo-c67b7af2f539": {
-      "nodeId": "zylo-c67b7af2f539",
+    "zylo-052f7401d5ad": {
+      "nodeId": "zylo-052f7401d5ad",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -10002,8 +10002,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-dc5ac7fdbb96": {
-      "nodeId": "zylo-dc5ac7fdbb96",
+    "zylo-4ce6ea253eab": {
+      "nodeId": "zylo-4ce6ea253eab",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -10018,8 +10018,8 @@
       "tagName": "Action",
       "capabilities": 126
     },
-    "zylo-f45a4bfa1a50": {
-      "nodeId": "zylo-f45a4bfa1a50",
+    "zylo-8c45317391be": {
+      "nodeId": "zylo-8c45317391be",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -10034,8 +10034,8 @@
       "tagName": "Close",
       "capabilities": 247
     },
-    "zylo-7e23166c1b4e": {
-      "nodeId": "zylo-7e23166c1b4e",
+    "zylo-03abe05a729a": {
+      "nodeId": "zylo-03abe05a729a",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -10050,8 +10050,8 @@
       "tagName": "X",
       "capabilities": 86
     },
-    "zylo-83c1c92cfdf8": {
-      "nodeId": "zylo-83c1c92cfdf8",
+    "zylo-ff42e9696cab": {
+      "nodeId": "zylo-ff42e9696cab",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -10066,8 +10066,8 @@
       "tagName": "Title",
       "capabilities": 282
     },
-    "zylo-8656cb1687b9": {
-      "nodeId": "zylo-8656cb1687b9",
+    "zylo-c1e98fd48314": {
+      "nodeId": "zylo-c1e98fd48314",
       "filePath": "src/components/ui/toast.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -10082,8 +10082,8 @@
       "tagName": "Description",
       "capabilities": 282
     },
-    "zylo-9b517656ba3c": {
-      "nodeId": "zylo-9b517656ba3c",
+    "zylo-52f64e0ffd66": {
+      "nodeId": "zylo-52f64e0ffd66",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -10099,8 +10099,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-a451a0b6b26d": {
-      "nodeId": "zylo-a451a0b6b26d",
+    "zylo-43fc8f59a3ce": {
+      "nodeId": "zylo-43fc8f59a3ce",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -10116,8 +10116,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-4b4f48903f73": {
-      "nodeId": "zylo-4b4f48903f73",
+    "zylo-1e37ca86023f": {
+      "nodeId": "zylo-1e37ca86023f",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -10133,8 +10133,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-015b35ccf771": {
-      "nodeId": "zylo-015b35ccf771",
+    "zylo-4fef78884245": {
+      "nodeId": "zylo-4fef78884245",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 3,
       "locStart": {
@@ -10150,8 +10150,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-e684276ed907": {
-      "nodeId": "zylo-e684276ed907",
+    "zylo-d870b800385c": {
+      "nodeId": "zylo-d870b800385c",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 4,
       "locStart": {
@@ -10167,8 +10167,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-7063642d315d": {
-      "nodeId": "zylo-7063642d315d",
+    "zylo-00410963ca42": {
+      "nodeId": "zylo-00410963ca42",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 5,
       "locStart": {
@@ -10184,8 +10184,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-f77acd0c2bad": {
-      "nodeId": "zylo-f77acd0c2bad",
+    "zylo-38b772aa1938": {
+      "nodeId": "zylo-38b772aa1938",
       "filePath": "src/components/ui/toaster.tsx",
       "astPathIndex": 6,
       "locStart": {
@@ -10201,8 +10201,8 @@
       "componentName": "Toaster",
       "capabilities": 247
     },
-    "zylo-96e4496d7f2a": {
-      "nodeId": "zylo-96e4496d7f2a",
+    "zylo-2a7f0cd7be24": {
+      "nodeId": "zylo-2a7f0cd7be24",
       "filePath": "src/components/ui/toggle-group.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -10217,8 +10217,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-581f630a75c4": {
-      "nodeId": "zylo-581f630a75c4",
+    "zylo-3cdc226675c8": {
+      "nodeId": "zylo-3cdc226675c8",
       "filePath": "src/components/ui/toggle-group.tsx",
       "astPathIndex": 1,
       "locStart": {
@@ -10233,8 +10233,8 @@
       "tagName": "Provider",
       "capabilities": 247
     },
-    "zylo-db061b514e2f": {
-      "nodeId": "zylo-db061b514e2f",
+    "zylo-5a0e758a1b1f": {
+      "nodeId": "zylo-5a0e758a1b1f",
       "filePath": "src/components/ui/toggle-group.tsx",
       "astPathIndex": 2,
       "locStart": {
@@ -10249,8 +10249,8 @@
       "tagName": "Item",
       "capabilities": 247
     },
-    "zylo-89a6b25cb357": {
-      "nodeId": "zylo-89a6b25cb357",
+    "zylo-3e75d157ecc2": {
+      "nodeId": "zylo-3e75d157ecc2",
       "filePath": "src/components/ui/toggle.tsx",
       "astPathIndex": 0,
       "locStart": {
@@ -10265,8 +10265,8 @@
       "tagName": "Root",
       "capabilities": 247
     },
-    "zylo-6aeeaef02634": {
-      "nodeId": "zylo-6aeeaef02634",
+    "zylo-3d6c8d84b0e1": {
+      "nodeId": "zylo-3d6c8d84b0e1",
       "filePath": "src/components/ui/tooltip.tsx",
       "astPathIndex": 0,
       "locStart": {
