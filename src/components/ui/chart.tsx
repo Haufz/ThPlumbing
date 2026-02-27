@@ -46,8 +46,8 @@ const ChartContainer = React.forwardRef<
   const chartId = `chart-${id || uniqueId.replace(/:/g, "")}`
 
   return (
-    <ChartContext.Provider value={{ config }}>
-      <div
+    <ChartContext.Provider data-zylo-id="zylo-4cb311ba63d3" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="49:5-64:29" value={{ config }}>
+      <div data-zylo-id="zylo-20bf477e168f" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="50:7-63:13"
         data-chart={chartId}
         ref={ref}
         className={cn(
@@ -56,8 +56,8 @@ const ChartContainer = React.forwardRef<
         )}
         {...props}
       >
-        <ChartStyle id={chartId} config={config} />
-        <RechartsPrimitive.ResponsiveContainer>
+        <ChartStyle data-zylo-id="zylo-a16ed5e32c85" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="59:9-59:52" id={chartId} config={config} />
+        <RechartsPrimitive.ResponsiveContainer data-zylo-id="zylo-a0f885660027" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="60:9-62:49">
           {children}
         </RechartsPrimitive.ResponsiveContainer>
       </div>
@@ -76,7 +76,7 @@ const ChartStyle = ({ id, config }: { id: string; config: ChartConfig }) => {
   }
 
   return (
-    <style
+    <style data-zylo-id="zylo-788ab4de941b" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="79:5-98:7" data-zylo-component="ChartStyle"
       dangerouslySetInnerHTML={{
         __html: Object.entries(THEMES)
           .map(
@@ -155,7 +155,7 @@ const ChartTooltipContent = React.forwardRef<
 
       if (labelFormatter) {
         return (
-          <div className={cn("font-medium", labelClassName)}>
+          <div data-zylo-id="zylo-449e042b1b4e" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="158:11-160:17" className={cn("font-medium", labelClassName)}>
             {labelFormatter(value, payload)}
           </div>
         )
@@ -165,7 +165,7 @@ const ChartTooltipContent = React.forwardRef<
         return null
       }
 
-      return <div className={cn("font-medium", labelClassName)}>{value}</div>
+      return <div data-zylo-id="zylo-469e24a642d3" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="168:14-168:78" className={cn("font-medium", labelClassName)}>{value}</div>
     }, [
       label,
       labelFormatter,
@@ -183,7 +183,7 @@ const ChartTooltipContent = React.forwardRef<
     const nestLabel = payload.length === 1 && indicator !== "dot"
 
     return (
-      <div
+      <div data-zylo-id="zylo-114c96bc6963" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="186:7-260:13"
         ref={ref}
         className={cn(
           "grid min-w-[8rem] items-start gap-1.5 rounded-lg border border-border/50 bg-background px-2.5 py-1.5 text-xs shadow-xl",
@@ -191,14 +191,14 @@ const ChartTooltipContent = React.forwardRef<
         )}
       >
         {!nestLabel ? tooltipLabel : null}
-        <div className="grid gap-1.5">
+        <div data-zylo-id="zylo-086be6a5fe22" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="194:9-259:15" className="grid gap-1.5">
           {payload.map((item, index) => {
             const key = `${nameKey || item.name || item.dataKey || "value"}`
             const itemConfig = getPayloadConfigFromPayload(config, item, key)
             const indicatorColor = color || item.payload?.fill || item.color
 
             return (
-              <div
+              <div data-zylo-id="zylo-5bf969e8d392" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="201:15-256:21"
                 key={item.dataKey}
                 className={cn(
                   "flex w-full flex-wrap items-stretch gap-2 [&>svg]:h-2.5 [&>svg]:w-2.5 [&>svg]:text-muted-foreground",
@@ -210,10 +210,10 @@ const ChartTooltipContent = React.forwardRef<
                 ) : (
                   <>
                     {itemConfig?.icon ? (
-                      <itemConfig.icon />
+                      <itemConfig.icon data-zylo-id="zylo-09511ea5e922" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="213:23-213:42" />
                     ) : (
                       !hideIndicator && (
-                        <div
+                        <div data-zylo-id="zylo-16e3a6115fcc" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="216:25-233:27"
                           className={cn(
                             "shrink-0 rounded-[2px] border-[--color-border] bg-[--color-bg]",
                             {
@@ -233,20 +233,20 @@ const ChartTooltipContent = React.forwardRef<
                         />
                       )
                     )}
-                    <div
+                    <div data-zylo-id="zylo-68e8488bc93a" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="236:21-253:27"
                       className={cn(
                         "flex flex-1 justify-between leading-none",
                         nestLabel ? "items-end" : "items-center"
                       )}
                     >
-                      <div className="grid gap-1.5">
+                      <div data-zylo-id="zylo-8070fe85484d" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="242:23-247:29" className="grid gap-1.5">
                         {nestLabel ? tooltipLabel : null}
-                        <span className="text-muted-foreground">
+                        <span data-zylo-id="zylo-22db46404ac6" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="244:25-246:32" className="text-muted-foreground">
                           {itemConfig?.label || item.name}
                         </span>
                       </div>
                       {item.value && (
-                        <span className="font-mono font-medium tabular-nums text-foreground">
+                        <span data-zylo-id="zylo-b5e3e3f14a9f" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="249:25-251:32" className="font-mono font-medium tabular-nums text-foreground">
                           {item.value.toLocaleString()}
                         </span>
                       )}
@@ -285,7 +285,7 @@ const ChartLegendContent = React.forwardRef<
     }
 
     return (
-      <div
+      <div data-zylo-id="zylo-967abc2a2785" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="288:7-321:13"
         ref={ref}
         className={cn(
           "flex items-center justify-center gap-4",
@@ -298,16 +298,16 @@ const ChartLegendContent = React.forwardRef<
           const itemConfig = getPayloadConfigFromPayload(config, item, key)
 
           return (
-            <div
+            <div data-zylo-id="zylo-dd713221afdc" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="301:13-318:19"
               key={item.value}
               className={cn(
                 "flex items-center gap-1.5 [&>svg]:h-3 [&>svg]:w-3 [&>svg]:text-muted-foreground"
               )}
             >
               {itemConfig?.icon && !hideIcon ? (
-                <itemConfig.icon />
+                <itemConfig.icon data-zylo-id="zylo-61f118b3ad1e" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="308:17-308:36" />
               ) : (
-                <div
+                <div data-zylo-id="zylo-90528e7c30e7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/chart.tsx" data-zylo-loc="310:17-315:19"
                   className="h-2 w-2 shrink-0 rounded-[2px]"
                   style={{
                     backgroundColor: item.color,

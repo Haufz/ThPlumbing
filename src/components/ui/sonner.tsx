@@ -9,7 +9,7 @@ const Toaster = ({ ...props }: ToasterProps) => {
   const { theme = "system" } = useTheme()
 
   return (
-    <Sonner
+    <Sonner data-zylo-id="zylo-83ddf8147157" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sonner.tsx" data-zylo-loc="12:5-27:7" data-zylo-component="Toaster"
       theme={theme as ToasterProps["theme"]}
       className="toaster group"
       toastOptions={{

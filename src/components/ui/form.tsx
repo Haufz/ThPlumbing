@@ -33,8 +33,8 @@ const FormField = <
   ...props
 }: ControllerProps<TFieldValues, TName>) => {
   return (
-    <FormFieldContext.Provider value={{ name: props.name }}>
-      <Controller {...props} />
+    <FormFieldContext.Provider data-zylo-id="zylo-d34daca73cc6" data-zylo-kind="input" data-zylo-cap="63" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="36:5-38:33" data-zylo-component="FormField" value={{ name: props.name }}>
+      <Controller data-zylo-id="zylo-0a336f8aabb9" data-zylo-kind="input" data-zylo-cap="63" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="37:7-37:32" data-zylo-component="FormField" {...props} />
     </FormFieldContext.Provider>
   )
 }
@@ -77,8 +77,8 @@ const FormItem = React.forwardRef<
   const id = React.useId()
 
   return (
-    <FormItemContext.Provider value={{ id }}>
-      <div ref={ref} className={cn("space-y-2", className)} {...props} />
+    <FormItemContext.Provider data-zylo-id="zylo-8a7fc7c14bc3" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="80:5-82:32" value={{ id }}>
+      <div data-zylo-id="zylo-f99fde694bbb" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="81:7-81:74" ref={ref} className={cn("space-y-2", className)} {...props} />
     </FormItemContext.Provider>
   )
 })
@@ -91,7 +91,7 @@ const FormLabel = React.forwardRef<
   const { error, formItemId } = useFormField()
 
   return (
-    <Label
+    <Label data-zylo-id="zylo-965709bf8414" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="94:5-99:7"
       ref={ref}
       className={cn(error && "text-destructive", className)}
       htmlFor={formItemId}
@@ -108,7 +108,7 @@ const FormControl = React.forwardRef<
   const { error, formItemId, formDescriptionId, formMessageId } = useFormField()
 
   return (
-    <Slot
+    <Slot data-zylo-id="zylo-f7c028195c39" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="111:5-121:7"
       ref={ref}
       id={formItemId}
       aria-describedby={
@@ -130,7 +130,7 @@ const FormDescription = React.forwardRef<
   const { formDescriptionId } = useFormField()
 
   return (
-    <p
+    <p data-zylo-id="zylo-d61d2767ed66" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="133:5-138:7"
       ref={ref}
       id={formDescriptionId}
       className={cn("text-sm text-muted-foreground", className)}
@@ -152,7 +152,7 @@ const FormMessage = React.forwardRef<
   }
 
   return (
-    <p
+    <p data-zylo-id="zylo-b613bcf1433d" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/form.tsx" data-zylo-loc="155:5-162:9"
       ref={ref}
       id={formMessageId}
       className={cn("text-sm font-medium text-destructive", className)}

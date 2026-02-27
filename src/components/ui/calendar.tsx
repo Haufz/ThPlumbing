@@ -14,7 +14,7 @@ function Calendar({
   ...props
 }: CalendarProps) {
   return (
-    <DayPicker
+    <DayPicker data-zylo-id="zylo-2dda3532e784" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/calendar.tsx" data-zylo-loc="17:5-58:7" data-zylo-component="Calendar"
       showOutsideDays={showOutsideDays}
       className={cn("p-3", className)}
       classNames={{
@@ -52,7 +52,7 @@ function Calendar({
         ...classNames,
       }}
       components={{
-        Chevron: (props) => props.orientation === 'left' ? <ChevronLeft className="h-4 w-4" /> : <ChevronRight className="h-4 w-4" />,
+        Chevron: (props) => props.orientation === 'left' ? <ChevronLeft data-zylo-id="zylo-42259802f405" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/calendar.tsx" data-zylo-loc="55:60-55:95" data-zylo-component="Calendar" className="h-4 w-4" /> : <ChevronRight data-zylo-id="zylo-c27ef1f18a9c" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/calendar.tsx" data-zylo-loc="55:98-55:134" data-zylo-component="Calendar" className="h-4 w-4" />,
       }}
       {...props}
     />

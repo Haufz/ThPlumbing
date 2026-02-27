@@ -13,7 +13,7 @@ const TooltipContent = React.forwardRef<
   React.ElementRef<typeof TooltipPrimitive.Content>,
   React.ComponentPropsWithoutRef<typeof TooltipPrimitive.Content>
 >(({ className, sideOffset = 4, ...props }, ref) => (
-  <TooltipPrimitive.Content
+  <TooltipPrimitive.Content data-zylo-id="zylo-770af6702a1f" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/tooltip.tsx" data-zylo-loc="16:3-24:5"
     ref={ref}
     sideOffset={sideOffset}
     className={cn(

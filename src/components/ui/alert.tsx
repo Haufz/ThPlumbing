@@ -23,7 +23,7 @@ const Alert = React.forwardRef<
   HTMLDivElement,
   React.HTMLAttributes<HTMLDivElement> & VariantProps<typeof alertVariants>
 >(({ className, variant, ...props }, ref) => (
-  <div
+  <div data-zylo-id="zylo-792aee17b9dc" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/alert.tsx" data-zylo-loc="26:3-31:5"
     ref={ref}
     role="alert"
     className={cn(alertVariants({ variant }), className)}
@@ -36,7 +36,7 @@ const AlertTitle = React.forwardRef<
   HTMLParagraphElement,
   React.HTMLAttributes<HTMLHeadingElement>
 >(({ className, ...props }, ref) => (
-  <h5
+  <h5 data-zylo-id="zylo-01e27f1afb95" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/alert.tsx" data-zylo-loc="39:3-43:5"
     ref={ref}
     className={cn("mb-1 font-medium leading-none tracking-tight", className)}
     {...props}
@@ -48,7 +48,7 @@ const AlertDescription = React.forwardRef<
   HTMLParagraphElement,
   React.HTMLAttributes<HTMLParagraphElement>
 >(({ className, ...props }, ref) => (
-  <div
+  <div data-zylo-id="zylo-c25211c54b37" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/alert.tsx" data-zylo-loc="51:3-55:5"
     ref={ref}
     className={cn("text-sm [&_p]:leading-relaxed", className)}
     {...props}

@@ -12,7 +12,7 @@ export function createClientSafeComponent<P = {}>(
   return dynamic(loader, {
     ssr: false, // Disable server-side rendering
     loading: () => (
-      <div style={{ 
+      <div data-zylo-id="zylo-78ede03dba7e" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/client-safe.tsx" data-zylo-loc="15:7-24:13" style={{ 
         display: 'flex', 
         alignItems: 'center', 
         justifyContent: 'center', 
@@ -33,7 +33,7 @@ export const BrowserOnlyWrapper = ({ children }: { children: ReactNode }) => {
   
   if (typeof window === 'undefined') {
     return (
-      <div style={{ 
+      <div data-zylo-id="zylo-15d52bf5b71f" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/client-safe.tsx" data-zylo-loc="36:7-45:13" data-zylo-component="BrowserOnlyWrapper" style={{ 
         display: 'flex', 
         alignItems: 'center', 
         justifyContent: 'center', 

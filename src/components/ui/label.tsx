@@ -13,7 +13,7 @@ const Label = React.forwardRef<
   React.ComponentPropsWithoutRef<typeof LabelPrimitive.Root> &
     VariantProps<typeof labelVariants>
 >(({ className, ...props }, ref) => (
-  <LabelPrimitive.Root
+  <LabelPrimitive.Root data-zylo-id="zylo-6d7466be2eca" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/label.tsx" data-zylo-loc="16:3-20:5"
     ref={ref}
     className={cn(labelVariants(), className)}
     {...props}

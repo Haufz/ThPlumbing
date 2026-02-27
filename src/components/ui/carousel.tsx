@@ -119,7 +119,7 @@ const Carousel = React.forwardRef<
     }, [api, onSelect])
 
     return (
-      <CarouselContext.Provider
+      <CarouselContext.Provider data-zylo-id="zylo-123168acb852" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="122:7-145:34"
         value={{
           carouselRef,
           api: api,
@@ -132,7 +132,7 @@ const Carousel = React.forwardRef<
           canScrollNext,
         }}
       >
-        <div
+        <div data-zylo-id="zylo-1566a33c8e2a" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="135:9-144:15"
           ref={ref}
           onKeyDownCapture={handleKeyDown}
           className={cn("relative", className)}
@@ -155,8 +155,8 @@ const CarouselContent = React.forwardRef<
   const { carouselRef, orientation } = useCarousel()
 
   return (
-    <div ref={carouselRef} className="overflow-hidden">
-      <div
+    <div data-zylo-id="zylo-aa2edbdfb709" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="158:5-168:11" ref={carouselRef} className="overflow-hidden">
+      <div data-zylo-id="zylo-d04018fc3df9" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="159:7-167:9"
         ref={ref}
         className={cn(
           "flex",
@@ -177,7 +177,7 @@ const CarouselItem = React.forwardRef<
   const { orientation } = useCarousel()
 
   return (
-    <div
+    <div data-zylo-id="zylo-f77055899e59" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="180:5-190:7"
       ref={ref}
       role="group"
       aria-roledescription="slide"
@@ -199,7 +199,7 @@ const CarouselPrevious = React.forwardRef<
   const { orientation, scrollPrev, canScrollPrev } = useCarousel()
 
   return (
-    <Button
+    <Button data-zylo-id="zylo-e8169c6bdca9" data-zylo-kind="button" data-zylo-cap="126" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="202:5-219:14"
       ref={ref}
       variant={variant}
       size={size}
@@ -214,8 +214,8 @@ const CarouselPrevious = React.forwardRef<
       onClick={scrollPrev}
       {...props}
     >
-      <ArrowLeft className="h-4 w-4" />
-      <span className="sr-only">Previous slide</span>
+      <ArrowLeft data-zylo-id="zylo-d74c89711cdb" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="217:7-217:40" className="h-4 w-4" />
+      <span data-zylo-id="zylo-57bfd9dcd4c2" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="218:7-218:54" className="sr-only">Previous slide</span>
     </Button>
   )
 })
@@ -228,7 +228,7 @@ const CarouselNext = React.forwardRef<
   const { orientation, scrollNext, canScrollNext } = useCarousel()
 
   return (
-    <Button
+    <Button data-zylo-id="zylo-b19a334ce668" data-zylo-kind="button" data-zylo-cap="126" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="231:5-248:14"
       ref={ref}
       variant={variant}
       size={size}
@@ -243,8 +243,8 @@ const CarouselNext = React.forwardRef<
       onClick={scrollNext}
       {...props}
     >
-      <ArrowRight className="h-4 w-4" />
-      <span className="sr-only">Next slide</span>
+      <ArrowRight data-zylo-id="zylo-8111744ecd59" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="246:7-246:41" className="h-4 w-4" />
+      <span data-zylo-id="zylo-a09f5adb754e" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/carousel.tsx" data-zylo-loc="247:7-247:50" className="sr-only">Next slide</span>
     </Button>
   )
 })

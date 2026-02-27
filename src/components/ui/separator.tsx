@@ -11,7 +11,7 @@ const Separator = React.forwardRef<
     { className, orientation = "horizontal", decorative = true, ...props },
     ref
   ) => (
-    <SeparatorPrimitive.Root
+    <SeparatorPrimitive.Root data-zylo-id="zylo-8137c1452b37" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/separator.tsx" data-zylo-loc="14:5-24:7"
       ref={ref}
       decorative={decorative}
       orientation={orientation}

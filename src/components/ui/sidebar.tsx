@@ -131,9 +131,9 @@ const SidebarProvider = React.forwardRef<
     )
 
     return (
-      <SidebarContext.Provider value={contextValue}>
-        <TooltipProvider delayDuration={0}>
-          <div
+      <SidebarContext.Provider data-zylo-id="zylo-7b654669d195" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="134:7-154:33" value={contextValue}>
+        <TooltipProvider data-zylo-id="zylo-b1ab8d8774e3" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="135:9-153:27" delayDuration={0}>
+          <div data-zylo-id="zylo-b54b16916bc9" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="136:11-152:17"
             style={
               {
                 "--sidebar-width": SIDEBAR_WIDTH,
@@ -180,7 +180,7 @@ const Sidebar = React.forwardRef<
 
     if (collapsible === "none") {
       return (
-        <div
+        <div data-zylo-id="zylo-23ec60f0f579" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="183:9-192:15"
           className={cn(
             "flex h-full w-[--sidebar-width] flex-col bg-sidebar text-sidebar-foreground",
             className
@@ -195,8 +195,8 @@ const Sidebar = React.forwardRef<
 
     if (isMobile) {
       return (
-        <Sheet open={openMobile} onOpenChange={setOpenMobile} {...props}>
-          <SheetContent
+        <Sheet data-zylo-id="zylo-535e8837527b" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="198:9-212:17" open={openMobile} onOpenChange={setOpenMobile} {...props}>
+          <SheetContent data-zylo-id="zylo-84e470cfa768" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="199:11-211:26"
             data-sidebar="sidebar"
             data-mobile="true"
             className="w-[--sidebar-width] bg-sidebar p-0 text-sidebar-foreground [&>button]:hidden"
@@ -207,14 +207,14 @@ const Sidebar = React.forwardRef<
             }
             side={side}
           >
-            <div className="flex h-full w-full flex-col">{children}</div>
+            <div data-zylo-id="zylo-7590a177b35d" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="210:13-210:74" className="flex h-full w-full flex-col">{children}</div>
           </SheetContent>
         </Sheet>
       )
     }
 
     return (
-      <div
+      <div data-zylo-id="zylo-e2ef2d0fe928" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="217:7-257:13"
         ref={ref}
         className="group peer hidden md:block text-sidebar-foreground"
         data-state={state}
@@ -223,7 +223,7 @@ const Sidebar = React.forwardRef<
         data-side={side}
       >
         {/* This is what handles the sidebar gap on desktop */}
-        <div
+        <div data-zylo-id="zylo-ab68fc5e83cc" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="226:9-235:11"
           className={cn(
             "duration-200 relative h-svh w-[--sidebar-width] bg-transparent transition-[width] ease-linear",
             "group-data-[collapsible=offcanvas]:w-0",
@@ -233,7 +233,7 @@ const Sidebar = React.forwardRef<
               : "group-data-[collapsible=icon]:w-[--sidebar-width-icon]"
           )}
         />
-        <div
+        <div data-zylo-id="zylo-9c0a75737a65" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="236:9-256:15"
           className={cn(
             "duration-200 fixed inset-y-0 z-10 hidden h-svh w-[--sidebar-width] transition-[left,right,width] ease-linear md:flex",
             side === "left"
@@ -247,7 +247,7 @@ const Sidebar = React.forwardRef<
           )}
           {...props}
         >
-          <div
+          <div data-zylo-id="zylo-d17228cb24b9" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="250:11-255:17"
             data-sidebar="sidebar"
             className="flex h-full w-full flex-col bg-sidebar group-data-[variant=floating]:rounded-lg group-data-[variant=floating]:border group-data-[variant=floating]:border-sidebar-border group-data-[variant=floating]:shadow"
           >
@@ -267,7 +267,7 @@ const SidebarTrigger = React.forwardRef<
   const { toggleSidebar } = useSidebar()
 
   return (
-    <Button
+    <Button data-zylo-id="zylo-dd5f129f1f08" data-zylo-kind="button" data-zylo-cap="126" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="270:5-284:14"
       ref={ref}
       data-sidebar="trigger"
       variant="ghost"
@@ -279,8 +279,8 @@ const SidebarTrigger = React.forwardRef<
       }}
       {...props}
     >
-      <PanelLeft />
-      <span className="sr-only">Toggle Sidebar</span>
+      <PanelLeft data-zylo-id="zylo-b731dfaf5138" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="282:7-282:20" />
+      <span data-zylo-id="zylo-ad936a474b2a" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="283:7-283:54" className="sr-only">Toggle Sidebar</span>
     </Button>
   )
 })
@@ -293,7 +293,7 @@ const SidebarRail = React.forwardRef<
   const { toggleSidebar } = useSidebar()
 
   return (
-    <button
+    <button data-zylo-id="zylo-8599f778e1c3" data-zylo-kind="button" data-zylo-cap="126" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="296:5-313:7"
       ref={ref}
       data-sidebar="rail"
       aria-label="Toggle Sidebar"
@@ -320,7 +320,7 @@ const SidebarInset = React.forwardRef<
   React.ComponentProps<"main">
 >(({ className, ...props }, ref) => {
   return (
-    <main
+    <main data-zylo-id="zylo-1967e6fdf866" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="323:5-331:7"
       ref={ref}
       className={cn(
         "relative flex min-h-svh flex-1 flex-col bg-background",
@@ -338,7 +338,7 @@ const SidebarInput = React.forwardRef<
   React.ComponentProps<typeof Input>
 >(({ className, ...props }, ref) => {
   return (
-    <Input
+    <Input data-zylo-id="zylo-e7323a4e7d33" data-zylo-kind="input" data-zylo-cap="63" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="341:5-349:7"
       ref={ref}
       data-sidebar="input"
       className={cn(
@@ -356,7 +356,7 @@ const SidebarHeader = React.forwardRef<
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => {
   return (
-    <div
+    <div data-zylo-id="zylo-5b5346e0ab4f" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="359:5-364:7"
       ref={ref}
       data-sidebar="header"
       className={cn("flex flex-col gap-2 p-2", className)}
@@ -371,7 +371,7 @@ const SidebarFooter = React.forwardRef<
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => {
   return (
-    <div
+    <div data-zylo-id="zylo-3765c9939366" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="374:5-379:7"
       ref={ref}
       data-sidebar="footer"
       className={cn("flex flex-col gap-2 p-2", className)}
@@ -386,7 +386,7 @@ const SidebarSeparator = React.forwardRef<
   React.ComponentProps<typeof Separator>
 >(({ className, ...props }, ref) => {
   return (
-    <Separator
+    <Separator data-zylo-id="zylo-c4c28394e809" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="389:5-394:7"
       ref={ref}
       data-sidebar="separator"
       className={cn("mx-2 w-auto bg-sidebar-border", className)}
@@ -401,7 +401,7 @@ const SidebarContent = React.forwardRef<
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => {
   return (
-    <div
+    <div data-zylo-id="zylo-56474b909732" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="404:5-412:7"
       ref={ref}
       data-sidebar="content"
       className={cn(
@@ -419,7 +419,7 @@ const SidebarGroup = React.forwardRef<
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => {
   return (
-    <div
+    <div data-zylo-id="zylo-a48459c745e7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="422:5-427:7"
       ref={ref}
       data-sidebar="group"
       className={cn("relative flex w-full min-w-0 flex-col p-2", className)}
@@ -436,7 +436,7 @@ const SidebarGroupLabel = React.forwardRef<
   const Comp = asChild ? Slot : "div"
 
   return (
-    <Comp
+    <Comp data-zylo-id="zylo-ac91afa347d2" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="439:5-448:7"
       ref={ref}
       data-sidebar="group-label"
       className={cn(
@@ -457,7 +457,7 @@ const SidebarGroupAction = React.forwardRef<
   const Comp = asChild ? Slot : "button"
 
   return (
-    <Comp
+    <Comp data-zylo-id="zylo-6c0b84f0f7e2" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="460:5-471:7"
       ref={ref}
       data-sidebar="group-action"
       className={cn(
@@ -477,7 +477,7 @@ const SidebarGroupContent = React.forwardRef<
   HTMLDivElement,
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => (
-  <div
+  <div data-zylo-id="zylo-ffd49ccf9611" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="480:3-485:5"
     ref={ref}
     data-sidebar="group-content"
     className={cn("w-full text-sm", className)}
@@ -490,7 +490,7 @@ const SidebarMenu = React.forwardRef<
   HTMLUListElement,
   React.ComponentProps<"ul">
 >(({ className, ...props }, ref) => (
-  <ul
+  <ul data-zylo-id="zylo-b581c2c40de1" data-zylo-kind="list" data-zylo-cap="59" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="493:3-498:5"
     ref={ref}
     data-sidebar="menu"
     className={cn("flex w-full min-w-0 flex-col gap-1", className)}
@@ -503,7 +503,7 @@ const SidebarMenuItem = React.forwardRef<
   HTMLLIElement,
   React.ComponentProps<"li">
 >(({ className, ...props }, ref) => (
-  <li
+  <li data-zylo-id="zylo-a917a09df766" data-zylo-kind="list" data-zylo-cap="59" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="506:3-511:5"
     ref={ref}
     data-sidebar="menu-item"
     className={cn("group/menu-item relative", className)}
@@ -558,7 +558,7 @@ const SidebarMenuButton = React.forwardRef<
     const { isMobile, state } = useSidebar()
 
     const button = (
-      <Comp
+      <Comp data-zylo-id="zylo-e853475dbd00" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="561:7-568:9"
         ref={ref}
         data-sidebar="menu-button"
         data-size={size}
@@ -579,9 +579,9 @@ const SidebarMenuButton = React.forwardRef<
     }
 
     return (
-      <Tooltip>
-        <TooltipTrigger asChild>{button}</TooltipTrigger>
-        <TooltipContent
+      <Tooltip data-zylo-id="zylo-4ed5a3ac3d7f" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="582:7-590:17">
+        <TooltipTrigger data-zylo-id="zylo-e1e2612bf817" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="583:9-583:58" asChild>{button}</TooltipTrigger>
+        <TooltipContent data-zylo-id="zylo-35f319d06e2c" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="584:9-589:11"
           side="right"
           align="center"
           hidden={state !== "collapsed" || isMobile}
@@ -603,7 +603,7 @@ const SidebarMenuAction = React.forwardRef<
   const Comp = asChild ? Slot : "button"
 
   return (
-    <Comp
+    <Comp data-zylo-id="zylo-c169af5d32cd" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="606:5-622:7"
       ref={ref}
       data-sidebar="menu-action"
       className={cn(
@@ -628,7 +628,7 @@ const SidebarMenuBadge = React.forwardRef<
   HTMLDivElement,
   React.ComponentProps<"div">
 >(({ className, ...props }, ref) => (
-  <div
+  <div data-zylo-id="zylo-f4f52dfcf5d7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="631:3-644:5"
     ref={ref}
     data-sidebar="menu-badge"
     className={cn(
@@ -657,19 +657,19 @@ const SidebarMenuSkeleton = React.forwardRef<
   }, [])
 
   return (
-    <div
+    <div data-zylo-id="zylo-03b5742e6824" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="660:5-681:11"
       ref={ref}
       data-sidebar="menu-skeleton"
       className={cn("rounded-md h-8 flex gap-2 px-2 items-center", className)}
       {...props}
     >
       {showIcon && (
-        <Skeleton
+        <Skeleton data-zylo-id="zylo-1356ea49e3d7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="667:9-670:11"
           className="size-4 rounded-md"
           data-sidebar="menu-skeleton-icon"
         />
       )}
-      <Skeleton
+      <Skeleton data-zylo-id="zylo-afa1255bdfb7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="672:7-680:9"
         className="h-4 flex-1 max-w-[--skeleton-width]"
         data-sidebar="menu-skeleton-text"
         style={
@@ -687,7 +687,7 @@ const SidebarMenuSub = React.forwardRef<
   HTMLUListElement,
   React.ComponentProps<"ul">
 >(({ className, ...props }, ref) => (
-  <ul
+  <ul data-zylo-id="zylo-5b644111eec6" data-zylo-kind="list" data-zylo-cap="59" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="690:3-699:5"
     ref={ref}
     data-sidebar="menu-sub"
     className={cn(
@@ -703,7 +703,7 @@ SidebarMenuSub.displayName = "SidebarMenuSub"
 const SidebarMenuSubItem = React.forwardRef<
   HTMLLIElement,
   React.ComponentProps<"li">
->(({ ...props }, ref) => <li ref={ref} {...props} />)
+>(({ ...props }, ref) => <li data-zylo-id="zylo-f31201ab11c2" data-zylo-kind="list" data-zylo-cap="59" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="706:26-706:53" ref={ref} {...props} />)
 SidebarMenuSubItem.displayName = "SidebarMenuSubItem"
 
 const SidebarMenuSubButton = React.forwardRef<
@@ -717,7 +717,7 @@ const SidebarMenuSubButton = React.forwardRef<
   const Comp = asChild ? Slot : "a"
 
   return (
-    <Comp
+    <Comp data-zylo-id="zylo-28d1bddb0371" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sidebar.tsx" data-zylo-loc="720:5-734:7"
       ref={ref}
       data-sidebar="menu-sub-button"
       data-size={size}

@@ -11,7 +11,7 @@ const HoverCardContent = React.forwardRef<
   React.ElementRef<typeof HoverCardPrimitive.Content>,
   React.ComponentPropsWithoutRef<typeof HoverCardPrimitive.Content>
 >(({ className, align = "center", sideOffset = 4, ...props }, ref) => (
-  <HoverCardPrimitive.Content
+  <HoverCardPrimitive.Content data-zylo-id="zylo-9950df2b6fa0" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/hover-card.tsx" data-zylo-loc="14:3-23:5"
     ref={ref}
     align={align}
     sideOffset={sideOffset}

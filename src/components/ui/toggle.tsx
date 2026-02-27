@@ -31,7 +31,7 @@ const Toggle = React.forwardRef<
   React.ComponentPropsWithoutRef<typeof TogglePrimitive.Root> &
     VariantProps<typeof toggleVariants>
 >(({ className, variant, size, ...props }, ref) => (
-  <TogglePrimitive.Root
+  <TogglePrimitive.Root data-zylo-id="zylo-679b1a4310fa" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/toggle.tsx" data-zylo-loc="34:3-38:5"
     ref={ref}
     className={cn(toggleVariants({ variant, size, className }))}
     {...props}

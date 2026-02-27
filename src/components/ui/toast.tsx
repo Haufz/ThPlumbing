@@ -11,7 +11,7 @@ const ToastViewport = React.forwardRef<
   React.ElementRef<typeof ToastPrimitives.Viewport>,
   React.ComponentPropsWithoutRef<typeof ToastPrimitives.Viewport>
 >(({ className, ...props }, ref) => (
-  <ToastPrimitives.Viewport
+  <ToastPrimitives.Viewport data-zylo-id="zylo-82fbf6cda582" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="14:3-21:5"
     ref={ref}
     className={cn(
       "fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-w-[420px]",
@@ -44,7 +44,7 @@ const Toast = React.forwardRef<
     VariantProps<typeof toastVariants>
 >(({ className, variant, ...props }, ref) => {
   return (
-    <ToastPrimitives.Root
+    <ToastPrimitives.Root data-zylo-id="zylo-3019d7034b79" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="47:5-51:7"
       ref={ref}
       className={cn(toastVariants({ variant }), className)}
       {...props}
@@ -57,7 +57,7 @@ const ToastAction = React.forwardRef<
   React.ElementRef<typeof ToastPrimitives.Action>,
   React.ComponentPropsWithoutRef<typeof ToastPrimitives.Action>
 >(({ className, ...props }, ref) => (
-  <ToastPrimitives.Action
+  <ToastPrimitives.Action data-zylo-id="zylo-e9519e4fef94" data-zylo-kind="button" data-zylo-cap="126" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="60:3-67:5"
     ref={ref}
     className={cn(
       "inline-flex h-8 shrink-0 items-center justify-center rounded-md border bg-transparent px-3 text-sm font-medium ring-offset-background transition-colors hover:bg-secondary focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 group-[.destructive]:border-muted/40 group-[.destructive]:hover:border-destructive/30 group-[.destructive]:hover:bg-destructive group-[.destructive]:hover:text-destructive-foreground group-[.destructive]:focus:ring-destructive",
@@ -72,7 +72,7 @@ const ToastClose = React.forwardRef<
   React.ElementRef<typeof ToastPrimitives.Close>,
   React.ComponentPropsWithoutRef<typeof ToastPrimitives.Close>
 >(({ className, ...props }, ref) => (
-  <ToastPrimitives.Close
+  <ToastPrimitives.Close data-zylo-id="zylo-5e93e7afe5a7" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="75:3-85:27"
     ref={ref}
     className={cn(
       "absolute right-2 top-2 rounded-md p-1 text-foreground/50 opacity-0 transition-opacity hover:text-foreground focus:opacity-100 focus:outline-none focus:ring-2 group-hover:opacity-100 group-[.destructive]:text-red-300 group-[.destructive]:hover:text-red-50 group-[.destructive]:focus:ring-red-400 group-[.destructive]:focus:ring-offset-red-600",
@@ -81,7 +81,7 @@ const ToastClose = React.forwardRef<
     toast-close=""
     {...props}
   >
-    <X className="h-4 w-4" />
+    <X data-zylo-id="zylo-90fb89eaeef8" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="84:5-84:30" className="h-4 w-4" />
   </ToastPrimitives.Close>
 ))
 ToastClose.displayName = ToastPrimitives.Close.displayName
@@ -90,7 +90,7 @@ const ToastTitle = React.forwardRef<
   React.ElementRef<typeof ToastPrimitives.Title>,
   React.ComponentPropsWithoutRef<typeof ToastPrimitives.Title>
 >(({ className, ...props }, ref) => (
-  <ToastPrimitives.Title
+  <ToastPrimitives.Title data-zylo-id="zylo-cff07b28b0cb" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="93:3-97:5"
     ref={ref}
     className={cn("text-sm font-semibold", className)}
     {...props}
@@ -102,7 +102,7 @@ const ToastDescription = React.forwardRef<
   React.ElementRef<typeof ToastPrimitives.Description>,
   React.ComponentPropsWithoutRef<typeof ToastPrimitives.Description>
 >(({ className, ...props }, ref) => (
-  <ToastPrimitives.Description
+  <ToastPrimitives.Description data-zylo-id="zylo-71a2d88869c2" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/toast.tsx" data-zylo-loc="105:3-109:5"
     ref={ref}
     className={cn("text-sm opacity-90", className)}
     {...props}

@@ -17,7 +17,7 @@ const SheetOverlay = React.forwardRef<
   React.ElementRef<typeof SheetPrimitive.Overlay>,
   React.ComponentPropsWithoutRef<typeof SheetPrimitive.Overlay>
 >(({ className, ...props }, ref) => (
-  <SheetPrimitive.Overlay
+  <SheetPrimitive.Overlay data-zylo-id="zylo-1399c32fe62a" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="20:3-27:5"
     className={cn(
       "fixed inset-0 z-50 bg-black/80  data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0",
       className
@@ -55,17 +55,17 @@ const SheetContent = React.forwardRef<
   React.ElementRef<typeof SheetPrimitive.Content>,
   SheetContentProps
 >(({ side = "right", className, children, ...props }, ref) => (
-  <SheetPortal>
-    <SheetOverlay />
-    <SheetPrimitive.Content
+  <SheetPortal data-zylo-id="zylo-632aac6465c9" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="58:3-71:17">
+    <SheetOverlay data-zylo-id="zylo-0b8ef77ffd3b" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="59:5-59:21" />
+    <SheetPrimitive.Content data-zylo-id="zylo-ea7b59c570a6" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="60:5-70:30"
       ref={ref}
       className={cn(sheetVariants({ side }), className)}
       {...props}
     >
       {children}
-      <SheetPrimitive.Close className="absolute right-4 top-4 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none data-[state=open]:bg-secondary">
-        <X className="h-4 w-4" />
-        <span className="sr-only">Close</span>
+      <SheetPrimitive.Close data-zylo-id="zylo-818f286d2995" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="66:7-69:30" className="absolute right-4 top-4 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:pointer-events-none data-[state=open]:bg-secondary">
+        <X data-zylo-id="zylo-c43876a0b840" data-zylo-kind="icon" data-zylo-cap="86" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="67:9-67:34" className="h-4 w-4" />
+        <span data-zylo-id="zylo-02479ee68dc4" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="68:9-68:47" className="sr-only">Close</span>
       </SheetPrimitive.Close>
     </SheetPrimitive.Content>
   </SheetPortal>
@@ -76,7 +76,7 @@ const SheetHeader = ({
   className,
   ...props
 }: React.HTMLAttributes<HTMLDivElement>) => (
-  <div
+  <div data-zylo-id="zylo-4aacb82d0b45" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="79:3-85:5" data-zylo-component="SheetHeader"
     className={cn(
       "flex flex-col space-y-2 text-center sm:text-left",
       className
@@ -90,7 +90,7 @@ const SheetFooter = ({
   className,
   ...props
 }: React.HTMLAttributes<HTMLDivElement>) => (
-  <div
+  <div data-zylo-id="zylo-962c6df94e16" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="93:3-99:5" data-zylo-component="SheetFooter"
     className={cn(
       "flex flex-col-reverse sm:flex-row sm:justify-end sm:space-x-2",
       className
@@ -104,7 +104,7 @@ const SheetTitle = React.forwardRef<
   React.ElementRef<typeof SheetPrimitive.Title>,
   React.ComponentPropsWithoutRef<typeof SheetPrimitive.Title>
 >(({ className, ...props }, ref) => (
-  <SheetPrimitive.Title
+  <SheetPrimitive.Title data-zylo-id="zylo-2fa7a5870c70" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="107:3-111:5"
     ref={ref}
     className={cn("text-lg font-semibold text-foreground", className)}
     {...props}
@@ -116,7 +116,7 @@ const SheetDescription = React.forwardRef<
   React.ElementRef<typeof SheetPrimitive.Description>,
   React.ComponentPropsWithoutRef<typeof SheetPrimitive.Description>
 >(({ className, ...props }, ref) => (
-  <SheetPrimitive.Description
+  <SheetPrimitive.Description data-zylo-id="zylo-b859638d2a9c" data-zylo-kind="text" data-zylo-cap="282" data-zylo-file="src/components/ui/sheet.tsx" data-zylo-loc="119:3-123:5"
     ref={ref}
     className={cn("text-sm text-muted-foreground", className)}
     {...props}

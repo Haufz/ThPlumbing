@@ -29,7 +29,7 @@ export interface BadgeProps
 
 function Badge({ className, variant, ...props }: BadgeProps) {
   return (
-    <div className={cn(badgeVariants({ variant }), className)} {...props} />
+    <div data-zylo-id="zylo-e4c3d8a2dc8a" data-zylo-kind="container" data-zylo-cap="247" data-zylo-file="src/components/ui/badge.tsx" data-zylo-loc="32:5-32:77" data-zylo-component="Badge" className={cn(badgeVariants({ variant }), className)} {...props} />
   )
 }
 
