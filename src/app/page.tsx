@@ -294,7 +294,7 @@ function ServicesSection() {
               className="card-hover rounded-lg border border-border bg-white p-6 shadow-sm"
             >
               <div className="mb-4 flex justify-center">{service.icon}</div>
-              <h3 className="mb-2 text-center font-semibold text-primary">Prompt Turnaround Repairs</h3>
+              <h3 className="mb-2 text-center font-semibold text-primary">{service.title}</h3>
               <p className="text-center text-sm text-muted-foreground">{service.description}</p>
             </div>
           ))}
@@ -349,12 +349,12 @@ function ReviewsSection() {
   const reviews = [
     {
       text: 'Top quality at affordable rates.',
-      author: 'Happy Customer',
+      author: 'Patrick Murray',
       rating: 5,
     },
     {
       text: 'They are prompt, clean and well priced!',
-      author: 'Satisfied Client',
+      author: 'Gregg T',
       rating: 5,
     },
   ];
@@ -380,7 +380,7 @@ function ReviewsSection() {
               <p className="mb-4 text-lg font-medium text-foreground">"{review.text}"</p>
 
               {/* Author */}
-              <p className="text-sm font-semibold text-primary">Patrick Murray</p>
+              <p className="text-sm font-semibold text-primary">{review.author}</p>
 
               {/* Google Badge */}
               <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1">
