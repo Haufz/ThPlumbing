@@ -380,7 +380,7 @@ function ReviewsSection() {
               <p className="mb-4 text-lg font-medium text-foreground">"{review.text}"</p>
 
               {/* Author */}
-              <p className="text-sm font-semibold text-primary">Gregg T</p>
+              <p className="text-sm font-semibold text-primary">Patrick Murray</p>
 
               {/* Google Badge */}
               <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1">
