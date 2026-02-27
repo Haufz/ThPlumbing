@@ -113,7 +113,7 @@ function HeroSection() {
       {/* Content */}
       <div className="relative z-10 flex min-h-screen items-center justify-center px-4">
         <div className="max-w-3xl text-center text-white">
-          <h1 className="mb-4 text-5xl font-extrabold leading-tight text-orange-500 sm:text-6xl lg:text-7xl drop-shadow-lg">
+          <h1 className="mb-4 font-extrabold leading-tight sm:text-6xl lg:text-7xl drop-shadow-lg text-[#ffffff]">
             Affordable & Reliable Plumbing You Can Trust
           </h1>
           <p className="mb-8 text-lg sm:text-xl lg:text-2xl">
@@ -294,7 +294,7 @@ function ServicesSection() {
               className="card-hover rounded-lg border border-border bg-white p-6 shadow-sm"
             >
               <div className="mb-4 flex justify-center">{service.icon}</div>
-              <h3 className="mb-2 text-center font-semibold text-primary">{service.title}</h3>
+              <h3 className="mb-2 text-center font-semibold text-primary">Prompt Turnaround Repairs</h3>
               <p className="text-center text-sm text-muted-foreground">{service.description}</p>
             </div>
           ))}
@@ -380,7 +380,7 @@ function ReviewsSection() {
               <p className="mb-4 text-lg font-medium text-foreground">"{review.text}"</p>
 
               {/* Author */}
-              <p className="text-sm font-semibold text-primary">{review.author}</p>
+              <p className="text-sm font-semibold text-primary">Gregg T</p>
 
               {/* Google Badge */}
               <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1">
