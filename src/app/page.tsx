@@ -404,23 +404,48 @@ function ContactSection() {
     message: '',
   });
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState(false);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     // Client-side validation
     if (!formData.name || !formData.email || !formData.phone) {
       alert('Please fill in all required fields');
       return;
     }
-    // Show success message
-    setSubmitted(true);
-    setFormData({ name: '', email: '', phone: '', service: '', message: '' });
-    setTimeout(() => setSubmitted(false), 3000);
+    setSubmitting(true);
+    setError(false);
+    try {
+      const res = await fetch('https://formsubmit.co/ajax/thplumbing13@yahoo.com', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          _subject: `New quote request from ${formData.name}`,
+          Name: formData.name,
+          Email: formData.email,
+          Phone: formData.phone,
+          Service: formData.service || 'Not specified',
+          Message: formData.message || 'No message provided',
+        }),
+      });
+      if (!res.ok) throw new Error('Failed to send');
+      setSubmitted(true);
+      setFormData({ name: '', email: '', phone: '', service: '', message: '' });
+      setTimeout(() => setSubmitted(false), 5000);
+    } catch {
+      setError(true);
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (
@@ -456,8 +481,8 @@ function ContactSection() {
               <Mail className="h-6 w-6 flex-shrink-0 text-secondary" />
               <div>
                 <h3 className="font-semibold text-primary">Email</h3>
-                <a href="mailto:thplumbing13@yahoo.net" className="text-lg font-bold text-secondary hover:underline">
-                  thplumbing13@yahoo.net
+                <a href="mailto:thplumbing13@yahoo.com" className="text-lg font-bold text-secondary hover:underline">
+                  thplumbing13@yahoo.com
                 </a>
               </div>
             </div>
@@ -549,9 +574,16 @@ function ContactSection() {
                 </div>
 
                 {/* Submit Button */}
-                <button type="submit" className="btn-primary w-full">
-                  Get a Free Quote
+                <button type="submit" disabled={submitting} className="btn-primary w-full disabled:opacity-60">
+                  {submitting ? 'Sending...' : 'Get a Free Quote'}
                 </button>
+
+                {error && (
+                  <p className="text-center text-sm text-red-600">
+                    Something went wrong sending your request. Please call us at{' '}
+                    <a href="tel:610-746-2206" className="font-semibold underline">610-746-2206</a> instead.
+                  </p>
+                )}
               </form>
             )}
           </div>
@@ -588,8 +620,8 @@ function Footer() {
                 </a>
               </p>
               <p>
-                <a href="mailto:thplumbing13@yahoo.net" className="hover:text-secondary">
-                  📧 thplumbing13@yahoo.net
+                <a href="mailto:thplumbing13@yahoo.com" className="hover:text-secondary">
+                  📧 thplumbing13@yahoo.com
                 </a>
               </p>
               <p>Lehigh Valley & Surrounding Areas</p>
